@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:30:46Z",
+            "last_commit": "2026-08-15T11:38:04Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17865
+            "stars": 17867
           }
         },
         {
@@ -103,10 +103,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:30:46Z",
+            "last_commit": "2026-08-15T11:38:04Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17865
+            "stars": 17867
           }
         },
         {
@@ -241,10 +241,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:30:46Z",
+            "last_commit": "2026-08-15T11:38:04Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17865
+            "stars": 17867
           }
         },
         {
@@ -467,10 +467,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-14T19:30:46Z",
+            "last_commit": "2026-08-15T11:38:04Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17865
+            "stars": 17867
           }
         },
         {
@@ -1299,10 +1299,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T23:02:45Z",
+            "last_commit": "2026-08-15T02:25:39Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77654
+            "stars": 77652
           }
         },
         {
@@ -1952,7 +1952,7 @@
             "last_commit": "2026-08-01T21:36:15Z",
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12667
+            "stars": 12669
           }
         },
         {
@@ -1974,7 +1974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T21:11:42.128Z",
+    "last_updated": "2026-08-15T21:03:17.989Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
     "enhanced_repository": "enhansome/enhansome-image-classification",
