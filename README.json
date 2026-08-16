@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T11:38:04Z",
+            "last_commit": "2026-08-16T11:38:26Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17867
+            "stars": 17868
           }
         },
         {
@@ -103,10 +103,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T11:38:04Z",
+            "last_commit": "2026-08-16T11:38:26Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17867
+            "stars": 17868
           }
         },
         {
@@ -241,10 +241,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T11:38:04Z",
+            "last_commit": "2026-08-16T11:38:26Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17867
+            "stars": 17868
           }
         },
         {
@@ -467,10 +467,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T11:38:04Z",
+            "last_commit": "2026-08-16T11:38:26Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17867
+            "stars": 17868
           }
         },
         {
@@ -1302,7 +1302,7 @@
             "last_commit": "2026-08-15T02:25:39Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77652
+            "stars": 77653
           }
         },
         {
@@ -1952,7 +1952,7 @@
             "last_commit": "2026-08-01T21:36:15Z",
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12669
+            "stars": 12670
           }
         },
         {
@@ -1974,7 +1974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:03:17.989Z",
+    "last_updated": "2026-08-16T21:02:06.354Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
     "enhanced_repository": "enhansome/enhansome-image-classification",
