@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T11:38:26Z",
+            "last_commit": "2026-08-17T20:53:31Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17868
+            "stars": 17869
           }
         },
         {
@@ -103,10 +103,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T11:38:26Z",
+            "last_commit": "2026-08-17T20:53:31Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17868
+            "stars": 17869
           }
         },
         {
@@ -241,10 +241,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T11:38:26Z",
+            "last_commit": "2026-08-17T20:53:31Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17868
+            "stars": 17869
           }
         },
         {
@@ -467,10 +467,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T11:38:26Z",
+            "last_commit": "2026-08-17T20:53:31Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17868
+            "stars": 17869
           }
         },
         {
@@ -1299,7 +1299,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-15T02:25:39Z",
+            "last_commit": "2026-08-17T18:48:47Z",
             "owner": "tensorflow",
             "repo": "models",
             "stars": 77653
@@ -1952,7 +1952,7 @@
             "last_commit": "2026-08-01T21:36:15Z",
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12670
+            "stars": 12671
           }
         },
         {
@@ -1974,7 +1974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T21:02:06.354Z",
+    "last_updated": "2026-08-17T21:12:08.262Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
     "enhanced_repository": "enhansome/enhansome-image-classification",
