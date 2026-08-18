@@ -21,10 +21,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:53:31Z",
+            "last_commit": "2026-08-18T20:39:33Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17869
+            "stars": 17872
           }
         },
         {
@@ -103,10 +103,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:53:31Z",
+            "last_commit": "2026-08-18T20:39:33Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17869
+            "stars": 17872
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2023-02-24T10:06:53Z",
             "owner": "kuangliu",
             "repo": "pytorch-cifar",
-            "stars": 6422
+            "stars": 6421
           }
         },
         {
@@ -241,10 +241,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:53:31Z",
+            "last_commit": "2026-08-18T20:39:33Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17869
+            "stars": 17872
           }
         },
         {
@@ -467,10 +467,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:53:31Z",
+            "last_commit": "2026-08-18T20:39:33Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17869
+            "stars": 17872
           }
         },
         {
@@ -1299,10 +1299,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:48:47Z",
+            "last_commit": "2026-08-17T23:06:28Z",
             "owner": "tensorflow",
             "repo": "models",
-            "stars": 77653
+            "stars": 77651
           }
         },
         {
@@ -1350,7 +1350,7 @@
             "last_commit": "2019-02-25T08:41:20Z",
             "owner": "hujie-frank",
             "repo": "SENet",
-            "stars": 3644
+            "stars": 3645
           }
         },
         {
@@ -1734,7 +1734,7 @@
             "last_commit": "2023-04-27T03:23:18Z",
             "owner": "xiaolai-sqlai",
             "repo": "mobilenetv3",
-            "stars": 1863
+            "stars": 1864
           }
         },
         {
@@ -1952,7 +1952,7 @@
             "last_commit": "2026-08-01T21:36:15Z",
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12671
+            "stars": 12673
           }
         },
         {
@@ -1974,7 +1974,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:12:08.262Z",
+    "last_updated": "2026-08-18T21:09:36.380Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
     "enhanced_repository": "enhansome/enhansome-image-classification",
