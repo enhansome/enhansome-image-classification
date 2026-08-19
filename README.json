@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:40:42Z",
+                "last_commit": "2026-08-19T21:02:42Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17872
@@ -103,7 +103,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:40:42Z",
+                "last_commit": "2026-08-19T21:02:42Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17872
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:40:42Z",
+                "last_commit": "2026-08-19T21:02:42Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17872
@@ -497,7 +497,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-19T11:40:42Z",
+                "last_commit": "2026-08-19T21:02:42Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17872
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:26.335Z",
+    "last_updated": "2026-08-19T21:12:14.919Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_id": 4420796,
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
