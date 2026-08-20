@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-19T21:02:42Z",
+                "last_commit": "2026-08-20T19:43:46Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17872
@@ -103,7 +103,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-19T21:02:42Z",
+                "last_commit": "2026-08-20T19:43:46Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17872
@@ -218,7 +218,7 @@
                 "last_commit": "2017-05-24T17:35:48Z",
                 "owner": "KaimingHe",
                 "repo": "resnet-1k-layers",
-                "stars": 937
+                "stars": 936
               }
             },
             {
@@ -252,7 +252,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-19T21:02:42Z",
+                "last_commit": "2026-08-20T19:43:46Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17872
@@ -497,7 +497,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-19T21:02:42Z",
+                "last_commit": "2026-08-20T19:43:46Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17872
@@ -619,7 +619,7 @@
                 "last_commit": "2018-08-16T19:33:50Z",
                 "owner": "bamos",
                 "repo": "densenet.pytorch",
-                "stars": 838
+                "stars": 839
               }
             },
             {
@@ -1399,7 +1399,7 @@
                 "last_commit": "2026-08-17T23:06:28Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77651
+                "stars": 77647
               }
             },
             {
@@ -1994,7 +1994,7 @@
                 "last_commit": "2022-04-08T12:30:25Z",
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8221
+                "stars": 8220
               }
             },
             {
@@ -2090,7 +2090,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12673
+                "stars": 12672
               }
             },
             {
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:12:14.919Z",
+    "last_updated": "2026-08-20T21:13:23.459Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_id": 4420796,
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
