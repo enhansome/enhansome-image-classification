@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-20T19:43:46Z",
+                "last_commit": "2026-08-21T11:41:22Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17872
+                "stars": 17873
               }
             },
             {
@@ -103,10 +103,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-20T19:43:46Z",
+                "last_commit": "2026-08-21T11:41:22Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17872
+                "stars": 17873
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2023-02-24T10:06:53Z",
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6422
+                "stars": 6421
               }
             },
             {
@@ -252,10 +252,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-20T19:43:46Z",
+                "last_commit": "2026-08-21T11:41:22Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17872
+                "stars": 17873
               }
             },
             {
@@ -497,10 +497,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-20T19:43:46Z",
+                "last_commit": "2026-08-21T11:41:22Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17872
+                "stars": 17873
               }
             },
             {
@@ -604,7 +604,7 @@
                 "last_commit": "2024-01-09T13:15:40Z",
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4868
+                "stars": 4869
               }
             },
             {
@@ -865,7 +865,7 @@
                 "last_commit": "2018-10-29T05:56:01Z",
                 "owner": "tengshaofeng",
                 "repo": "ResidualAttentionNetwork-pytorch",
-                "stars": 684
+                "stars": 685
               }
             },
             {
@@ -932,7 +932,7 @@
                 "last_commit": "2024-08-04T04:22:21Z",
                 "owner": "jfzhang95",
                 "repo": "pytorch-deeplab-xception",
-                "stars": 2999
+                "stars": 3000
               }
             },
             {
@@ -1396,10 +1396,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-17T23:06:28Z",
+                "last_commit": "2026-08-21T16:27:30Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77647
+                "stars": 77648
               }
             },
             {
@@ -1451,7 +1451,7 @@
                 "last_commit": "2019-02-25T08:41:20Z",
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3645
+                "stars": 3646
               }
             },
             {
@@ -1808,7 +1808,7 @@
                 "last_commit": "2021-01-03T02:21:40Z",
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3996
+                "stars": 3997
               }
             },
             {
@@ -2090,7 +2090,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12672
+                "stars": 12675
               }
             },
             {
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:13:23.459Z",
+    "last_updated": "2026-08-21T21:10:21.041Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_id": 4420796,
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
