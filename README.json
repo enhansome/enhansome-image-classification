@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-22T11:39:08Z",
+                "last_commit": "2026-08-23T11:39:01Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17874
+                "stars": 17875
               }
             },
             {
@@ -103,10 +103,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-22T11:39:08Z",
+                "last_commit": "2026-08-23T11:39:01Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17874
+                "stars": 17875
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2023-02-24T10:06:53Z",
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6422
+                "stars": 6423
               }
             },
             {
@@ -252,10 +252,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-22T11:39:08Z",
+                "last_commit": "2026-08-23T11:39:01Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17874
+                "stars": 17875
               }
             },
             {
@@ -497,10 +497,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-22T11:39:08Z",
+                "last_commit": "2026-08-23T11:39:01Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17874
+                "stars": 17875
               }
             },
             {
@@ -1399,7 +1399,7 @@
                 "last_commit": "2026-08-21T16:27:30Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77648
+                "stars": 77649
               }
             },
             {
@@ -1585,7 +1585,7 @@
                 "last_commit": "2023-03-09T03:46:12Z",
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2230
+                "stars": 2231
               }
             },
             {
@@ -1704,7 +1704,7 @@
                 "last_commit": "2023-03-09T03:46:12Z",
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2230
+                "stars": 2231
               }
             },
             {
@@ -1890,7 +1890,7 @@
                 "last_commit": "2023-03-08T04:53:24Z",
                 "owner": "d-li14",
                 "repo": "mobilenetv3.pytorch",
-                "stars": 597
+                "stars": 598
               }
             },
             {
@@ -2090,7 +2090,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12678
+                "stars": 12679
               }
             },
             {
@@ -2118,7 +2118,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:05:53.272Z",
+    "last_updated": "2026-08-23T21:03:34.921Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_id": 4420796,
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
