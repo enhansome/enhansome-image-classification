@@ -14,7 +14,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:42:14Z",
+                "last_commit": "2026-08-24T18:24:39Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17879
@@ -125,7 +125,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:42:14Z",
+                "last_commit": "2026-08-24T18:24:39Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17879
@@ -274,7 +274,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:42:14Z",
+                "last_commit": "2026-08-24T18:24:39Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17879
@@ -519,7 +519,7 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-24T11:42:14Z",
+                "last_commit": "2026-08-24T18:24:39Z",
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17879
@@ -2185,7 +2185,7 @@
                 "last_commit": "2022-04-08T12:30:25Z",
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8221
+                "stars": 8222
               }
             },
             {
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:00:34.298Z",
+    "last_updated": "2026-08-24T21:14:36.759Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_id": 4420796,
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
