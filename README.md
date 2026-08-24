@@ -1,8 +1,8 @@
 # Awesome - Image Classification with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,287 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,509 | 🐛 106 | 📅 2026-08-21
 
-A curated list of deep learning image classification papers and codes since 2014, Inspired by [awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,503 | 🐛 7 | 📅 2022-12-17, [deep\_learning\_object\_detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,386 | 🐛 5 | 🌐 Python | 📅 2024-02-12 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,179 | 🐛 37 | 🌐 TeX | 📅 2024-01-18.
+A curated list of deep learning image classification papers and codes since 2014, Inspired by [awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,504 | 🐛 7 | 📅 2022-12-17, [deep\_learning\_object\_detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,386 | 🐛 5 | 🌐 Python | 📅 2024-02-12 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,179 | 🐛 37 | 🌐 TeX | 📅 2024-01-18.
 
 ## Background
 
@@ -99,7 +99,7 @@ For simplicity reason, I only listed the best top1 and top5 accuracy on ImageNet
 **Very Deep Convolutional Networks for Large-Scale Image Recognition.**
 Karen Simonyan, Andrew Zisserman
 
-* code: [torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py](https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py) ⭐ 17,875 | 🐛 1,194 | 🌐 Python | 📅 2026-08-23
+* code: [torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py](https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py) ⭐ 17,879 | 🐛 1,192 | 🌐 Python | 📅 2026-08-24
 * code: [keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras\_applications/vgg16.py](https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py) ⚠️ Archived
 * code: [keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras\_applications/vgg19.py](https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py) ⚠️ Archived
 * pdf: <https://arxiv.org/abs/1409.1556>
@@ -118,15 +118,15 @@ Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir 
 **Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification**
 Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-* pdf: <https://arxiv.org/abs/1502.01852>
 * code: [unofficial-chainer : https://github.com/nutszebra/prelu\_net](https://github.com/nutszebra/prelu_net) ⭐ 11 | 🐛 1 | 🌐 Python | 📅 2017-02-02
+* pdf: <https://arxiv.org/abs/1502.01852>
 
 ### ResNet
 
 **Deep Residual Learning for Image Recognition**
 Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-* code: [torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py) ⭐ 17,875 | 🐛 1,194 | 🌐 Python | 📅 2026-08-23
+* code: [torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py](https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py) ⭐ 17,879 | 🐛 1,192 | 🌐 Python | 📅 2026-08-24
 * code: [facebook-torch : https://github.com/facebook/fb.resnet.torch](https://github.com/facebook/fb.resnet.torch) ⚠️ Archived
 * code: [keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras\_applications/resnet.py](https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet.py) ⚠️ Archived
 * code: [unofficial-tensorflow : https://github.com/ry/tensorflow-resnet](https://github.com/ry/tensorflow-resnet) ⚠️ Archived
@@ -149,7 +149,7 @@ Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 **Rethinking the Inception Architecture for Computer Vision**
 Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna
 
-* code: [torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/inception.py](https://github.com/pytorch/vision/blob/master/torchvision/models/inception.py) ⭐ 17,875 | 🐛 1,194 | 🌐 Python | 📅 2026-08-23
+* code: [torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/inception.py](https://github.com/pytorch/vision/blob/master/torchvision/models/inception.py) ⭐ 17,879 | 🐛 1,192 | 🌐 Python | 📅 2026-08-24
 * code: [keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras\_applications/inception\_v3.py](https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py) ⚠️ Archived
 * pdf: <https://arxiv.org/abs/1512.00567>
 
@@ -158,9 +158,9 @@ Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wo
 **Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning**
 Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, Alex Alemi
 
-* code: [unofficial-keras : https://github.com/kentsommer/keras-inceptionV4](https://github.com/kentsommer/keras-inceptionV4) ⭐ 468 | 🐛 2 | 🌐 Python | 📅 2017-09-10
+* code: [unofficial-keras : https://github.com/kentsommer/keras-inceptionV4](https://github.com/kentsommer/keras-inceptionV4) ⭐ 467 | 🐛 2 | 🌐 Python | 📅 2017-09-10
 * code: [unofficial-keras : https://github.com/titu1994/Inception-v4](https://github.com/titu1994/Inception-v4) ⭐ 388 | 🐛 4 | 🌐 Python | 📅 2017-09-07
-* code: [unofficial-keras : https://github.com/yuyang-huang/keras-inception-resnet-v2](https://github.com/yuyang-huang/keras-inception-resnet-v2) ⭐ 180 | 🐛 0 | 🌐 Python | 📅 2021-03-23
+* code: [unofficial-keras : https://github.com/yuyang-huang/keras-inception-resnet-v2](https://github.com/yuyang-huang/keras-inception-resnet-v2) ⭐ 179 | 🐛 0 | 🌐 Python | 📅 2021-03-23
 * pdf: <https://arxiv.org/abs/1602.07261>
 
 ### RiR
@@ -198,7 +198,7 @@ Sergey Zagoruyko, Nikos Komodakis
 **SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size**
 Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Dally, Kurt Keutzer
 
-* code: [torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/squeezenet.py](https://github.com/pytorch/vision/blob/master/torchvision/models/squeezenet.py) ⭐ 17,875 | 🐛 1,194 | 🌐 Python | 📅 2026-08-23
+* code: [torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/squeezenet.py](https://github.com/pytorch/vision/blob/master/torchvision/models/squeezenet.py) ⭐ 17,879 | 🐛 1,192 | 🌐 Python | 📅 2026-08-24
 * code: [unofficial-caffe : https://github.com/DeepScale/SqueezeNet](https://github.com/DeepScale/SqueezeNet) ⭐ 2,218 | 🐛 7 | 📅 2018-07-09
 * code: [unofficial-keras : https://github.com/rcmalli/keras-squeezenet](https://github.com/rcmalli/keras-squeezenet) ⭐ 405 | 🐛 21 | 🌐 Python | 📅 2023-02-24
 * code: [unofficial-caffe : https://github.com/songhan/SqueezeNet-Residual](https://github.com/songhan/SqueezeNet-Residual) ⭐ 155 | 🐛 2 | 🌐 CSS | 📅 2019-03-15
@@ -209,16 +209,16 @@ Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Da
 **Genetic CNN**
 Lingxi Xie, Alan Yuille
 
-* pdf: <https://arxiv.org/abs/1703.01513>
 * code: [unofficial-tensorflow : https://github.com/aqibsaeed/Genetic-CNN](https://github.com/aqibsaeed/Genetic-CNN) ⭐ 222 | 🐛 1 | 🌐 Python | 📅 2022-04-18
+* pdf: <https://arxiv.org/abs/1703.01513>
 
 ### MetaQNN
 
 **Designing Neural Network Architectures using Reinforcement Learning**
 Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar
 
-* pdf: <https://arxiv.org/abs/1611.02167>
 * code: [official : https://github.com/bowenbaker/metaqnn](https://github.com/bowenbaker/metaqnn) ⭐ 139 | 🐛 2 | 🌐 Python | 📅 2017-07-18
+* pdf: <https://arxiv.org/abs/1611.02167>
 
 ### PyramidNet
 
@@ -237,7 +237,7 @@ Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger
 * code: [official : https://github.com/liuzhuang13/DenseNet](https://github.com/liuzhuang13/DenseNet) ⭐ 4,869 | 🐛 30 | 🌐 Lua | 📅 2024-01-09
 * code: [unofficial-pytorch : https://github.com/bamos/densenet.pytorch](https://github.com/bamos/densenet.pytorch) ⭐ 839 | 🐛 7 | 🌐 Python | 📅 2018-08-16
 * code: [unofficial-keras : https://github.com/titu1994/DenseNet](https://github.com/titu1994/DenseNet) ⭐ 709 | 🐛 7 | 🌐 Python | 📅 2020-06-10
-* code: [unofficial-keras : https://github.com/flyyufelix/DenseNet-Keras](https://github.com/flyyufelix/DenseNet-Keras) ⭐ 565 | 🐛 15 | 🌐 Python | 📅 2019-10-12
+* code: [unofficial-keras : https://github.com/flyyufelix/DenseNet-Keras](https://github.com/flyyufelix/DenseNet-Keras) ⭐ 564 | 🐛 15 | 🌐 Python | 📅 2019-10-12
 * code: [unofficial-tensorflow : https://github.com/YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow) ⭐ 563 | 🐛 10 | 🌐 Python | 📅 2019-05-07
 * code: [unofficial-pytorch : https://github.com/YixuanLi/densenet-tensorflow](https://github.com/YixuanLi/densenet-tensorflow) ⭐ 563 | 🐛 10 | 🌐 Python | 📅 2019-05-07
 * code: [unofficial-caffe : https://github.com/shicai/DenseNet-Caffe](https://github.com/shicai/DenseNet-Caffe) ⭐ 361 | 🐛 17 | 📅 2019-08-29
@@ -271,8 +271,8 @@ Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He
 **Interleaved Group Convolutions for Deep Neural Networks**
 Ting Zhang, Guo-Jun Qi, Bin Xiao, Jingdong Wang
 
-* pdf: <https://arxiv.org/abs/1707.02725>
 * code [official : https://github.com/hellozting/InterleavedGroupConvolutions](https://github.com/hellozting/InterleavedGroupConvolutions) ⭐ 110 | 🐛 2 | 🌐 Python | 📅 2017-12-21
+* pdf: <https://arxiv.org/abs/1707.02725>
 
 ### Residual Attention Network
 
@@ -313,8 +313,8 @@ Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobia
 **PolyNet: A Pursuit of Structural Diversity in Very Deep Networks**
 Xingcheng Zhang, Zhizhong Li, Chen Change Loy, Dahua Lin
 
-* pdf: <https://arxiv.org/abs/1611.05725>
 * code: [official : https://github.com/open-mmlab/polynet](https://github.com/open-mmlab/polynet) ⭐ 80 | 🐛 4 | 📅 2017-07-23
+* pdf: <https://arxiv.org/abs/1611.05725>
 
 ### DPN
 
@@ -348,8 +348,8 @@ Chen Yunpeng, Jin Xiaojie, Kang Bingyi, Feng Jiashi, Yan Shuicheng
 **Deep Layer Aggregation**
 Fisher Yu, Dequan Wang, Evan Shelhamer, Trevor Darrell
 
-* pdf: <https://arxiv.org/abs/1707.06484>
 * code: [official-pytorch: https://github.com/ucbdrive/dla](https://github.com/ucbdrive/dla) ⭐ 440 | 🐛 17 | 🌐 Python | 📅 2022-01-04
+* pdf: <https://arxiv.org/abs/1707.06484>
 
 ### ShuffleNet
 
@@ -411,7 +411,7 @@ Hanxiao Liu, Karen Simonyan, Oriol Vinyals, Chrisantha Fernando, Koray Kavukcuog
 **Progressive Neural Architecture Search**
 Chenxi Liu, Barret Zoph, Maxim Neumann, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy
 
-* code: [tensorflow-slim : https://github.com/tensorflow/models/blob/master/research/slim/nets/nasnet/pnasnet.py](https://github.com/tensorflow/models/blob/master/research/slim/nets/nasnet/pnasnet.py) ⭐ 77,649 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21
+* code: [tensorflow-slim : https://github.com/tensorflow/models/blob/master/research/slim/nets/nasnet/pnasnet.py](https://github.com/tensorflow/models/blob/master/research/slim/nets/nasnet/pnasnet.py) ⭐ 77,648 | 🐛 1,273 | 🌐 Python | 📅 2026-08-21
 * code: [unofficial-pytorch : https://github.com/chenxi116/PNASNet.pytorch](https://github.com/chenxi116/PNASNet.pytorch) ⭐ 321 | 🐛 3 | 🌐 Python | 📅 2022-08-04
 * code: [unofficial-tensorflow : https://github.com/chenxi116/PNASNet.TF](https://github.com/chenxi116/PNASNet.TF) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2018-12-08
 * pdf: <https://arxiv.org/abs/1712.00559>
@@ -421,8 +421,8 @@ Chenxi Liu, Barret Zoph, Maxim Neumann, Jonathon Shlens, Wei Hua, Li-Jia Li, Li 
 **Regularized Evolution for Image Classifier Architecture Search**
 Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le
 
-* pdf: <https://arxiv.org/abs/1802.01548>
 * code: [tensorflow-tpu : https://github.com/tensorflow/tpu/tree/master/models/official/amoeba\_net](https://github.com/tensorflow/tpu/tree/master/models/official/amoeba_net) ⭐ 5,278 | 🐛 320 | 🌐 Jupyter Notebook | 📅 2026-06-22
+* pdf: <https://arxiv.org/abs/1802.01548>
 
 ### SENet
 
@@ -511,8 +511,8 @@ Hanxiao Liu, Karen Simonyan, Yiming Yang
 **ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware**
 Han Cai, Ligeng Zhu, Song Han
 
+* code: [official : https://github.com/mit-han-lab/ProxylessNAS](https://github.com/mit-han-lab/ProxylessNAS) ⭐ 1,447 | 🐛 2 | 🌐 C++ | 📅 2024-08-30
 * pdf: <https://arxiv.org/abs/1812.00332>
-* code: [official : https://github.com/mit-han-lab/ProxylessNAS](https://github.com/mit-han-lab/ProxylessNAS) ⭐ 1,446 | 🐛 2 | 🌐 C++ | 📅 2024-08-30
 
 ### MobileNetV3
 
@@ -542,8 +542,8 @@ Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip 
 **LIP: Local Importance-based Pooling**
 Ziteng Gao, Limin Wang, Gangshan Wu
 
-* pdf: <https://arxiv.org/abs/1908.04156>
 * code: [official-pytorch : https://github.com/sebgao/LIP](https://github.com/sebgao/LIP) ⭐ 225 | 🐛 0 | 🌐 Python | 📅 2021-09-29
+* pdf: <https://arxiv.org/abs/1908.04156>
 
 ### EfficientNet
 
@@ -559,24 +559,24 @@ Mingxing Tan, Quoc V. Le
 **Fixing the train-test resolution discrepancy**
 Hugo Touvron, Andrea Vedaldi, Matthijs Douze, Hervé Jégou
 
-* pdf: <https://arxiv.org/abs/1906.06423>
 * code: [official-pytorch : https://github.com/facebookresearch/FixRes](https://github.com/facebookresearch/FixRes) ⚠️ Archived
+* pdf: <https://arxiv.org/abs/1906.06423>
 
 ### BiT
 
 **Big Transfer (BiT): General Visual Representation Learning**
 Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Joan Puigcerver, Jessica Yung, Sylvain Gelly, Neil Houlsby
 
-* pdf: <https://arxiv.org/abs/1912.11370>
 * code: [official-tensorflow: https://github.com/google-research/big\_transfer](https://github.com/google-research/big_transfer) ⚠️ Archived
+* pdf: <https://arxiv.org/abs/1912.11370>
 
 ### PSConv + ResNext101
 
 **PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer**
 Duo Li1, Anbang Yao2B, and Qifeng Chen1B
 
-* pdf: <https://arxiv.org/abs/2007.06191>
 * code: <https://github.com/d-li14/PSConv> ⭐ 174 | 🐛 4 | 🌐 Python | 📅 2020-07-14
+* pdf: <https://arxiv.org/abs/2007.06191>
 
 ### NoisyStudent
 
@@ -601,8 +601,8 @@ Ilija Radosavovic, Raj Prateek Kosaraju, Ross Girshick, Kaiming He, Piotr Dollá
 **GhostNet: More Features from Cheap Operations**
 Kai Han, Yunhe Wang, Qi Tian, Jianyuan Guo, Chunjing Xu, Chang Xu
 
-* pdf: <https://arxiv.org/abs/1911.11907>
 * code: [official-pytorch: https://github.com/huawei-noah/ghostnet](https://github.com/huawei-noah/ghostnet) ⭐ 4,418 | 🐛 94 | 🌐 Python | 📅 2025-03-15
+* pdf: <https://arxiv.org/abs/1911.11907>
 
 ### ViT
 
@@ -618,72 +618,72 @@ Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua
 **Training data-efficient image transformers & distillation through attention**
 Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou
 
-* pdf: <https://arxiv.org/abs/2012.12877>
 * code: [official-pytorch: https://github.com/facebookresearch/deit](https://github.com/facebookresearch/deit) ⚠️ Archived
+* pdf: <https://arxiv.org/abs/2012.12877>
 
 ### PVT
 
 **Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions**
 Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao
 
-* pdf: <https://arxiv.org/abs/2102.12122>
 * code: [official-pytorch: https://github.com/whai362/PVT](https://github.com/whai362/PVT) ⭐ 1,900 | 🐛 41 | 🌐 Python | 📅 2022-10-27
+* pdf: <https://arxiv.org/abs/2102.12122>
 
 ### T2T
 
 **Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet**
 Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Zihang Jiang, Francis EH Tay, Jiashi Feng, Shuicheng Yan
 
-* pdf: <https://arxiv.org/abs/2101.11986>
 * code: [official-pytorch: https://github.com/yitu-opensource/T2T-ViT](https://github.com/yitu-opensource/T2T-ViT) ⭐ 1,191 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2023-10-27
+* pdf: <https://arxiv.org/abs/2101.11986>
 
 ### DeepVit
 
 **DeepViT: Towards Deeper Vision Transformer**
 Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Zihang Jiang, Qibin Hou, and Jiashi Feng.
 
-* pdf: <https://arxiv.org/abs/2103.11886>
 * code: [official-pytorch: https://github.com/zhoudaquan/dvit\_repo](https://github.com/zhoudaquan/dvit_repo) ⭐ 141 | 🐛 12 | 🌐 Python | 📅 2021-12-18
+* pdf: <https://arxiv.org/abs/2103.11886>
 
 ### ViL
 
 **Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding**
 Pengchuan Zhang, Xiyang Dai, Jianwei Yang, Bin Xiao, Lu Yuan, Lei Zhang, Jianfeng Gao
 
-* pdf: <https://arxiv.org/abs/2103.15358>
 * code: [official-pytorch: https://github.com/microsoft/vision-longformer](https://github.com/microsoft/vision-longformer) ⭐ 249 | 🐛 8 | 🌐 Python | 📅 2022-03-16
+* pdf: <https://arxiv.org/abs/2103.15358>
 
 ### TNT
 
 **Transformer in Transformer**
 Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang
 
-* pdf: <https://arxiv.org/abs/2103.00112>
 * code: <https://github.com/huawei-noah/CV-Backbones> ⭐ 4,418 | 🐛 94 | 🌐 Python | 📅 2025-03-15
+* pdf: <https://arxiv.org/abs/2103.00112>
 
 ### CvT
 
 **CvT: Introducing Convolutions to Vision Transformers**
 Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang
 
-* pdf: <https://arxiv.org/abs/2103.15808>
 * code: <https://github.com/microsoft/CvT> ⭐ 606 | 🐛 22 | 🌐 Python | 📅 2023-05-16
+* pdf: <https://arxiv.org/abs/2103.15808>
 
 ### CViT
 
 **CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification**
 Chun-Fu (Richard) Chen, Quanfu Fan, Rameswar Panda
 
-* pdf: <https://arxiv.org/abs/2103.14899>
 * code: <https://github.com/IBM/CrossViT> ⚠️ Archived
+* pdf: <https://arxiv.org/abs/2103.14899>
 
 ### Focal-T
 
 **Focal Attention for Long-Range Interactions in Vision Transformers**
 Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianfeng Gao
 
-* pdf: <https://arxiv.org/abs/2107.00641>
 * code: [ https://github.com/microsoft/Focal-Transformer](https://github.com/microsoft/Focal-Transformer) ⭐ 559 | 🐛 18 | 🌐 Python | 📅 2022-03-27
+* pdf: <https://arxiv.org/abs/2107.00641>
 
 ### Twins
 
@@ -696,9 +696,9 @@ Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianf
 
 **Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao**
 
-* pdf: <https://arxiv.org/abs/2106.13797>
 * code: [official-pytorch: https://github.com/whai362/PVT](https://github.com/whai362/PVT) ⭐ 1,900 | 🐛 41 | 🌐 Python | 📅 2022-10-27
+* pdf: <https://arxiv.org/abs/2106.13797>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._

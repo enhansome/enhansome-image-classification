@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-23T11:39:01Z",
+                "last_commit": "2026-08-24T11:42:14Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17875
+                "stars": 17879
               }
             },
             {
@@ -96,6 +96,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "code: unofficial-chainer : https://github.com/nutszebra/prelu_net",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76662139,
+                "language": "Python",
+                "last_commit": "2017-02-02T06:20:29Z",
+                "owner": "nutszebra",
+                "repo": "prelu_net",
+                "stars": 11
+              }
+            }
+          ],
+          "description": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun",
+          "node_type": "group",
+          "title": "PReLU-nets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "code: torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py",
               "description": null,
               "children": [],
@@ -103,10 +125,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-23T11:39:01Z",
+                "last_commit": "2026-08-24T11:42:14Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17875
+                "stars": 17879
               }
             },
             {
@@ -121,7 +143,7 @@
                 "last_commit": "2022-08-24T15:23:59Z",
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2361
+                "stars": 2360
               }
             },
             {
@@ -203,7 +225,7 @@
                 "last_commit": "2022-08-24T15:23:59Z",
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2361
+                "stars": 2360
               }
             },
             {
@@ -252,10 +274,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-23T11:39:01Z",
+                "last_commit": "2026-08-24T11:42:14Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17875
+                "stars": 17879
               }
             },
             {
@@ -292,7 +314,7 @@
                 "last_commit": "2017-09-10T05:47:38Z",
                 "owner": "kentsommer",
                 "repo": "keras-inceptionV4",
-                "stars": 468
+                "stars": 467
               }
             },
             {
@@ -322,7 +344,7 @@
                 "last_commit": "2021-03-23T08:30:26Z",
                 "owner": "yuyang-huang",
                 "repo": "keras-inception-resnet-v2",
-                "stars": 180
+                "stars": 179
               }
             }
           ],
@@ -497,10 +519,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-23T11:39:01Z",
+                "last_commit": "2026-08-24T11:42:14Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17875
+                "stars": 17879
               }
             },
             {
@@ -552,6 +574,50 @@
           "description": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Dally, Kurt Keutzer",
           "node_type": "group",
           "title": "SqueezeNet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: unofficial-tensorflow : https://github.com/aqibsaeed/Genetic-CNN",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84612893,
+                "language": "Python",
+                "last_commit": "2022-04-18T23:11:53Z",
+                "owner": "aqibsaeed",
+                "repo": "Genetic-CNN",
+                "stars": 222
+              }
+            }
+          ],
+          "description": "Genetic CNN Lingxi Xie, Alan Yuille",
+          "node_type": "group",
+          "title": "GeNet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: official : https://github.com/bowenbaker/metaqnn",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72878913,
+                "language": "Python",
+                "last_commit": "2017-07-18T16:09:54Z",
+                "owner": "bowenbaker",
+                "repo": "metaqnn",
+                "stars": 139
+              }
+            }
+          ],
+          "description": "Designing Neural Network Architectures using Reinforcement Learning Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar",
+          "node_type": "group",
+          "title": "MetaQNN"
         },
         {
           "children": [
@@ -649,7 +715,7 @@
                 "last_commit": "2019-10-12T18:53:41Z",
                 "owner": "flyyufelix",
                 "repo": "DenseNet-Keras",
-                "stars": 565
+                "stars": 564
               }
             },
             {
@@ -783,7 +849,7 @@
                 "last_commit": "2020-01-14T19:58:44Z",
                 "owner": "facebookresearch",
                 "repo": "ResNeXt",
-                "stars": 1925
+                "stars": 1924
               }
             },
             {
@@ -850,6 +916,28 @@
           "description": "Aggregated Residual Transformations for Deep Neural Networks Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He",
           "node_type": "group",
           "title": "ResNext"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code official : https://github.com/hellozting/InterleavedGroupConvolutions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99637330,
+                "language": "Python",
+                "last_commit": "2017-12-21T02:13:32Z",
+                "owner": "hellozting",
+                "repo": "InterleavedGroupConvolutions",
+                "stars": 110
+              }
+            }
+          ],
+          "description": "Interleaved Group Convolutions for Deep Neural Networks Ting Zhang, Guo-Jun Qi, Bin Xiao, Jingdong Wang",
+          "node_type": "group",
+          "title": "IGCV1"
         },
         {
           "children": [
@@ -1056,6 +1144,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "code: official : https://github.com/open-mmlab/polynet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87809975,
+                "language": null,
+                "last_commit": "2017-07-23T07:37:53Z",
+                "owner": "MMLab-CU",
+                "repo": "polynet",
+                "stars": 80
+              }
+            }
+          ],
+          "description": "PolyNet: A Pursuit of Structural Diversity in Very Deep Networks Xingcheng Zhang, Zhizhong Li, Chen Change Loy, Dahua Lin",
+          "node_type": "group",
+          "title": "PolyNet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "code: official : https://github.com/cypw/DPNs",
               "description": null,
               "children": [],
@@ -1162,6 +1272,21 @@
     {
       "description": "Deep Layer Aggregation Fisher Yu, Dequan Wang, Evan Shelhamer, Trevor Darrell",
       "items": [
+        {
+          "node_type": "item",
+          "title": "code: official-pytorch: https://github.com/ucbdrive/dla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137942993,
+            "language": "Python",
+            "last_commit": "2022-01-04T12:15:27Z",
+            "owner": "ucbdrive",
+            "repo": "dla",
+            "stars": 440
+          }
+        },
         {
           "children": [
             {
@@ -1399,7 +1524,7 @@
                 "last_commit": "2026-08-21T16:27:30Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77649
+                "stars": 77648
               }
             },
             {
@@ -1436,6 +1561,28 @@
           "description": "Progressive Neural Architecture Search Chenxi Liu, Barret Zoph, Maxim Neumann, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy",
           "node_type": "group",
           "title": "PNasNet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: tensorflow-tpu : https://github.com/tensorflow/tpu/tree/master/models/official/amoeba_net",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96946693,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-22T19:40:55Z",
+                "owner": "tensorflow",
+                "repo": "tpu",
+                "stars": 5278
+              }
+            }
+          ],
+          "description": "Regularized Evolution for Image Classifier Architecture Search Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le",
+          "node_type": "group",
+          "title": "AmoebaNet"
         },
         {
           "children": [
@@ -1850,6 +1997,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "code: official : https://github.com/mit-han-lab/ProxylessNAS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159995467,
+                "language": "C++",
+                "last_commit": "2024-08-30T23:51:21Z",
+                "owner": "mit-han-lab",
+                "repo": "proxylessnas",
+                "stars": 1447
+              }
+            }
+          ],
+          "description": "ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware Han Cai, Ligeng Zhu, Song Han",
+          "node_type": "group",
+          "title": "ProxylessNAS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/xiaolai-sqlai/mobilenetv3",
               "description": null,
               "children": [],
@@ -1984,6 +2153,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "code: official-pytorch : https://github.com/sebgao/LIP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 201045957,
+                "language": "Python",
+                "last_commit": "2021-09-29T17:01:19Z",
+                "owner": "sebgao",
+                "repo": "LIP",
+                "stars": 225
+              }
+            }
+          ],
+          "description": "LIP: Local Importance-based Pooling Ziteng Gao, Limin Wang, Gangshan Wu",
+          "node_type": "group",
+          "title": "LIP-ResNet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/lukemelas/EfficientNet-PyTorch",
               "description": null,
               "children": [],
@@ -2016,6 +2207,72 @@
           "description": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks Mingxing Tan, Quoc V. Le",
           "node_type": "group",
           "title": "EfficientNet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: official-pytorch : https://github.com/facebookresearch/FixRes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 194276453,
+                "language": "Python",
+                "last_commit": "2021-08-11T15:46:19Z",
+                "owner": "facebookresearch",
+                "repo": "FixRes",
+                "stars": 1043
+              }
+            }
+          ],
+          "description": "Fixing the train-test resolution discrepancy Hugo Touvron, Andrea Vedaldi, Matthijs Douze, Hervé Jégou",
+          "node_type": "group",
+          "title": "FixResNeXt"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: official-tensorflow: https://github.com/google-research/big_transfer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 263163293,
+                "language": "Python",
+                "last_commit": "2024-07-30T21:21:39Z",
+                "owner": "google-research",
+                "repo": "big_transfer",
+                "stars": 1542
+              }
+            }
+          ],
+          "description": "Big Transfer (BiT): General Visual Representation Learning Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Joan Puigcerver, Jessica Yung, Sylvain Gelly, Neil Houlsby",
+          "node_type": "group",
+          "title": "BiT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: https://github.com/d-li14/PSConv",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 277075342,
+                "language": "Python",
+                "last_commit": "2020-07-14T01:14:35Z",
+                "owner": "d-li14",
+                "repo": "PSConv",
+                "stars": 174
+              }
+            }
+          ],
+          "description": "PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer Duo Li1, Anbang Yao2B, and Qifeng Chen1B",
+          "node_type": "group",
+          "title": "PSConv + ResNext101"
         },
         {
           "children": [
@@ -2080,6 +2337,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "code: official-pytorch: https://github.com/huawei-noah/ghostnet",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222110214,
+                "language": "Python",
+                "last_commit": "2025-03-15T12:48:07Z",
+                "owner": "huawei-noah",
+                "repo": "Efficient-AI-Backbones",
+                "stars": 4418
+              }
+            }
+          ],
+          "description": "GhostNet: More Features from Cheap Operations Kai Han, Yunhe Wang, Qi Tian, Jianyuan Guo, Chunjing Xu, Chang Xu",
+          "node_type": "group",
+          "title": "GhostNet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "code: official-tensorflow: https://github.com/google-research/vision_transformer",
               "description": null,
               "children": [],
@@ -2112,13 +2391,233 @@
           "description": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby",
           "node_type": "group",
           "title": "ViT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: official-pytorch: https://github.com/facebookresearch/deit",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 323966500,
+                "language": "Python",
+                "last_commit": "2024-03-15T13:20:37Z",
+                "owner": "facebookresearch",
+                "repo": "deit",
+                "stars": 4355
+              }
+            }
+          ],
+          "description": "Training data-efficient image transformers & distillation through attention Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou",
+          "node_type": "group",
+          "title": "DeiT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: official-pytorch: https://github.com/whai362/PVT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 341748701,
+                "language": "Python",
+                "last_commit": "2022-10-27T08:47:14Z",
+                "owner": "whai362",
+                "repo": "PVT",
+                "stars": 1900
+              }
+            }
+          ],
+          "description": "Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao",
+          "node_type": "group",
+          "title": "PVT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: official-pytorch: https://github.com/yitu-opensource/T2T-ViT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332114633,
+                "language": "Jupyter Notebook",
+                "last_commit": "2023-10-27T19:00:24Z",
+                "owner": "yitu-opensource",
+                "repo": "T2T-ViT",
+                "stars": 1191
+              }
+            }
+          ],
+          "description": "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Zihang Jiang, Francis EH Tay, Jiashi Feng, Shuicheng Yan",
+          "node_type": "group",
+          "title": "T2T"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: official-pytorch: https://github.com/zhoudaquan/dvit_repo",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 350903303,
+                "language": "Python",
+                "last_commit": "2021-12-18T15:03:53Z",
+                "owner": "zhoudaquan",
+                "repo": "dvit_repo",
+                "stars": 141
+              }
+            }
+          ],
+          "description": "DeepViT: Towards Deeper Vision Transformer Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Zihang Jiang, Qibin Hou, and Jiashi Feng.",
+          "node_type": "group",
+          "title": "DeepVit"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: official-pytorch: https://github.com/microsoft/vision-longformer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357813822,
+                "language": "Python",
+                "last_commit": "2022-03-16T22:01:51Z",
+                "owner": "microsoft",
+                "repo": "vision-longformer",
+                "stars": 249
+              }
+            }
+          ],
+          "description": "Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding Pengchuan Zhang, Xiyang Dai, Jianwei Yang, Bin Xiao, Lu Yuan, Lei Zhang, Jianfeng Gao",
+          "node_type": "group",
+          "title": "ViL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: https://github.com/huawei-noah/CV-Backbones",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 222110214,
+                "language": "Python",
+                "last_commit": "2025-03-15T12:48:07Z",
+                "owner": "huawei-noah",
+                "repo": "Efficient-AI-Backbones",
+                "stars": 4418
+              }
+            }
+          ],
+          "description": "Transformer in Transformer Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang",
+          "node_type": "group",
+          "title": "TNT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: https://github.com/microsoft/CvT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 370805731,
+                "language": "Python",
+                "last_commit": "2023-05-16T08:07:07Z",
+                "owner": "microsoft",
+                "repo": "CvT",
+                "stars": 606
+              }
+            }
+          ],
+          "description": "CvT: Introducing Convolutions to Vision Transformers Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang",
+          "node_type": "group",
+          "title": "CvT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: https://github.com/IBM/CrossViT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 391188495,
+                "language": "Python",
+                "last_commit": "2022-01-12T15:13:20Z",
+                "owner": "IBM",
+                "repo": "CrossViT",
+                "stars": 417
+              }
+            }
+          ],
+          "description": "CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification Chun-Fu (Richard) Chen, Quanfu Fan, Rameswar Panda",
+          "node_type": "group",
+          "title": "CViT"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: https://github.com/microsoft/Focal-Transformer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 384661236,
+                "language": "Python",
+                "last_commit": "2022-03-27T05:21:56Z",
+                "owner": "microsoft",
+                "repo": "Focal-Transformer",
+                "stars": 559
+              }
+            }
+          ],
+          "description": "Focal Attention for Long-Range Interactions in Vision Transformers Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianfeng Gao",
+          "node_type": "group",
+          "title": "Focal-T"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "code: official-pytorch: https://github.com/whai362/PVT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 341748701,
+                "language": "Python",
+                "last_commit": "2022-10-27T08:47:14Z",
+                "owner": "whai362",
+                "repo": "PVT",
+                "stars": 1900
+              }
+            }
+          ],
+          "description": "Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao",
+          "node_type": "group",
+          "title": "PVTv2"
         }
       ],
       "title": "DLA"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:03:34.921Z",
+    "last_updated": "2026-08-24T14:00:34.298Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_id": 4420796,
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
