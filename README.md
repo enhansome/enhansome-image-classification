@@ -1,6 +1,6 @@
 # Awesome - Image Classification with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,591 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,695 | 🐛 106 | 📅 2026-08-21
 
 A curated list of deep learning image classification papers and codes since 2014, Inspired by [awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,504 | 🐛 7 | 📅 2022-12-17, [deep\_learning\_object\_detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,386 | 🐛 5 | 🌐 Python | 📅 2024-02-12 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,179 | 🐛 37 | 🌐 TeX | 📅 2024-01-18.
 
@@ -609,7 +609,7 @@ Kai Han, Yunhe Wang, Qi Tian, Jianyuan Guo, Chunjing Xu, Chang Xu
 **An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale**
 Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby
 
-* code: [official-tensorflow: https://github.com/google-research/vision\_transformer](https://github.com/google-research/vision_transformer) ⭐ 12,679 | 🐛 139 | 🌐 Jupyter Notebook | 📅 2026-08-01
+* code: [official-tensorflow: https://github.com/google-research/vision\_transformer](https://github.com/google-research/vision_transformer) ⭐ 12,681 | 🐛 139 | 🌐 Jupyter Notebook | 📅 2026-08-01
 * code: [unofficial-pytorch: https://github.com/jeonsworld/ViT-pytorch](https://github.com/jeonsworld/ViT-pytorch) ⭐ 2,162 | 🐛 29 | 🌐 Jupyter Notebook | 📅 2022-06-07
 * pdf: <https://arxiv.org/abs/2010.11929>
 
@@ -701,4 +701,4 @@ Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianf
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._

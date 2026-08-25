@@ -2369,7 +2369,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12679
+                "stars": 12681
               }
             },
             {
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:14:36.759Z",
+    "last_updated": "2026-08-25T05:57:31.811Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_id": 4420796,
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
