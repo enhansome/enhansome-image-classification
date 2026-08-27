@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-25T11:41:51Z",
+                "last_commit": "2026-08-26T14:37:48Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17883
+                "stars": 17885
               }
             },
             {
@@ -125,10 +125,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-25T11:41:51Z",
+                "last_commit": "2026-08-26T14:37:48Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17883
+                "stars": 17885
               }
             },
             {
@@ -188,7 +188,7 @@
                 "last_commit": "2021-01-12T11:01:26Z",
                 "owner": "raghakot",
                 "repo": "keras-resnet",
-                "stars": 1390
+                "stars": 1389
               }
             }
           ],
@@ -274,10 +274,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-25T11:41:51Z",
+                "last_commit": "2026-08-26T14:37:48Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17883
+                "stars": 17885
               }
             },
             {
@@ -519,10 +519,10 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-25T11:41:51Z",
+                "last_commit": "2026-08-26T14:37:48Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17883
+                "stars": 17885
               }
             },
             {
@@ -1521,10 +1521,10 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-21T16:27:30Z",
+                "last_commit": "2026-08-25T21:25:59Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77650
+                "stars": 77652
               }
             },
             {
@@ -2369,7 +2369,7 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12681
+                "stars": 12683
               }
             },
             {
@@ -2617,7 +2617,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T21:13:00.859Z",
+    "last_updated": "2026-08-27T00:17:28.491Z",
     "original_repository": "weiaicunzai/awesome-image-classification",
     "original_repository_id": 4420796,
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
