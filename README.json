@@ -14,11 +14,12 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:09:48Z",
+                "last_commit": "2026-08-27T15:12:54Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17885
-              }
+                "stars": 17886
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "keras-team",
                 "repo": "keras-applications",
                 "stars": 1990
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "keras-team",
                 "repo": "keras-applications",
                 "stars": 1990
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Very Deep Convolutional Networks for Large-Scale Image Recognition. Karen Simonyan, Andrew Zisserman",
@@ -70,7 +73,8 @@
                 "owner": "conan7882",
                 "repo": "GoogLeNet-Inception",
                 "stars": 297
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -85,7 +89,8 @@
                 "owner": "lim0606",
                 "repo": "caffe-googlenet-bn",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Going Deeper with Convolutions Christian Szegedy, Wei Liu, Yangqing Jia, Pierre Sermanet, Scott Reed, Dragomir Anguelov, Dumitru Erhan, Vincent Vanhoucke, Andrew Rabinovich",
@@ -107,7 +112,8 @@
                 "owner": "nutszebra",
                 "repo": "prelu_net",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun",
@@ -125,11 +131,12 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:09:48Z",
+                "last_commit": "2026-08-27T15:12:54Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17885
-              }
+                "stars": 17886
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -144,7 +151,8 @@
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
                 "stars": 2360
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "keras-team",
                 "repo": "keras-applications",
                 "stars": 1990
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "ry",
                 "repo": "tensorflow-resnet",
                 "stars": 1665
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -189,7 +199,8 @@
                 "owner": "raghakot",
                 "repo": "keras-resnet",
                 "stars": 1389
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Deep Residual Learning for Image Recognition Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun",
@@ -211,7 +222,8 @@
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
                 "stars": 6424
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -226,7 +238,8 @@
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
                 "stars": 2360
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -241,7 +254,8 @@
                 "owner": "KaimingHe",
                 "repo": "resnet-1k-layers",
                 "stars": 936
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -256,7 +270,8 @@
                 "owner": "tornadomeet",
                 "repo": "ResNet",
                 "stars": 573
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Identity Mappings in Deep Residual Networks Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun",
@@ -274,11 +289,12 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:09:48Z",
+                "last_commit": "2026-08-27T15:12:54Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17885
-              }
+                "stars": 17886
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -293,7 +309,8 @@
                 "owner": "keras-team",
                 "repo": "keras-applications",
                 "stars": 1990
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Rethinking the Inception Architecture for Computer Vision Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, Zbigniew Wojna",
@@ -315,7 +332,8 @@
                 "owner": "kentsommer",
                 "repo": "keras-inceptionV4",
                 "stars": 467
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -330,7 +348,8 @@
                 "owner": "titu1994",
                 "repo": "Inception-v4",
                 "stars": 388
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -345,7 +364,8 @@
                 "owner": "yuyang-huang",
                 "repo": "keras-inception-resnet-v2",
                 "stars": 179
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning Christian Szegedy, Sergey Ioffe, Vincent Vanhoucke, Alex Alemi",
@@ -367,7 +387,8 @@
                 "owner": "SunnerLi",
                 "repo": "RiR-Tensorflow",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -382,7 +403,8 @@
                 "owner": "nutszebra",
                 "repo": "resnet_in_resnet",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Resnet in Resnet: Generalizing Residual Architectures Sasha Targ, Diogo Almeida, Kevin Lyman",
@@ -404,7 +426,8 @@
                 "owner": "yueatsprograms",
                 "repo": "Stochastic_Depth",
                 "stars": 480
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -419,7 +442,8 @@
                 "owner": "dblN",
                 "repo": "stochastic_depth_keras",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -434,7 +458,8 @@
                 "owner": "yasunorikudo",
                 "repo": "chainer-ResDrop",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Deep Networks with Stochastic Depth Gao Huang, Yu Sun, Zhuang Liu, Daniel Sedra, Kilian Weinberger",
@@ -456,7 +481,8 @@
                 "owner": "szagoruyko",
                 "repo": "wide-residual-networks",
                 "stars": 1315
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -471,7 +497,8 @@
                 "owner": "bmsookim",
                 "repo": "wide-resnet.pytorch",
                 "stars": 479
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -486,7 +513,8 @@
                 "owner": "xternalz",
                 "repo": "WideResNet-pytorch",
                 "stars": 346
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -501,7 +529,8 @@
                 "owner": "asmith26",
                 "repo": "wide_resnets_keras",
                 "stars": 138
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Wide Residual Networks Sergey Zagoruyko, Nikos Komodakis",
@@ -519,11 +548,12 @@
                 "archived": false,
                 "id": 73328905,
                 "language": "Python",
-                "last_commit": "2026-08-27T09:09:48Z",
+                "last_commit": "2026-08-27T15:12:54Z",
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17885
-              }
+                "stars": 17886
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -538,7 +568,8 @@
                 "owner": "forresti",
                 "repo": "SqueezeNet",
                 "stars": 2218
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -553,7 +584,8 @@
                 "owner": "rcmalli",
                 "repo": "keras-squeezenet",
                 "stars": 405
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -568,7 +600,8 @@
                 "owner": "songhan",
                 "repo": "SqueezeNet-Residual",
                 "stars": 155
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Dally, Kurt Keutzer",
@@ -590,7 +623,8 @@
                 "owner": "aqibsaeed",
                 "repo": "Genetic-CNN",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Genetic CNN Lingxi Xie, Alan Yuille",
@@ -612,7 +646,8 @@
                 "owner": "bowenbaker",
                 "repo": "metaqnn",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Designing Neural Network Architectures using Reinforcement Learning Bowen Baker, Otkrist Gupta, Nikhil Naik, Ramesh Raskar",
@@ -634,7 +669,8 @@
                 "owner": "dyhan0920",
                 "repo": "PyramidNet-PyTorch",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -649,7 +685,8 @@
                 "owner": "jhkim89",
                 "repo": "PyramidNet",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Deep Pyramidal Residual Networks Dongyoon Han, Jiwhan Kim, Junmo Kim",
@@ -671,7 +708,8 @@
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
                 "stars": 4869
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -686,7 +724,8 @@
                 "owner": "bamos",
                 "repo": "densenet.pytorch",
                 "stars": 839
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -701,7 +740,8 @@
                 "owner": "titu1994",
                 "repo": "DenseNet",
                 "stars": 709
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -716,7 +756,8 @@
                 "owner": "flyyufelix",
                 "repo": "DenseNet-Keras",
                 "stars": 564
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -731,7 +772,8 @@
                 "owner": "YixuanLi",
                 "repo": "densenet-tensorflow",
                 "stars": 563
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -746,7 +788,8 @@
                 "owner": "YixuanLi",
                 "repo": "densenet-tensorflow",
                 "stars": 563
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -761,7 +804,8 @@
                 "owner": "shicai",
                 "repo": "DenseNet-Caffe",
                 "stars": 361
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Densely Connected Convolutional Networks Gao Huang, Zhuang Liu, Laurens van der Maaten, Kilian Q. Weinberger",
@@ -783,7 +827,8 @@
                 "owner": "snf",
                 "repo": "keras-fractalnet",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -798,7 +843,8 @@
                 "owner": "gustavla",
                 "repo": "fractalnet",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -813,7 +859,8 @@
                 "owner": "tensorpro",
                 "repo": "FractalNet",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "FractalNet: Ultra-Deep Neural Networks without Residuals Gustav Larsson, Michael Maire, Gregory Shakhnarovich",
@@ -835,7 +882,8 @@
                 "owner": "keras-team",
                 "repo": "keras-applications",
                 "stars": 1990
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -850,7 +898,8 @@
                 "owner": "facebookresearch",
                 "repo": "ResNeXt",
                 "stars": 1924
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -865,7 +914,8 @@
                 "owner": "prlz77",
                 "repo": "ResNeXt.pytorch",
                 "stars": 518
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -880,7 +930,8 @@
                 "owner": "titu1994",
                 "repo": "Keras-ResNeXt",
                 "stars": 223
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -895,7 +946,8 @@
                 "owner": "taki0112",
                 "repo": "ResNeXt-Tensorflow",
                 "stars": 158
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -910,7 +962,8 @@
                 "owner": "wenxinxu",
                 "repo": "ResNeXt-in-tensorflow",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Aggregated Residual Transformations for Deep Neural Networks Saining Xie, Ross Girshick, Piotr Dollár, Zhuowen Tu, Kaiming He",
@@ -932,7 +985,8 @@
                 "owner": "hellozting",
                 "repo": "InterleavedGroupConvolutions",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Interleaved Group Convolutions for Deep Neural Networks Ting Zhang, Guo-Jun Qi, Bin Xiao, Jingdong Wang",
@@ -954,7 +1008,8 @@
                 "owner": "tengshaofeng",
                 "repo": "ResidualAttentionNetwork-pytorch",
                 "stars": 685
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -969,7 +1024,8 @@
                 "owner": "fwang91",
                 "repo": "residual-attention-network",
                 "stars": 558
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -984,7 +1040,8 @@
                 "owner": "DevinXYang",
                 "repo": "ResidualAttentionNetwork",
                 "stars": 107
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -999,7 +1056,8 @@
                 "owner": "koichiro11",
                 "repo": "residual-attention-network",
                 "stars": 92
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Residual Attention Network for Image Classification Fei Wang, Mengqing Jiang, Chen Qian, Shuo Yang, Cheng Li, Honggang Zhang, Xiaogang Wang, Xiaoou Tang",
@@ -1021,7 +1079,8 @@
                 "owner": "jfzhang95",
                 "repo": "pytorch-deeplab-xception",
                 "stars": 3000
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1036,7 +1095,8 @@
                 "owner": "keras-team",
                 "repo": "keras-applications",
                 "stars": 1990
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1051,7 +1111,8 @@
                 "owner": "tstandley",
                 "repo": "Xception-PyTorch",
                 "stars": 264
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1066,7 +1127,8 @@
                 "owner": "kwotsin",
                 "repo": "TensorFlow-Xception",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1081,7 +1143,8 @@
                 "owner": "ethanhe42",
                 "repo": "Xception-caffe",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Xception: Deep Learning with Depthwise Separable Convolutions François Chollet",
@@ -1103,7 +1166,8 @@
                 "owner": "keras-team",
                 "repo": "keras-applications",
                 "stars": 1990
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1118,7 +1182,8 @@
                 "owner": "Zehaos",
                 "repo": "MobileNet",
                 "stars": 1659
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1133,7 +1198,8 @@
                 "owner": "shicai",
                 "repo": "MobileNet-Caffe",
                 "stars": 1274
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications Andrew G. Howard, Menglong Zhu, Bo Chen, Dmitry Kalenichenko, Weijun Wang, Tobias Weyand, Marco Andreetto, Hartwig Adam",
@@ -1155,7 +1221,8 @@
                 "owner": "MMLab-CU",
                 "repo": "polynet",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "PolyNet: A Pursuit of Structural Diversity in Very Deep Networks Xingcheng Zhang, Zhizhong Li, Chen Change Loy, Dahua Lin",
@@ -1177,7 +1244,8 @@
                 "owner": "cypw",
                 "repo": "DPNs",
                 "stars": 526
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1192,7 +1260,8 @@
                 "owner": "rwightman",
                 "repo": "pytorch-dpn-pretrained",
                 "stars": 205
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1207,7 +1276,8 @@
                 "owner": "titu1994",
                 "repo": "Keras-DualPathNetworks",
                 "stars": 112
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1222,7 +1292,8 @@
                 "owner": "oyam",
                 "repo": "pytorch-DPNs",
                 "stars": 89
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Dual Path Networks Yunpeng Chen, Jianan Li, Huaxin Xiao, Xiaojie Jin, Shuicheng Yan, Jiashi Feng",
@@ -1244,7 +1315,8 @@
                 "owner": "bruinxiong",
                 "repo": "Modified-CRUNet-and-Residual-Attention-Network.mxnet",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1259,7 +1331,8 @@
                 "owner": "cypw",
                 "repo": "CRU-Net",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Sharing Residual Units Through Collective Tensor Factorization in Deep Neural Networks Chen Yunpeng, Jin Xiaojie, Kang Bingyi, Feng Jiashi, Yan Shuicheng",
@@ -1285,7 +1358,8 @@
             "owner": "ucbdrive",
             "repo": "dla",
             "stars": 440
-          }
+          },
+          "first_seen": "2026-08-28T04:55:10.815Z"
         },
         {
           "children": [
@@ -1302,7 +1376,8 @@
                 "owner": "farmingyard",
                 "repo": "ShuffleNet",
                 "stars": 453
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1317,7 +1392,8 @@
                 "owner": "MG2033",
                 "repo": "ShuffleNet",
                 "stars": 381
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1332,7 +1408,8 @@
                 "owner": "jaxony",
                 "repo": "ShuffleNet",
                 "stars": 296
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1347,7 +1424,8 @@
                 "owner": "scheckmedia",
                 "repo": "keras-shufflenet",
                 "stars": 77
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices Xiangyu Zhang, Xinyu Zhou, Mengxiao Lin, Jian Sun",
@@ -1369,7 +1447,8 @@
                 "owner": "ShichenLiu",
                 "repo": "CondenseNet",
                 "stars": 690
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1384,7 +1463,8 @@
                 "owner": "markdtw",
                 "repo": "condensenet-tensorflow",
                 "stars": 29
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "CondenseNet: An Efficient DenseNet using Learned Group Convolutions Gao Huang, Shichen Liu, Laurens van der Maaten, Kilian Q. Weinberger",
@@ -1406,7 +1486,8 @@
                 "owner": "keras-team",
                 "repo": "keras-applications",
                 "stars": 1990
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1421,7 +1502,8 @@
                 "owner": "titu1994",
                 "repo": "Keras-NASNet",
                 "stars": 196
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1436,7 +1518,8 @@
                 "owner": "yeephycho",
                 "repo": "nasnet-tensorflow",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1451,7 +1534,8 @@
                 "owner": "wandering007",
                 "repo": "nasnet-pytorch",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Learning Transferable Architectures for Scalable Image Recognition Barret Zoph, Vijay Vasudevan, Jonathon Shlens, Quoc V. Le",
@@ -1473,7 +1557,8 @@
                 "owner": "xiaochus",
                 "repo": "MobileNetV2",
                 "stars": 340
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1488,7 +1573,8 @@
                 "owner": "Randl",
                 "repo": "MobileNetV2-pytorch",
                 "stars": 281
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1503,7 +1589,8 @@
                 "owner": "neuleaf",
                 "repo": "MobileNetV2",
                 "stars": 150
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "MobileNetV2: Inverted Residuals and Linear Bottlenecks Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen",
@@ -1521,11 +1608,12 @@
                 "archived": false,
                 "id": 51117837,
                 "language": "Python",
-                "last_commit": "2026-08-27T04:28:47Z",
+                "last_commit": "2026-08-28T01:33:46Z",
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653
-              }
+                "stars": 77657
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1540,7 +1628,8 @@
                 "owner": "chenxi116",
                 "repo": "PNASNet.pytorch",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1555,7 +1644,8 @@
                 "owner": "chenxi116",
                 "repo": "PNASNet.TF",
                 "stars": 101
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Progressive Neural Architecture Search Chenxi Liu, Barret Zoph, Maxim Neumann, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy",
@@ -1577,7 +1667,8 @@
                 "owner": "tensorflow",
                 "repo": "tpu",
                 "stars": 5278
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Regularized Evolution for Image Classifier Architecture Search Esteban Real, Alok Aggarwal, Yanping Huang, Quoc V Le",
@@ -1599,7 +1690,8 @@
                 "owner": "hujie-frank",
                 "repo": "SENet",
                 "stars": 3646
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1614,7 +1706,8 @@
                 "owner": "moskomule",
                 "repo": "senet.pytorch",
                 "stars": 2343
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1629,7 +1722,8 @@
                 "owner": "taki0112",
                 "repo": "SENet-Tensorflow",
                 "stars": 755
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1644,7 +1738,8 @@
                 "owner": "shicai",
                 "repo": "SENet-Caffe",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1659,7 +1754,8 @@
                 "owner": "bruinxiong",
                 "repo": "SENet.mxnet",
                 "stars": 156
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Squeeze-and-Excitation Networks Jie Hu, Li Shen, Samuel Albanie, Gang Sun, Enhua Wu",
@@ -1681,7 +1777,8 @@
                 "owner": "Randl",
                 "repo": "ShuffleNetV2-pytorch",
                 "stars": 198
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1696,7 +1793,8 @@
                 "owner": "opconty",
                 "repo": "keras-shufflenetV2",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1711,7 +1809,8 @@
                 "owner": "wolegechu",
                 "repo": "ShuffleNetV2.Caffe2",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design Ningning Ma, Xiangyu Zhang, Hai-Tao Zheng, Jian Sun",
@@ -1733,7 +1832,8 @@
                 "owner": "Jongchan",
                 "repo": "attention-module",
                 "stars": 2230
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1748,7 +1848,8 @@
                 "owner": "luuuyi",
                 "repo": "CBAM.PyTorch",
                 "stars": 1500
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1763,7 +1864,8 @@
                 "owner": "kobiso",
                 "repo": "CBAM-keras",
                 "stars": 367
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1778,7 +1880,8 @@
                 "owner": "elbuco1",
                 "repo": "CBAM",
                 "stars": 132
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "CBAM: Convolutional Block Attention Module Sanghyun Woo, Jongchan Park, Joon-Young Lee, In So Kweon",
@@ -1800,7 +1903,8 @@
                 "owner": "homles11",
                 "repo": "IGCV3",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1815,7 +1919,8 @@
                 "owner": "xxradon",
                 "repo": "IGCV3-pytorch",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1830,7 +1935,8 @@
                 "owner": "ZHANG-SHI-CHANG",
                 "repo": "IGCV3",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks Ke Sun, Mingjie Li, Dong Liu, Jingdong Wang",
@@ -1852,7 +1958,8 @@
                 "owner": "Jongchan",
                 "repo": "attention-module",
                 "stars": 2230
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1867,7 +1974,8 @@
                 "owner": "huyz1117",
                 "repo": "BAM",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "BAM: Bottleneck Attention Module Jongchan Park, Sanghyun Woo, Joon-Young Lee, In So Kweon",
@@ -1889,7 +1997,8 @@
                 "owner": "AnjieCheng",
                 "repo": "MnasNet-PyTorch",
                 "stars": 275
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1904,7 +2013,8 @@
                 "owner": "Shathe",
                 "repo": "MNasNet-Keras-Tensorflow",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1919,7 +2029,8 @@
                 "owner": "chinakook",
                 "repo": "Mnasnet.MXNet",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1934,7 +2045,8 @@
                 "owner": "LiJianfei06",
                 "repo": "MnasNet-caffe",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "MnasNet: Platform-Aware Neural Architecture Search for Mobile Mingxing Tan, Bo Chen, Ruoming Pang, Vijay Vasudevan, Quoc V. Le",
@@ -1956,7 +2068,8 @@
                 "owner": "quark0",
                 "repo": "darts",
                 "stars": 3997
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1971,7 +2084,8 @@
                 "owner": "khanrc",
                 "repo": "pt.darts",
                 "stars": 452
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -1986,7 +2100,8 @@
                 "owner": "NeroLoh",
                 "repo": "darts-tensorflow",
                 "stars": 72
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "DARTS: Differentiable Architecture Search Hanxiao Liu, Karen Simonyan, Yiming Yang",
@@ -2008,7 +2123,8 @@
                 "owner": "mit-han-lab",
                 "repo": "proxylessnas",
                 "stars": 1447
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware Han Cai, Ligeng Zhu, Song Han",
@@ -2030,7 +2146,8 @@
                 "owner": "xiaolai-sqlai",
                 "repo": "mobilenetv3",
                 "stars": 1864
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -2045,7 +2162,8 @@
                 "owner": "kuan-wang",
                 "repo": "pytorch-mobilenet-v3",
                 "stars": 807
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -2060,7 +2178,8 @@
                 "owner": "d-li14",
                 "repo": "mobilenetv3.pytorch",
                 "stars": 598
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -2075,7 +2194,8 @@
                 "owner": "leaderj1001",
                 "repo": "MobileNetV3-Pytorch",
                 "stars": 299
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -2090,7 +2210,8 @@
                 "owner": "xiaochus",
                 "repo": "MobileNetV3",
                 "stars": 242
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -2105,7 +2226,8 @@
                 "owner": "jixing0415",
                 "repo": "caffe-mobilenet-v3",
                 "stars": 131
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Searching for MobileNetV3 Andrew Howard, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang, Yukun Zhu, Ruoming Pang, Vijay Vasudevan, Quoc V. Le, Hartwig Adam",
@@ -2127,7 +2249,8 @@
                 "owner": "4uiiurz1",
                 "repo": "pytorch-res2net",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -2142,7 +2265,8 @@
                 "owner": "MaoYuxin25",
                 "repo": "res2net-keras",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Res2Net: A New Multi-scale Backbone Architecture Shang-Hua Gao, Ming-Ming Cheng, Kai Zhao, Xin-Yu Zhang, Ming-Hsuan Yang, Philip Torr",
@@ -2164,7 +2288,8 @@
                 "owner": "sebgao",
                 "repo": "LIP",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "LIP: Local Importance-based Pooling Ziteng Gao, Limin Wang, Gangshan Wu",
@@ -2186,7 +2311,8 @@
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
                 "stars": 8222
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -2201,7 +2327,8 @@
                 "owner": "tensorflow",
                 "repo": "tpu",
                 "stars": 5278
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks Mingxing Tan, Quoc V. Le",
@@ -2223,7 +2350,8 @@
                 "owner": "facebookresearch",
                 "repo": "FixRes",
                 "stars": 1043
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Fixing the train-test resolution discrepancy Hugo Touvron, Andrea Vedaldi, Matthijs Douze, Hervé Jégou",
@@ -2245,7 +2373,8 @@
                 "owner": "google-research",
                 "repo": "big_transfer",
                 "stars": 1541
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Big Transfer (BiT): General Visual Representation Learning Alexander Kolesnikov, Lucas Beyer, Xiaohua Zhai, Joan Puigcerver, Jessica Yung, Sylvain Gelly, Neil Houlsby",
@@ -2267,7 +2396,8 @@
                 "owner": "d-li14",
                 "repo": "PSConv",
                 "stars": 174
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer Duo Li1, Anbang Yao2B, and Qifeng Chen1B",
@@ -2289,7 +2419,8 @@
                 "owner": "google-research",
                 "repo": "noisystudent",
                 "stars": 764
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Self-training with Noisy Student improves ImageNet classification Qizhe Xie, Minh-Thang Luong, Eduard Hovy, Quoc V. Le",
@@ -2311,7 +2442,8 @@
                 "owner": "facebookresearch",
                 "repo": "pycls",
                 "stars": 2161
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -2326,7 +2458,8 @@
                 "owner": "d-li14",
                 "repo": "regnet.pytorch",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Designing Network Design Spaces Ilija Radosavovic, Raj Prateek Kosaraju, Ross Girshick, Kaiming He, Piotr Dollár",
@@ -2348,7 +2481,8 @@
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
                 "stars": 4418
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "GhostNet: More Features from Cheap Operations Kai Han, Yunhe Wang, Qi Tian, Jianyuan Guo, Chunjing Xu, Chang Xu",
@@ -2369,8 +2503,9 @@
                 "last_commit": "2026-08-01T21:36:15Z",
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12683
-              }
+                "stars": 12682
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             },
             {
               "node_type": "item",
@@ -2385,7 +2520,8 @@
                 "owner": "jeonsworld",
                 "repo": "ViT-pytorch",
                 "stars": 2162
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer, Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby",
@@ -2407,7 +2543,8 @@
                 "owner": "facebookresearch",
                 "repo": "deit",
                 "stars": 4355
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Training data-efficient image transformers & distillation through attention Hugo Touvron, Matthieu Cord, Matthijs Douze, Francisco Massa, Alexandre Sablayrolles, Hervé Jégou",
@@ -2429,7 +2566,8 @@
                 "owner": "whai362",
                 "repo": "PVT",
                 "stars": 1900
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao",
@@ -2451,7 +2589,8 @@
                 "owner": "yitu-opensource",
                 "repo": "T2T-ViT",
                 "stars": 1191
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet Li Yuan, Yunpeng Chen, Tao Wang, Weihao Yu, Yujun Shi, Zihang Jiang, Francis EH Tay, Jiashi Feng, Shuicheng Yan",
@@ -2473,7 +2612,8 @@
                 "owner": "zhoudaquan",
                 "repo": "dvit_repo",
                 "stars": 141
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "DeepViT: Towards Deeper Vision Transformer Daquan Zhou, Bingyi Kang, Xiaojie Jin, Linjie Yang, Xiaochen Lian, Zihang Jiang, Qibin Hou, and Jiashi Feng.",
@@ -2495,7 +2635,8 @@
                 "owner": "microsoft",
                 "repo": "vision-longformer",
                 "stars": 249
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Multi-Scale Vision Longformer: A New Vision Transformer for High-Resolution Image Encoding Pengchuan Zhang, Xiyang Dai, Jianwei Yang, Bin Xiao, Lu Yuan, Lei Zhang, Jianfeng Gao",
@@ -2517,7 +2658,8 @@
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
                 "stars": 4418
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Transformer in Transformer Kai Han, An Xiao, Enhua Wu, Jianyuan Guo, Chunjing Xu, Yunhe Wang",
@@ -2539,7 +2681,8 @@
                 "owner": "microsoft",
                 "repo": "CvT",
                 "stars": 606
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "CvT: Introducing Convolutions to Vision Transformers Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang",
@@ -2561,7 +2704,8 @@
                 "owner": "IBM",
                 "repo": "CrossViT",
                 "stars": 417
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification Chun-Fu (Richard) Chen, Quanfu Fan, Rameswar Panda",
@@ -2583,7 +2727,8 @@
                 "owner": "microsoft",
                 "repo": "Focal-Transformer",
                 "stars": 559
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Focal Attention for Long-Range Interactions in Vision Transformers Jianwei Yang, Chunyuan Li, Pengchuan Zhang, Xiyang Dai, Bin Xiao, Lu Yuan, Jianfeng Gao",
@@ -2605,7 +2750,8 @@
                 "owner": "whai362",
                 "repo": "PVT",
                 "stars": 1900
-              }
+              },
+              "first_seen": "2026-08-28T04:55:10.815Z"
             }
           ],
           "description": "Wenhai Wang, Enze Xie, Xiang Li, Deng-Ping Fan, Kaitao Song, Ding Liang, Tong Lu, Ping Luo, Ling Shao",
@@ -2617,7 +2763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:46:09.618Z",
+    "last_updated": "2026-08-28T04:55:10.815Z",
     "original_repository_info": {
       "archived": false,
       "id": 4420796,
