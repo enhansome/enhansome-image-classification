@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Datasets, Transforms and Models specific to Computer Vision",
+                "homepage": "https://pytorch.org/vision",
                 "id": 73328905,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T15:34:09Z",
+                "open_issues": 1198,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17887
+                "stars": 17887,
+                "topics": [
+                  "computer-vision",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -28,12 +36,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reference implementations of popular deep learning models.",
+                "homepage": null,
                 "id": 135753620,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-17T22:37:33Z",
+                "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990
+                "stars": 1990,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -44,12 +57,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reference implementations of popular deep learning models.",
+                "homepage": null,
                 "id": 135753620,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-17T22:37:33Z",
+                "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990
+                "stars": 1990,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -67,12 +85,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow implementation of GoogLeNet and Inception for image classification.",
+                "homepage": null,
                 "id": 113358331,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-03-11T20:56:53Z",
+                "open_issues": 5,
                 "owner": "conan7882",
                 "repo": "GoogLeNet-Inception",
-                "stars": 297
+                "stars": 297,
+                "topics": [
+                  "cifar",
+                  "googlenet",
+                  "image-classification",
+                  "inception",
+                  "pre-trained",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -83,12 +113,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "re-implementation of googlenet batch normalization",
+                "homepage": null,
                 "id": 39990251,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2017-01-10T08:36:59Z",
+                "open_issues": 7,
                 "owner": "lim0606",
                 "repo": "caffe-googlenet-bn",
-                "stars": 130
+                "stars": 130,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -106,12 +141,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of PReLUNet by chainer (Delving Deep into Rectifiers: Surpassing Human-Level Performance on ImageNet Classification: https://arxiv.org/abs/1502.01852)",
+                "homepage": null,
                 "id": 76662139,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-02-02T06:20:29Z",
+                "open_issues": 1,
                 "owner": "nutszebra",
                 "repo": "prelu_net",
-                "stars": 11
+                "stars": 11,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -129,12 +169,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Datasets, Transforms and Models specific to Computer Vision",
+                "homepage": "https://pytorch.org/vision",
                 "id": 73328905,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T15:34:09Z",
+                "open_issues": 1198,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17887
+                "stars": 17887,
+                "topics": [
+                  "computer-vision",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -145,12 +193,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts",
+                "homepage": null,
                 "id": 49527035,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-24T15:23:59Z",
+                "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2360
+                "stars": 2360,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -161,12 +214,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reference implementations of popular deep learning models.",
+                "homepage": null,
                 "id": 135753620,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-17T22:37:33Z",
+                "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990
+                "stars": 1990,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -177,12 +235,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ResNet model in TensorFlow",
+                "homepage": null,
                 "id": 48251594,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-06-16T02:54:27Z",
+                "open_issues": 38,
                 "owner": "ry",
                 "repo": "tensorflow-resnet",
-                "stars": 1665
+                "stars": 1665,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -193,12 +256,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Residual networks implementation using Keras-1.0 functional API",
+                "homepage": null,
                 "id": 56471626,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-01-12T11:01:26Z",
+                "open_issues": 24,
                 "owner": "raghakot",
                 "repo": "keras-resnet",
-                "stars": 1389
+                "stars": 1389,
+                "topics": [
+                  "deep-learning",
+                  "keras",
+                  "resnet"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -216,12 +288,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "95.47% on CIFAR10 with PyTorch",
+                "homepage": null,
                 "id": 79626502,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-24T10:06:53Z",
+                "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6424
+                "stars": 6424,
+                "topics": [
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -232,12 +311,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Torch implementation of ResNet from http://arxiv.org/abs/1512.03385 and training scripts",
+                "homepage": null,
                 "id": 49527035,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2022-08-24T15:23:59Z",
+                "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2360
+                "stars": 2360,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -248,12 +332,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Residual Networks with 1K Layers",
+                "homepage": null,
                 "id": 55462616,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2017-05-24T17:35:48Z",
+                "open_issues": 1,
                 "owner": "KaimingHe",
                 "repo": "resnet-1k-layers",
-                "stars": 936
+                "stars": 936,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -264,12 +353,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reproduce ResNet-v2(Identity Mappings in Deep Residual Networks) with MXNet",
+                "homepage": null,
                 "id": 60523884,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-03-04T22:40:59Z",
+                "open_issues": 19,
                 "owner": "tornadomeet",
                 "repo": "ResNet",
-                "stars": 573
+                "stars": 573,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -287,12 +381,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Datasets, Transforms and Models specific to Computer Vision",
+                "homepage": "https://pytorch.org/vision",
                 "id": 73328905,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T15:34:09Z",
+                "open_issues": 1198,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17887
+                "stars": 17887,
+                "topics": [
+                  "computer-vision",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -303,12 +405,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reference implementations of popular deep learning models.",
+                "homepage": null,
                 "id": 135753620,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-17T22:37:33Z",
+                "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990
+                "stars": 1990,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -326,12 +433,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keras Implementation of Google's Inception-V4 Architecture (includes Keras compatible pre-trained weights)",
+                "homepage": null,
                 "id": 79427137,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2017-09-10T05:47:38Z",
+                "open_issues": 2,
                 "owner": "kentsommer",
                 "repo": "keras-inceptionV4",
-                "stars": 467
+                "stars": 467,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -342,12 +454,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Inception-v4, Inception - Resnet-v1 and v2 Architectures in Keras",
+                "homepage": null,
                 "id": 61495087,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-09-07T23:05:54Z",
+                "open_issues": 4,
                 "owner": "titu1994",
                 "repo": "Inception-v4",
-                "stars": 388
+                "stars": 388,
+                "topics": [
+                  "deep-learning",
+                  "inception-resnet",
+                  "keras",
+                  "paper"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -358,12 +480,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Inception-ResNet v2 model using Keras (with weight files)",
+                "homepage": null,
                 "id": 98025865,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-03-23T08:30:26Z",
+                "open_issues": 0,
                 "owner": "yuyang-huang",
                 "repo": "keras-inception-resnet-v2",
-                "stars": 179
+                "stars": 179,
+                "topics": [
+                  "deep-learning",
+                  "keras",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -381,12 +512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simplified implementation about ResNet in ResNet by tensorflow ",
+                "homepage": null,
                 "id": 103340012,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-09-16T01:31:59Z",
+                "open_issues": 1,
                 "owner": "SunnerLi",
                 "repo": "RiR-Tensorflow",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -397,12 +533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of Residual Networks In Residual Networks by chainer (Resnet in Resnet: Generalizing Residual Architectures: https://arxiv.org/abs/1603.08029)",
+                "homepage": null,
                 "id": 76727512,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-01-19T02:20:54Z",
+                "open_issues": 0,
                 "owner": "nutszebra",
                 "repo": "resnet_in_resnet",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -420,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Networks with Stochastic Depth",
+                "homepage": "http://arxiv.org/abs/1603.09382",
                 "id": 55261515,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2018-08-13T22:51:19Z",
+                "open_issues": 1,
                 "owner": "yueatsprograms",
                 "repo": "Stochastic_Depth",
-                "stars": 480
+                "stars": 480,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -436,12 +582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keras implementation for \"Deep Networks with Stochastic Depth\" http://arxiv.org/abs/1603.09382",
+                "homepage": null,
                 "id": 55616394,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-21T06:49:00Z",
+                "open_issues": 2,
                 "owner": "dblN",
                 "repo": "stochastic_depth_keras",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -452,12 +603,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Deep Networks with Stochastic Depth implementation by Chainer",
+                "homepage": null,
                 "id": 55680096,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2016-04-11T02:56:22Z",
+                "open_issues": 1,
                 "owner": "yasunorikudo",
                 "repo": "chainer-ResDrop",
-                "stars": 40
+                "stars": 40,
+                "topics": [
+                  "chainer",
+                  "resdrop"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -475,12 +634,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "3.8% and 18.3% on CIFAR-10 and CIFAR-100",
+                "homepage": "http://arxiv.org/abs/1605.07146",
                 "id": 59030033,
                 "language": "Lua",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-08-20T08:37:42Z",
+                "open_issues": 24,
                 "owner": "szagoruyko",
                 "repo": "wide-residual-networks",
-                "stars": 1315
+                "stars": 1315,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -491,12 +655,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Best CIFAR-10, CIFAR-100 results with wide-residual networks using PyTorch",
+                "homepage": null,
                 "id": 93605206,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-01-09T13:32:46Z",
+                "open_issues": 15,
                 "owner": "bmsookim",
                 "repo": "wide-resnet.pytorch",
-                "stars": 479
+                "stars": 479,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -507,12 +676,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wide Residual Networks (WideResNets) in PyTorch",
+                "homepage": null,
                 "id": 83635905,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-29T02:12:09Z",
+                "open_issues": 2,
                 "owner": "xternalz",
                 "repo": "WideResNet-pytorch",
-                "stars": 346
+                "stars": 346,
+                "topics": [
+                  "deep-learning",
+                  "residual-networks",
+                  "resnet",
+                  "wide-resnet",
+                  "wideresnet"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -523,12 +703,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keras implementation + pretrained weights for \"Wide Residual Networks\"",
+                "homepage": "http://arxiv.org/abs/1605.07146v1",
                 "id": 60194498,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-18T22:48:51Z",
+                "open_issues": 6,
                 "owner": "asmith26",
                 "repo": "wide_resnets_keras",
-                "stars": 138
+                "stars": 138,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -546,12 +731,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Datasets, Transforms and Models specific to Computer Vision",
+                "homepage": "https://pytorch.org/vision",
                 "id": 73328905,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-28T15:34:09Z",
+                "open_issues": 1198,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17887
+                "stars": 17887,
+                "topics": [
+                  "computer-vision",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -562,12 +755,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters",
+                "homepage": null,
                 "id": 52310392,
                 "language": null,
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-07-09T21:10:27Z",
+                "open_issues": 7,
                 "owner": "forresti",
                 "repo": "SqueezeNet",
-                "stars": 2218
+                "stars": 2218,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -578,12 +776,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SqueezeNet implementation with Keras Framework",
+                "homepage": null,
                 "id": 70329782,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-02-24T15:38:04Z",
+                "open_issues": 21,
                 "owner": "rcmalli",
                 "repo": "keras-squeezenet",
-                "stars": 405
+                "stars": 405,
+                "topics": [
+                  "deeplearning",
+                  "keras",
+                  "squeezenet",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -594,12 +802,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "residual-SqueezeNet",
+                "homepage": null,
                 "id": 56886463,
                 "language": "CSS",
+                "license": "BSD-2-Clause",
                 "last_commit": "2019-03-15T20:03:57Z",
+                "open_issues": 2,
                 "owner": "songhan",
                 "repo": "SqueezeNet-Residual",
-                "stars": 155
+                "stars": 155,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -617,12 +830,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CNN architecture exploration using Genetic Algorithm",
+                "homepage": null,
                 "id": 84612893,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-18T23:11:53Z",
+                "open_issues": 1,
                 "owner": "aqibsaeed",
                 "repo": "Genetic-CNN",
-                "stars": 222
+                "stars": 222,
+                "topics": [
+                  "deap",
+                  "deep-learning",
+                  "genetic-algorithm",
+                  "machine-learning",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -640,12 +864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 72878913,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-07-18T16:09:54Z",
+                "open_issues": 2,
                 "owner": "bowenbaker",
                 "repo": "metaqnn",
-                "stars": 139
+                "stars": 139,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -663,12 +892,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation for PyramidNets (Deep Pyramidal Residual Networks, https://arxiv.org/abs/1610.02915)",
+                "homepage": null,
                 "id": 108970648,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-05T16:30:18Z",
+                "open_issues": 0,
                 "owner": "dyhan0920",
                 "repo": "PyramidNet-PyTorch",
-                "stars": 270
+                "stars": 270,
+                "topics": [
+                  "cifar-10",
+                  "cifar-100",
+                  "imagenet",
+                  "pyramidnet",
+                  "pytorch",
+                  "residual-networks",
+                  "resnet"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -679,12 +921,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Torch implementation of the paper \"Deep Pyramidal Residual Networks\" (https://arxiv.org/abs/1610.02915).",
+                "homepage": null,
                 "id": 70475599,
                 "language": "Lua",
+                "license": null,
                 "last_commit": "2017-10-31T11:12:52Z",
+                "open_issues": 0,
                 "owner": "jhkim89",
                 "repo": "PyramidNet",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "cifar-10",
+                  "cifar-100",
+                  "cnn-architecture",
+                  "deep-learning",
+                  "imagenet",
+                  "network-architecture",
+                  "residual-networks",
+                  "resnet",
+                  "torch7"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -702,12 +959,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award).",
+                "homepage": null,
                 "id": 66501243,
                 "language": "Lua",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-01-09T13:15:40Z",
+                "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4869
+                "stars": 4869,
+                "topics": [
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -718,12 +982,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of DenseNet.",
+                "homepage": null,
                 "id": 81465000,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-08-16T19:33:50Z",
+                "open_issues": 7,
                 "owner": "bamos",
                 "repo": "densenet.pytorch",
-                "stars": 839
+                "stars": 839,
+                "topics": [
+                  "deep-learning",
+                  "densenet",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -734,12 +1007,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DenseNet implementation in Keras",
+                "homepage": null,
                 "id": 73181331,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-06-10T08:17:17Z",
+                "open_issues": 7,
                 "owner": "titu1994",
                 "repo": "DenseNet",
-                "stars": 709
+                "stars": 709,
+                "topics": [
+                  "bottleneck",
+                  "deep-learning",
+                  "densenet",
+                  "densenet-model",
+                  "keras",
+                  "paper"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -750,12 +1035,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DenseNet Implementation in Keras with ImageNet Pretrained Models",
+                "homepage": null,
                 "id": 91070142,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-10-12T18:53:41Z",
+                "open_issues": 15,
                 "owner": "flyyufelix",
                 "repo": "DenseNet-Keras",
-                "stars": 564
+                "stars": 564,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -766,12 +1056,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DenseNet Implementation in Tensorflow",
+                "homepage": null,
                 "id": 68931654,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-05-07T17:47:07Z",
+                "open_issues": 10,
                 "owner": "YixuanLi",
                 "repo": "densenet-tensorflow",
-                "stars": 563
+                "stars": 563,
+                "topics": [
+                  "densenet",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -782,12 +1080,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DenseNet Implementation in Tensorflow",
+                "homepage": null,
                 "id": 68931654,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-05-07T17:47:07Z",
+                "open_issues": 10,
                 "owner": "YixuanLi",
                 "repo": "densenet-tensorflow",
-                "stars": 563
+                "stars": 563,
+                "topics": [
+                  "densenet",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -798,12 +1104,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DenseNet Caffe Models, converted from https://github.com/liuzhuang13/DenseNet",
+                "homepage": null,
                 "id": 81929000,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-08-29T17:45:11Z",
+                "open_issues": 17,
                 "owner": "shicai",
                 "repo": "DenseNet-Caffe",
-                "stars": 361
+                "stars": 361,
+                "topics": [
+                  "caffe",
+                  "deep-learning",
+                  "densenet",
+                  "imagenet",
+                  "torch"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -821,12 +1138,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FractalNet implementation in Keras: Ultra-Deep Neural Networks without Residuals",
+                "homepage": null,
                 "id": 61829876,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-09-17T17:11:23Z",
+                "open_issues": 0,
                 "owner": "snf",
                 "repo": "keras-fractalnet",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -837,12 +1159,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FractalNet: A fractal-based neural network architecture",
+                "homepage": "http://people.cs.uchicago.edu/~larsson/fractalnet/",
                 "id": 61153692,
                 "language": "C++",
+                "license": "BSD-3-Clause",
                 "last_commit": "2017-10-11T10:58:44Z",
+                "open_issues": 5,
                 "owner": "gustavla",
                 "repo": "fractalnet",
-                "stars": 150
+                "stars": 150,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -853,12 +1180,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of FractalNet. ",
+                "homepage": "https://arxiv.org/pdf/1605.07648v1.pdf",
                 "id": 62264872,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-01-26T02:18:24Z",
+                "open_issues": 1,
                 "owner": "tensorpro",
                 "repo": "FractalNet",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -876,12 +1208,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reference implementations of popular deep learning models.",
+                "homepage": null,
                 "id": 135753620,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-17T22:37:33Z",
+                "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990
+                "stars": 1990,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -892,12 +1229,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Implementation of a classification framework from the paper Aggregated Residual Transformations for Deep Neural Networks",
+                "homepage": null,
                 "id": 78594383,
                 "language": "Lua",
+                "license": "NOASSERTION",
                 "last_commit": "2020-01-14T19:58:44Z",
+                "open_issues": 10,
                 "owner": "facebookresearch",
                 "repo": "ResNeXt",
-                "stars": 1924
+                "stars": 1924,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -908,12 +1250,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reproduces ResNet-V3 with pytorch",
+                "homepage": null,
                 "id": 86673112,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-08-01T23:01:12Z",
+                "open_issues": 7,
                 "owner": "prlz77",
                 "repo": "ResNeXt.pytorch",
-                "stars": 518
+                "stars": 518,
+                "topics": [
+                  "cifar",
+                  "pytorch",
+                  "resnet",
+                  "resnext"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -924,12 +1276,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of ResNeXt models from the paper Aggregated Residual Transformations for Deep Neural Networks in Keras 2.0+.",
+                "homepage": null,
                 "id": 93877235,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-04-17T10:05:32Z",
+                "open_issues": 8,
                 "owner": "titu1994",
                 "repo": "Keras-ResNeXt",
-                "stars": 223
+                "stars": 223,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -940,12 +1297,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Tensorflow implementation of ResNeXt using Cifar10",
+                "homepage": null,
                 "id": 101144707,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-08-14T04:35:00Z",
+                "open_issues": 4,
                 "owner": "taki0112",
                 "repo": "ResNeXt-Tensorflow",
-                "stars": 158
+                "stars": 158,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -956,12 +1318,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an implementation of ResNeXt (by Xie et al.) in tensorflow",
+                "homepage": null,
                 "id": 82236363,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-02-18T23:27:13Z",
+                "open_issues": 9,
                 "owner": "wenxinxu",
                 "repo": "ResNeXt-in-tensorflow",
-                "stars": 77
+                "stars": 77,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -979,12 +1346,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 99637330,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2017-12-21T02:13:32Z",
+                "open_issues": 2,
                 "owner": "hellozting",
                 "repo": "InterleavedGroupConvolutions",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1002,12 +1374,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a pytorch code about Residual Attention Network.  This code is based on two  projects from",
+                "homepage": null,
                 "id": 124525866,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-10-29T05:56:01Z",
+                "open_issues": 20,
                 "owner": "tengshaofeng",
                 "repo": "ResidualAttentionNetwork-pytorch",
-                "stars": 685
+                "stars": 685,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1018,12 +1395,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Residual Attention Network for Image Classification",
+                "homepage": null,
                 "id": 96872151,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-07-21T09:28:52Z",
+                "open_issues": 18,
                 "owner": "fwang91",
                 "repo": "residual-attention-network",
-                "stars": 558
+                "stars": 558,
+                "topics": [
+                  "attention",
+                  "cvpr-2017",
+                  "image-classification"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1034,12 +1420,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gluon implement of Residual Attention Network. Best acc on cifar10-97.78%.",
+                "homepage": "https://pistony.github.io/ResidualAttentionNetwork/",
                 "id": 148084832,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-06-12T03:31:15Z",
+                "open_issues": 1,
                 "owner": "DevinXYang",
                 "repo": "ResidualAttentionNetwork",
-                "stars": 107
+                "stars": 107,
+                "topics": [
+                  "cifar10",
+                  "deep-learning",
+                  "gluon",
+                  "gluon-cv",
+                  "mxnet",
+                  "residual-attention-network",
+                  "sota"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1050,12 +1449,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 101722731,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-04-16T08:50:48Z",
+                "open_issues": 7,
                 "owner": "koichiro11",
                 "repo": "residual-attention-network",
-                "stars": 92
+                "stars": 92,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1073,12 +1477,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepLab v3+ model in PyTorch. Support different backbones.",
+                "homepage": null,
                 "id": 137429940,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-04T04:22:21Z",
+                "open_issues": 134,
                 "owner": "jfzhang95",
                 "repo": "pytorch-deeplab-xception",
-                "stars": 3000
+                "stars": 3000,
+                "topics": [
+                  "deeplab-v3-plus",
+                  "drn",
+                  "mobilenetv2",
+                  "pytorch",
+                  "resnet",
+                  "xception"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1089,12 +1505,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reference implementations of popular deep learning models.",
+                "homepage": null,
                 "id": 135753620,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-17T22:37:33Z",
+                "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990
+                "stars": 1990,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1105,12 +1526,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of Xception:  Deep Learning with Depthwise Separable Convolutions",
+                "homepage": null,
                 "id": 118868906,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-01-16T09:14:24Z",
+                "open_issues": 0,
                 "owner": "tstandley",
                 "repo": "Xception-PyTorch",
-                "stars": 264
+                "stars": 264,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1121,12 +1547,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow implementation of the Xception Model by François Chollet",
+                "homepage": null,
                 "id": 90740660,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-09-09T19:11:40Z",
+                "open_issues": 6,
                 "owner": "kwotsin",
                 "repo": "TensorFlow-Xception",
-                "stars": 214
+                "stars": 214,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "machine-learning",
+                  "tensorflow",
+                  "tensorflow-xception",
+                  "xception-model"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1137,12 +1575,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Xception implemented with caffe",
+                "homepage": "https://yihui-he.github.io/blog/xception-with-caffe",
                 "id": 79223315,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2024-05-02T06:53:08Z",
+                "open_issues": 3,
                 "owner": "ethanhe42",
                 "repo": "Xception-caffe",
-                "stars": 46
+                "stars": 46,
+                "topics": [
+                  "caffe",
+                  "imagenet",
+                  "xception",
+                  "xception-caffe"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1160,12 +1608,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reference implementations of popular deep learning models.",
+                "homepage": null,
                 "id": 135753620,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-17T22:37:33Z",
+                "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990
+                "stars": 1990,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1176,12 +1629,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MobileNet build with Tensorflow",
+                "homepage": null,
                 "id": 88717189,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2017-11-06T01:23:28Z",
+                "open_issues": 47,
                 "owner": "Zehaos",
                 "repo": "MobileNet",
-                "stars": 1659
+                "stars": 1659,
+                "topics": [
+                  "detection",
+                  "mobilenets",
+                  "multigpu",
+                  "slim",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1192,12 +1656,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe Implementation of Google's MobileNets (v1 and v2)",
+                "homepage": null,
                 "id": 89568797,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2021-06-08T06:28:43Z",
+                "open_issues": 48,
                 "owner": "shicai",
                 "repo": "MobileNet-Caffe",
-                "stars": 1274
+                "stars": 1274,
+                "topics": [
+                  "caffe",
+                  "imagenet",
+                  "mobilenet",
+                  "mobilenetv2",
+                  "mobilnet-v2"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1215,12 +1690,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Github Repo for PolyNet",
+                "homepage": null,
                 "id": 87809975,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2017-07-23T07:37:53Z",
+                "open_issues": 4,
                 "owner": "MMLab-CU",
                 "repo": "polynet",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1238,12 +1718,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dual Path Networks",
+                "homepage": null,
                 "id": 95994536,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-03-13T07:12:27Z",
+                "open_issues": 16,
                 "owner": "cypw",
                 "repo": "DPNs",
-                "stars": 526
+                "stars": 526,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1254,12 +1739,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dual Path Networks (DPN) supporting pretrained weights converted from original MXNet implementation ",
+                "homepage": null,
                 "id": 101685135,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-11T22:58:03Z",
+                "open_issues": 1,
                 "owner": "rwightman",
                 "repo": "pytorch-dpn-pretrained",
-                "stars": 205
+                "stars": 205,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1270,12 +1760,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Dual Path Networks for Keras 2.0+",
+                "homepage": null,
                 "id": 99740775,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2020-02-09T15:54:15Z",
+                "open_issues": 3,
                 "owner": "titu1994",
                 "repo": "Keras-DualPathNetworks",
-                "stars": 112
+                "stars": 112,
+                "topics": [
+                  "deep-learning",
+                  "dpn",
+                  "dual-path-networks",
+                  "keras",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1286,12 +1787,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch Imprementation of Dual Path Networks",
+                "homepage": "https://arxiv.org/abs/1707.01629",
                 "id": 97108543,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-08-30T05:51:11Z",
+                "open_issues": 1,
                 "owner": "oyam",
                 "repo": "pytorch-DPNs",
-                "stars": 89
+                "stars": 89,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1309,12 +1815,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":fire::fire:A MXNet implementation of Modified CRUNet & Residual Attention Network:fire::fire:",
+                "homepage": null,
                 "id": 145479803,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-22T05:54:26Z",
+                "open_issues": 11,
                 "owner": "bruinxiong",
                 "repo": "Modified-CRUNet-and-Residual-Attention-Network.mxnet",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1325,12 +1836,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 85088742,
                 "language": null,
+                "license": null,
                 "last_commit": "2017-04-14T00:12:15Z",
+                "open_issues": 5,
                 "owner": "cypw",
                 "repo": "CRU-Net",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1352,12 +1868,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the CVPR 2018 Oral Paper \"Deep Layer Aggregation\"",
+            "homepage": "https://www.vis.xyz/pub/dla/",
             "id": 137942993,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-01-04T12:15:27Z",
+            "open_issues": 17,
             "owner": "ucbdrive",
             "repo": "dla",
-            "stars": 440
+            "stars": 440,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:55:10.815Z"
         },
@@ -1370,12 +1891,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is a fast caffe implementation of ShuffleNet.",
+                "homepage": null,
                 "id": 97317296,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2018-08-30T04:17:48Z",
+                "open_issues": 17,
                 "owner": "farmingyard",
                 "repo": "ShuffleNet",
-                "stars": 453
+                "stars": 453,
+                "topics": [
+                  "caffe",
+                  "shufflenet",
+                  "shufflenet-v2"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1386,12 +1916,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ShuffleNet Implementation in TensorFlow",
+                "homepage": null,
                 "id": 103679148,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-04T07:22:48Z",
+                "open_issues": 10,
                 "owner": "MG2033",
                 "repo": "ShuffleNet",
-                "stars": 381
+                "stars": 381,
+                "topics": [
+                  "classification",
+                  "computer-vision",
+                  "deep-learning",
+                  "group-convolution",
+                  "realtime",
+                  "shufflenet",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1402,12 +1945,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ShuffleNet in PyTorch. Based on https://arxiv.org/abs/1707.01083",
+                "homepage": null,
                 "id": 97298151,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-12-20T12:50:24Z",
+                "open_issues": 6,
                 "owner": "jaxony",
                 "repo": "ShuffleNet",
-                "stars": 296
+                "stars": 296,
+                "topics": [
+                  "artificial-intelligence",
+                  "convolution",
+                  "deep-learning",
+                  "neural-network",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1418,12 +1972,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "ShuffleNet Implementation using Keras Functional Framework 2.0",
+                "homepage": null,
                 "id": 107670620,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-10-16T16:25:44Z",
+                "open_issues": 0,
                 "owner": "scheckmedia",
                 "repo": "keras-shufflenet",
-                "stars": 77
+                "stars": 77,
+                "topics": [
+                  "deep-learning",
+                  "keras",
+                  "machine-learning",
+                  "neural-network",
+                  "python2",
+                  "python3",
+                  "research",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1441,12 +2009,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CondenseNet: Light weighted CNN for mobile devices",
+                "homepage": null,
                 "id": 104818215,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-11-11T03:38:46Z",
+                "open_issues": 11,
                 "owner": "ShichenLiu",
                 "repo": "CondenseNet",
-                "stars": 690
+                "stars": 690,
+                "topics": [
+                  "deep-learning",
+                  "mobile-device",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1457,12 +2034,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "tensorflow implementation of CondenseNet: An Efficient DenseNet using Learned Group Convolutions",
+                "homepage": null,
                 "id": 119026624,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-02-01T14:07:45Z",
+                "open_issues": 3,
                 "owner": "markdtw",
                 "repo": "condensenet-tensorflow",
-                "stars": 29
+                "stars": 29,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1480,12 +2062,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reference implementations of popular deep learning models.",
+                "homepage": null,
                 "id": 135753620,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-02-17T22:37:33Z",
+                "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990
+                "stars": 1990,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1496,12 +2083,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "\"NASNet\" models in Keras 2.0+ with weights",
+                "homepage": null,
                 "id": 111054933,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-05-17T06:22:34Z",
+                "open_issues": 9,
                 "owner": "titu1994",
                 "repo": "Keras-NASNet",
-                "stars": 196
+                "stars": 196,
+                "topics": [
+                  "keras",
+                  "nasnet-models",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1512,12 +2108,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A nasnet in tensorflow",
+                "homepage": null,
                 "id": 113929185,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-07-08T02:13:40Z",
+                "open_issues": 6,
                 "owner": "yeephycho",
                 "repo": "nasnet-tensorflow",
-                "stars": 135
+                "stars": 135,
+                "topics": [
+                  "nasnet",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1528,12 +2132,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A neat pytorch implementation of nasnet and the ported weights from tensorflow",
+                "homepage": null,
                 "id": 126015382,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-12-05T08:57:54Z",
+                "open_issues": 2,
                 "owner": "wandering007",
                 "repo": "nasnet-pytorch",
-                "stars": 75
+                "stars": 75,
+                "topics": [
+                  "nasnet",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1551,12 +2163,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Keras implementation of MobileNetV2.",
+                "homepage": null,
                 "id": 119776589,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-05-25T14:04:34Z",
+                "open_issues": 15,
                 "owner": "xiaochus",
                 "repo": "MobileNetV2",
-                "stars": 340
+                "stars": 340,
+                "topics": [
+                  "cnn",
+                  "image-classification",
+                  "keras",
+                  "mobilenetv2"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1567,12 +2189,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Impementation of MobileNetV2 in pytorch ",
+                "homepage": "https://arxiv.org/abs/1801.04381",
                 "id": 117980814,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-08-28T13:44:34Z",
+                "open_issues": 6,
                 "owner": "Randl",
                 "repo": "MobileNetV2-pytorch",
-                "stars": 281
+                "stars": 281,
+                "topics": [
+                  "cnn",
+                  "image-classification",
+                  "mobilenet2",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1583,12 +2215,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tensorflow implementation of MobileNet V2",
+                "homepage": null,
                 "id": 119354711,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-05-07T02:59:13Z",
+                "open_issues": 3,
                 "owner": "neuleaf",
                 "repo": "MobileNetV2",
-                "stars": 150
+                "stars": 150,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1606,12 +2243,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Models and examples built with TensorFlow",
+                "homepage": null,
                 "id": 51117837,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T18:30:48Z",
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77659
+                "stars": 77658,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1622,12 +2264,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of PNASNet-5 on ImageNet",
+                "homepage": null,
                 "id": 140200211,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-08-04T20:12:17Z",
+                "open_issues": 3,
                 "owner": "chenxi116",
                 "repo": "PNASNet.pytorch",
-                "stars": 321
+                "stars": 321,
+                "topics": [
+                  "automl",
+                  "deep-learning",
+                  "imagenet",
+                  "neural-architecture-search",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1638,12 +2291,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TensorFlow implementation of PNASNet-5 on ImageNet",
+                "homepage": null,
                 "id": 139935213,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-12-08T21:06:46Z",
+                "open_issues": 3,
                 "owner": "chenxi116",
                 "repo": "PNASNet.TF",
-                "stars": 101
+                "stars": 101,
+                "topics": [
+                  "automl",
+                  "deep-learning",
+                  "imagenet",
+                  "neural-architecture-search",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1661,12 +2325,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reference models and tools for Cloud TPUs.",
+                "homepage": "https://cloud.google.com/tpu/",
                 "id": 96946693,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-22T19:40:55Z",
+                "open_issues": 319,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5278
+                "stars": 5278,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1684,12 +2353,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Squeeze-and-Excitation Networks",
+                "homepage": null,
                 "id": 100795326,
                 "language": "Cuda",
+                "license": "Apache-2.0",
                 "last_commit": "2019-02-25T08:41:20Z",
+                "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3646
+                "stars": 3646,
+                "topics": [
+                  "caffe",
+                  "gpu",
+                  "senet"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1700,12 +2378,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of SENet",
+                "homepage": null,
                 "id": 103267552,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-03-02T04:09:12Z",
+                "open_issues": 0,
                 "owner": "moskomule",
                 "repo": "senet.pytorch",
-                "stars": 2343
+                "stars": 2343,
+                "topics": [
+                  "pytorch",
+                  "senet"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1716,12 +2402,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simple Tensorflow implementation of \"Squeeze and Excitation Networks\" using Cifar10 (ResNeXt, Inception-v4, Inception-resnet-v2)",
+                "homepage": null,
                 "id": 103622291,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2018-08-14T04:34:37Z",
+                "open_issues": 15,
                 "owner": "taki0112",
                 "repo": "SENet-Tensorflow",
-                "stars": 755
+                "stars": 755,
+                "topics": [
+                  "densenet",
+                  "inception",
+                  "inception-resnet",
+                  "resnext",
+                  "senet",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1732,12 +2430,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Caffe Re-Implementation of SENet",
+                "homepage": null,
                 "id": 101946719,
                 "language": null,
+                "license": "BSD-3-Clause",
                 "last_commit": "2018-11-26T03:30:07Z",
+                "open_issues": 9,
                 "owner": "shicai",
                 "repo": "SENet-Caffe",
-                "stars": 170
+                "stars": 170,
+                "topics": [
+                  "caffe",
+                  "imagenet",
+                  "resnet",
+                  "senet"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1748,12 +2456,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":fire::fire: A MXNet implementation of Squeeze-and-Excitation Networks (SE-ResNext, SE-Resnet, SE-Inception-v4 and SE-Inception-Resnet-v2) :fire::fire:",
+                "homepage": null,
                 "id": 104872828,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-07-27T10:28:32Z",
+                "open_issues": 6,
                 "owner": "bruinxiong",
                 "repo": "SENet.mxnet",
-                "stars": 156
+                "stars": 156,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1771,12 +2484,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of ShuffleNetV2 for pytorch",
+                "homepage": null,
                 "id": 143295986,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-04-17T04:44:41Z",
+                "open_issues": 5,
                 "owner": "Randl",
                 "repo": "ShuffleNetV2-pytorch",
-                "stars": 198
+                "stars": 198,
+                "topics": [
+                  "cnn-model",
+                  "pytorch",
+                  "shufflenetv2"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1787,12 +2509,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keras implementation of ShuffleNet V2",
+                "homepage": null,
                 "id": 144701437,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-14T10:02:22Z",
+                "open_issues": 8,
                 "owner": "opconty",
                 "repo": "keras-shufflenetV2",
-                "stars": 98
+                "stars": 98,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1803,12 +2530,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Caffe2 implementation of ShuffleNet V2.",
+                "homepage": null,
                 "id": 142782217,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-06T22:36:11Z",
+                "open_issues": 1,
                 "owner": "wolegechu",
                 "repo": "ShuffleNetV2.Caffe2",
-                "stars": 25
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1826,12 +2558,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch code for \"BAM: Bottleneck Attention Module (BMVC2018)\" and \"CBAM: Convolutional Block Attention Module (ECCV2018)\"",
+                "homepage": null,
                 "id": 151912385,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-09T03:46:12Z",
+                "open_issues": 42,
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2230
+                "stars": 2230,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1842,12 +2579,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Non-official implement of Paper：CBAM: Convolutional Block Attention Module",
+                "homepage": null,
                 "id": 148335407,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-07-12T10:24:30Z",
+                "open_issues": 10,
                 "owner": "luuuyi",
                 "repo": "CBAM.PyTorch",
-                "stars": 1500
+                "stars": 1500,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1858,12 +2600,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CBAM implementation on Keras",
+                "homepage": null,
                 "id": 144279922,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-02-08T06:16:50Z",
+                "open_issues": 10,
                 "owner": "kobiso",
                 "repo": "CBAM-keras",
-                "stars": 367
+                "stars": 367,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1874,12 +2621,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CBAM: Convolutional Block Attention Module for CIFAR10 on ResNet backbone with Pytorch",
+                "homepage": null,
                 "id": 215145846,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-10-18T12:42:21Z",
+                "open_issues": 2,
                 "owner": "elbuco1",
                 "repo": "CBAM",
-                "stars": 132
+                "stars": 132,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1897,12 +2649,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and Pretrained model for IGCV3",
+                "homepage": null,
                 "id": 133752592,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-10-22T13:55:15Z",
+                "open_issues": 3,
                 "owner": "homles11",
                 "repo": "IGCV3",
-                "stars": 189
+                "stars": 189,
+                "topics": [
+                  "igcv3",
+                  "image-classification"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1913,12 +2673,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IGCV3 reimplement by pytorch",
+                "homepage": null,
                 "id": 138134059,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-06-21T07:25:22Z",
+                "open_issues": 4,
                 "owner": "xxradon",
                 "repo": "IGCV3-pytorch",
-                "stars": 19
+                "stars": 19,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1929,12 +2694,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "a tensorflow implementate of IGCV3",
+                "homepage": null,
                 "id": 137335441,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-06-14T09:18:22Z",
+                "open_issues": 1,
                 "owner": "ZHANG-SHI-CHANG",
                 "repo": "IGCV3",
-                "stars": 2
+                "stars": 2,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1952,12 +2722,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official PyTorch code for \"BAM: Bottleneck Attention Module (BMVC2018)\" and \"CBAM: Convolutional Block Attention Module (ECCV2018)\"",
+                "homepage": null,
                 "id": 151912385,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-09T03:46:12Z",
+                "open_issues": 42,
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2230
+                "stars": 2230,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -1968,12 +2743,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementation of BAM: Bottleneck Attention Module with TensorFLow",
+                "homepage": null,
                 "id": 165988551,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-16T06:53:20Z",
+                "open_issues": 1,
                 "owner": "huyz1117",
                 "repo": "BAM",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "attention-mechanism",
+                  "bam",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -1991,12 +2775,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of Mnasnet: MnasNet: Platform-Aware Neural Architecture Search for Mobile.",
+                "homepage": null,
                 "id": 143511465,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-08-15T07:57:08Z",
+                "open_issues": 4,
                 "owner": "AnjieCheng",
                 "repo": "MnasNet-PyTorch",
-                "stars": 275
+                "stars": 275,
+                "topics": [
+                  "architecture-search",
+                  "mnasnet",
+                  "mobilenetv2",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2007,12 +2801,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tensorflow Keras implementation (Graph and eager execution) of Mnasnet: MnasNet: Platform-Aware Neural Architecture Search for Mobile. ",
+                "homepage": null,
                 "id": 144053166,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2020-03-05T14:54:38Z",
+                "open_issues": 1,
                 "owner": "Shathe",
                 "repo": "MNasNet-Keras-Tensorflow",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "architecture-search",
+                  "deep-learning",
+                  "eager-execution",
+                  "keras",
+                  "mnasnet",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2023,12 +2829,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Gluon implementation of Mnasnet",
+                "homepage": null,
                 "id": 143269832,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-27T10:27:08Z",
+                "open_issues": 1,
                 "owner": "chinakook",
                 "repo": "Mnasnet.MXNet",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2039,12 +2850,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A caffe implementation of Mnasnet: MnasNet: Platform-Aware Neural Architecture Search for Mobile.",
+                "homepage": null,
                 "id": 144872886,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-10-19T00:09:05Z",
+                "open_issues": 5,
                 "owner": "LiJianfei06",
                 "repo": "MnasNet-caffe",
-                "stars": 52
+                "stars": 52,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2062,12 +2878,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Differentiable architecture search for convolutional and recurrent networks",
+                "homepage": "https://arxiv.org/abs/1806.09055",
                 "id": 138547383,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-03T02:21:40Z",
+                "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3998
+                "stars": 3998,
+                "topics": [
+                  "automl",
+                  "convolutional-networks",
+                  "deep-learning",
+                  "image-classification",
+                  "language-modeling",
+                  "neural-architecture-search",
+                  "pytorch",
+                  "recurrent-networks"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2078,12 +2908,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch Implementation of DARTS: Differentiable Architecture Search",
+                "homepage": null,
                 "id": 155827645,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-07-19T22:16:10Z",
+                "open_issues": 33,
                 "owner": "khanrc",
                 "repo": "pt.darts",
-                "stars": 452
+                "stars": 452,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2094,12 +2929,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tensorflow code for Differentiable architecture search  ",
+                "homepage": null,
                 "id": 159820171,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2018-12-29T08:39:50Z",
+                "open_issues": 4,
                 "owner": "NeroLoh",
                 "repo": "darts-tensorflow",
-                "stars": 72
+                "stars": 72,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2117,12 +2957,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR 2019] ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware",
+                "homepage": "https://hanlab.mit.edu/projects/proxylessNAS/",
                 "id": 159995467,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2024-08-30T23:51:21Z",
+                "open_issues": 2,
                 "owner": "mit-han-lab",
                 "repo": "proxylessnas",
-                "stars": 1447
+                "stars": 1447,
+                "topics": [
+                  "acceleration",
+                  "automl",
+                  "efficient-model",
+                  "hardware-aware",
+                  "on-device-ai",
+                  "specialization"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2140,12 +2992,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "mobilenetv3 with pytorch，provide pre-train model",
+                "homepage": null,
                 "id": 186247418,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-04-27T03:23:18Z",
+                "open_issues": 46,
                 "owner": "xiaolai-sqlai",
                 "repo": "mobilenetv3",
-                "stars": 1864
+                "stars": 1864,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2156,12 +3013,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MobileNetV3 in pytorch and ImageNet pretrained models",
+                "homepage": null,
                 "id": 185657873,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2019-06-23T01:31:09Z",
+                "open_issues": 9,
                 "owner": "kuan-wang",
                 "repo": "pytorch-mobilenet-v3",
-                "stars": 807
+                "stars": 807,
+                "topics": [
+                  "classification",
+                  "imagenet",
+                  "mobilenet",
+                  "mobilenetv2",
+                  "mobilenetv3",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2172,12 +3041,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "74.3% MobileNetV3-Large and 67.2% MobileNetV3-Small model on ImageNet",
+                "homepage": "https://arxiv.org/abs/1905.02244",
                 "id": 185647327,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-03-08T04:53:24Z",
+                "open_issues": 12,
                 "owner": "d-li14",
                 "repo": "mobilenetv3.pytorch",
-                "stars": 598
+                "stars": 598,
+                "topics": [
+                  "iccv2019",
+                  "imagenet",
+                  "mobilenetv3",
+                  "pretrained-models",
+                  "pytorch-implementation"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2188,12 +3068,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Implementing Searching for MobileNetV3 paper using Pytorch",
+                "homepage": null,
                 "id": 185542801,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-07-04T00:41:50Z",
+                "open_issues": 7,
                 "owner": "leaderj1001",
                 "repo": "MobileNetV3-Pytorch",
-                "stars": 299
+                "stars": 299,
+                "topics": [
+                  "cifar-10",
+                  "cifar-100",
+                  "imagenet",
+                  "mobilenetv3",
+                  "pytorch",
+                  "searching-for-mobilenetv3"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2204,12 +3096,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Keras implementation of MobileNetV3.",
+                "homepage": null,
                 "id": 187315602,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-03-23T08:02:12Z",
+                "open_issues": 10,
                 "owner": "xiaochus",
                 "repo": "MobileNetV3",
-                "stars": 242
+                "stars": 242,
+                "topics": [
+                  "image-classification",
+                  "keras",
+                  "mobilenetv3"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2220,12 +3121,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Caffe Implementation of MobileNets V3",
+                "homepage": null,
                 "id": 185902546,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2019-05-18T07:25:58Z",
+                "open_issues": 6,
                 "owner": "jixing0415",
                 "repo": "caffe-mobilenet-v3",
-                "stars": 131
+                "stars": 131,
+                "topics": [
+                  "caffe",
+                  "mobilenet-v3",
+                  "mobilenetv3"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2243,12 +3153,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch implementation of Res2Net",
+                "homepage": null,
                 "id": 180133577,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-04-28T05:59:46Z",
+                "open_issues": 5,
                 "owner": "4uiiurz1",
                 "repo": "pytorch-res2net",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "deep-learning",
+                  "pytorch",
+                  "res2net"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2259,12 +3178,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Keras implementation of a res2net module with tf banckend",
+                "homepage": null,
                 "id": 179916740,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-04-07T04:14:42Z",
+                "open_issues": 1,
                 "owner": "MaoYuxin25",
                 "repo": "res2net-keras",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2282,12 +3206,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and pretrained models for LIP: Local Importance-based Pooling (ICCV 19)",
+                "homepage": null,
                 "id": 201045957,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-09-29T17:01:19Z",
+                "open_issues": 0,
                 "owner": "sebgao",
                 "repo": "LIP",
-                "stars": 225
+                "stars": 225,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2305,12 +3234,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A PyTorch implementation of EfficientNet",
+                "homepage": null,
                 "id": 189350661,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-04-08T12:30:25Z",
+                "open_issues": 167,
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8222
+                "stars": 8222,
+                "topics": [
+                  "efficientnet-pytorch",
+                  "feature-extraction",
+                  "imagenet",
+                  "pretrained-models"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2321,12 +3260,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Reference models and tools for Cloud TPUs.",
+                "homepage": "https://cloud.google.com/tpu/",
                 "id": 96946693,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-22T19:40:55Z",
+                "open_issues": 319,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5278
+                "stars": 5278,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2344,12 +3288,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This repository reproduces the results of the paper: \"Fixing the train-test resolution discrepancy\" https://arxiv.org/abs/1906.06423",
+                "homepage": null,
                 "id": 194276453,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-08-11T15:46:19Z",
+                "open_issues": 5,
                 "owner": "facebookresearch",
                 "repo": "FixRes",
-                "stars": 1043
+                "stars": 1043,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2367,12 +3316,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official repository for the \"Big Transfer (BiT): General Visual Representation Learning\" paper.",
+                "homepage": "https://arxiv.org/abs/1912.11370",
                 "id": 263163293,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-30T21:21:39Z",
+                "open_issues": 42,
                 "owner": "google-research",
                 "repo": "big_transfer",
-                "stars": 1541
+                "stars": 1541,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "deep-learning",
+                  "imagenet",
+                  "jax",
+                  "pytorch",
+                  "tensorflow2",
+                  "transfer-learning"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2390,12 +3352,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ECCV 2020] PSConv: Squeezing Feature Pyramid into One Compact Poly-Scale Convolutional Layer",
+                "homepage": "https://arxiv.org/abs/2007.06191",
                 "id": 277075342,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2020-07-14T01:14:35Z",
+                "open_issues": 4,
                 "owner": "d-li14",
                 "repo": "PSConv",
-                "stars": 174
+                "stars": 174,
+                "topics": [
+                  "convolution",
+                  "eccv2020",
+                  "feature-pyramids",
+                  "instance-segmentation",
+                  "mmdetection",
+                  "multi-scale",
+                  "object-detection",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2413,12 +3389,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Code for Noisy Student Training. https://arxiv.org/abs/1911.04252",
+                "homepage": null,
                 "id": 240595880,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-03-21T18:46:47Z",
+                "open_issues": 8,
                 "owner": "google-research",
                 "repo": "noisystudent",
-                "stars": 764
+                "stars": 764,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2436,12 +3417,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Codebase for Image Classification Research, written in PyTorch.",
+                "homepage": null,
                 "id": 191256013,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-03-20T15:45:40Z",
+                "open_issues": 27,
                 "owner": "facebookresearch",
                 "repo": "pycls",
-                "stars": 2161
+                "stars": 2161,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2452,12 +3438,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PyTorch-style and human-readable RegNet with a spectrum of pre-trained models",
+                "homepage": "https://arxiv.org/abs/2003.13678",
                 "id": 270024227,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-03-19T16:23:57Z",
+                "open_issues": 1,
                 "owner": "d-li14",
                 "repo": "regnet.pytorch",
-                "stars": 69
+                "stars": 69,
+                "topics": [
+                  "imagenet",
+                  "neural-architecture-search",
+                  "pretrained-models",
+                  "pytorch",
+                  "regnet",
+                  "resnext"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2475,12 +3473,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient AI Backbones including GhostNet, TNT and MLP, developed by Huawei Noah's Ark Lab.",
+                "homepage": null,
                 "id": 222110214,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-15T12:48:07Z",
+                "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4418
+                "stars": 4418,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "efficient-inference",
+                  "ghostnet",
+                  "imagenet",
+                  "model-compression",
+                  "pretrained-models",
+                  "pytorch",
+                  "tensorflow",
+                  "transformer",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2498,12 +3512,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 306018946,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-01T21:36:15Z",
+                "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12684
+                "stars": 12684,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             },
@@ -2514,12 +3533,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pytorch reimplementation of the Vision Transformer (An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale)",
+                "homepage": null,
                 "id": 309640876,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-06-07T07:14:33Z",
+                "open_issues": 29,
                 "owner": "jeonsworld",
                 "repo": "ViT-pytorch",
-                "stars": 2162
+                "stars": 2162,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2537,12 +3561,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official DeiT repository",
+                "homepage": null,
                 "id": 323966500,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-15T13:20:37Z",
+                "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4355
+                "stars": 4355,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2560,12 +3589,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of PVT series",
+                "homepage": null,
                 "id": 341748701,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-27T08:47:14Z",
+                "open_issues": 41,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1900
+                "stars": 1900,
+                "topics": [
+                  "backbone",
+                  "detection",
+                  "pvt",
+                  "pvtv2",
+                  "segmentation",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2583,12 +3624,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ICCV2021, Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet",
+                "homepage": null,
                 "id": 332114633,
                 "language": "Jupyter Notebook",
+                "license": "NOASSERTION",
                 "last_commit": "2023-10-27T19:00:24Z",
+                "open_issues": 23,
                 "owner": "yitu-opensource",
                 "repo": "T2T-ViT",
-                "stars": 1191
+                "stars": 1191,
+                "topics": [
+                  "t2t-transformer",
+                  "vision-transformer",
+                  "vit"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2606,12 +3656,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 350903303,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-12-18T15:03:53Z",
+                "open_issues": 12,
                 "owner": "zhoudaquan",
                 "repo": "dvit_repo",
-                "stars": 141
+                "stars": 141,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2629,12 +3684,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 357813822,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-16T22:01:51Z",
+                "open_issues": 8,
                 "owner": "microsoft",
                 "repo": "vision-longformer",
-                "stars": 249
+                "stars": 249,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2652,12 +3712,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Efficient AI Backbones including GhostNet, TNT and MLP, developed by Huawei Noah's Ark Lab.",
+                "homepage": null,
                 "id": 222110214,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-03-15T12:48:07Z",
+                "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4418
+                "stars": 4418,
+                "topics": [
+                  "convolutional-neural-networks",
+                  "efficient-inference",
+                  "ghostnet",
+                  "imagenet",
+                  "model-compression",
+                  "pretrained-models",
+                  "pytorch",
+                  "tensorflow",
+                  "transformer",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2675,12 +3751,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official implementation of CvT: Introducing Convolutions to Vision Transformers.",
+                "homepage": null,
                 "id": 370805731,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-16T08:07:07Z",
+                "open_issues": 22,
                 "owner": "microsoft",
                 "repo": "CvT",
-                "stars": 606
+                "stars": 606,
+                "topics": [
+                  "classification",
+                  "computer-vision",
+                  "cvt",
+                  "deep-learning",
+                  "imagenet"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2698,12 +3785,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Official implementation of CrossViT. https://arxiv.org/abs/2103.14899",
+                "homepage": null,
                 "id": 391188495,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-12T15:13:20Z",
+                "open_issues": 7,
                 "owner": "IBM",
                 "repo": "CrossViT",
-                "stars": 417
+                "stars": 417,
+                "topics": [
+                  "computer-vision",
+                  "deep-learning",
+                  "multi-scale-features",
+                  "vision-transformer"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2721,12 +3818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurIPS 2021 Spotlight] Official code for \"Focal Self-attention for Local-Global Interactions in Vision Transformers\"",
+                "homepage": null,
                 "id": 384661236,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-03-27T05:21:56Z",
+                "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "Focal-Transformer",
-                "stars": 559
+                "stars": 559,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2744,12 +3846,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official implementation of PVT series",
+                "homepage": null,
                 "id": 341748701,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-10-27T08:47:14Z",
+                "open_issues": 41,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1900
+                "stars": 1900,
+                "topics": [
+                  "backbone",
+                  "detection",
+                  "pvt",
+                  "pvtv2",
+                  "segmentation",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
             }
@@ -2763,15 +3877,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:25.132Z",
+    "last_updated": "2026-08-29T04:21:52.069Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of deep learning image classification papers and codes",
+      "homepage": null,
       "id": 4420796,
       "language": null,
+      "license": null,
       "last_commit": "2022-04-20T15:52:51Z",
+      "open_issues": 1,
       "owner": "weiaicunzai",
       "repo": "awesome-image-classification",
-      "stars": 3064
+      "stars": 3064,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "computer-vision",
+        "deep-learning",
+        "image-classification",
+        "papers"
+      ]
     },
     "original_repository_sha": "250f6e91979981d7634137c8d39268324a9728f6",
     "enhanced_repository": "enhansome/enhansome-image-classification",
