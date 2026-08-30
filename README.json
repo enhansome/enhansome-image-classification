@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T11:37:23Z",
-                "open_issues": 1198,
+                "last_commit": "2026-08-30T11:37:32Z",
+                "open_issues": 1201,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17891,
+                "stars": 17895,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T11:37:23Z",
-                "open_issues": 1198,
+                "last_commit": "2026-08-30T11:37:32Z",
+                "open_issues": 1201,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17891,
+                "stars": 17895,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T11:37:23Z",
-                "open_issues": 1198,
+                "last_commit": "2026-08-30T11:37:32Z",
+                "open_issues": 1201,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17891,
+                "stars": 17895,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-08-29T11:37:23Z",
-                "open_issues": 1198,
+                "last_commit": "2026-08-30T11:37:32Z",
+                "open_issues": 1201,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17891,
+                "stars": 17895,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -2252,7 +2252,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77658,
+                "stars": 77659,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2334,7 +2334,7 @@
                 "open_issues": 319,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5278,
+                "stars": 5279,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3243,7 +3243,7 @@
                 "open_issues": 167,
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8221,
+                "stars": 8220,
                 "topics": [
                   "efficientnet-pytorch",
                   "feature-extraction",
@@ -3269,7 +3269,7 @@
                 "open_issues": 319,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5278,
+                "stars": 5279,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3521,7 +3521,7 @@
                 "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12686,
+                "stars": 12688,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T22:49:33.726Z",
+    "last_updated": "2026-08-30T22:56:58.852Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
