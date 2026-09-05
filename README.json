@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-04T11:37:05Z",
-                "open_issues": 1205,
+                "last_commit": "2026-09-05T11:37:16Z",
+                "open_issues": 1218,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17897,
+                "stars": 17899,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-04T11:37:05Z",
-                "open_issues": 1205,
+                "last_commit": "2026-09-05T11:37:16Z",
+                "open_issues": 1218,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17897,
+                "stars": 17899,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6426,
+                "stars": 6427,
                 "topics": [
                   "pytorch"
                 ]
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-04T11:37:05Z",
-                "open_issues": 1205,
+                "last_commit": "2026-09-05T11:37:16Z",
+                "open_issues": 1218,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17897,
+                "stars": 17899,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-04T11:37:05Z",
-                "open_issues": 1205,
+                "last_commit": "2026-09-05T11:37:16Z",
+                "open_issues": 1218,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17897,
+                "stars": 17899,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -2248,11 +2248,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-03T23:11:37Z",
+                "last_commit": "2026-09-05T00:14:58Z",
                 "open_issues": 1273,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77661,
+                "stars": 77659,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3647,
+                "stars": 3648,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -3521,7 +3521,7 @@
                 "open_issues": 139,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12700,
+                "stars": 12703,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3542,7 +3542,7 @@
                 "open_issues": 29,
                 "owner": "jeonsworld",
                 "repo": "ViT-pytorch",
-                "stars": 2163,
+                "stars": 2162,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3760,7 +3760,7 @@
                 "open_issues": 22,
                 "owner": "microsoft",
                 "repo": "CvT",
-                "stars": 606,
+                "stars": 605,
                 "topics": [
                   "classification",
                   "computer-vision",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T22:34:27.840Z",
+    "last_updated": "2026-09-05T22:22:12.452Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
@@ -3889,7 +3889,7 @@
       "open_issues": 1,
       "owner": "weiaicunzai",
       "repo": "awesome-image-classification",
-      "stars": 3064,
+      "stars": 3063,
       "topics": [
         "awesome",
         "awesome-list",
