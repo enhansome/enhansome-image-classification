@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-09T20:00:43Z",
-                "open_issues": 1221,
+                "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17904,
+                "stars": 17906,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -175,10 +175,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-09T20:00:43Z",
-                "open_issues": 1221,
+                "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17904,
+                "stars": 17906,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -387,10 +387,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-09T20:00:43Z",
-                "open_issues": 1221,
+                "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17904,
+                "stars": 17906,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -737,10 +737,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-09T20:00:43Z",
-                "open_issues": 1221,
+                "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17904,
+                "stars": 17906,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -2334,7 +2334,7 @@
                 "open_issues": 320,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5276,
+                "stars": 5277,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3269,7 +3269,7 @@
                 "open_issues": 320,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5276,
+                "stars": 5277,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3521,7 +3521,7 @@
                 "open_issues": 140,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12707,
+                "stars": 12708,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T22:49:04.528Z",
+    "last_updated": "2026-09-11T22:49:02.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
