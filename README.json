@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-14T19:14:55Z",
-                "open_issues": 1224,
+                "last_commit": "2026-09-15T11:37:58Z",
+                "open_issues": 1222,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17909,
+                "stars": 17912,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-14T19:14:55Z",
-                "open_issues": 1224,
+                "last_commit": "2026-09-15T11:37:58Z",
+                "open_issues": 1222,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17909,
+                "stars": 17912,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6433,
+                "stars": 6435,
                 "topics": [
                   "pytorch"
                 ]
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-14T19:14:55Z",
-                "open_issues": 1224,
+                "last_commit": "2026-09-15T11:37:58Z",
+                "open_issues": 1222,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17909,
+                "stars": 17912,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-14T19:14:55Z",
-                "open_issues": 1224,
+                "last_commit": "2026-09-15T11:37:58Z",
+                "open_issues": 1222,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17909,
+                "stars": 17912,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -3521,7 +3521,7 @@
                 "open_issues": 141,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12710,
+                "stars": 12712,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3598,7 +3598,7 @@
                 "open_issues": 42,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1902,
+                "stars": 1903,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3817,7 +3817,7 @@
               "description": null,
               "children": [],
               "repo_info": {
-                "archived": false,
+                "archived": true,
                 "description": "[NeurIPS 2021 Spotlight] Official code for \"Focal Self-attention for Local-Global Interactions in Vision Transformers\"",
                 "homepage": null,
                 "id": 384661236,
@@ -3855,7 +3855,7 @@
                 "open_issues": 42,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1902,
+                "stars": 1903,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T23:32:11.316Z",
+    "last_updated": "2026-09-15T23:12:35.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
@@ -3889,7 +3889,7 @@
       "open_issues": 1,
       "owner": "weiaicunzai",
       "repo": "awesome-image-classification",
-      "stars": 3063,
+      "stars": 3064,
       "topics": [
         "awesome",
         "awesome-list",
