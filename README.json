@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-20T11:37:05Z",
+                "last_commit": "2026-09-21T11:38:48Z",
                 "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17919,
+                "stars": 17925,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-20T11:37:05Z",
+                "last_commit": "2026-09-21T11:38:48Z",
                 "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17919,
+                "stars": 17925,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6437,
+                "stars": 6438,
                 "topics": [
                   "pytorch"
                 ]
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-20T11:37:05Z",
+                "last_commit": "2026-09-21T11:38:48Z",
                 "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17919,
+                "stars": 17925,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -685,7 +685,7 @@
                 "open_issues": 2,
                 "owner": "xternalz",
                 "repo": "WideResNet-pytorch",
-                "stars": 346,
+                "stars": 347,
                 "topics": [
                   "deep-learning",
                   "residual-networks",
@@ -712,7 +712,7 @@
                 "open_issues": 6,
                 "owner": "asmith26",
                 "repo": "wide_resnets_keras",
-                "stars": 138,
+                "stars": 139,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-20T11:37:05Z",
+                "last_commit": "2026-09-21T11:38:48Z",
                 "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17919,
+                "stars": 17925,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -968,7 +968,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4868,
+                "stars": 4869,
                 "topics": [
                   "deep-learning"
                 ]
@@ -1638,7 +1638,7 @@
                 "open_issues": 47,
                 "owner": "Zehaos",
                 "repo": "MobileNet",
-                "stars": 1658,
+                "stars": 1657,
                 "topics": [
                   "detection",
                   "mobilenets",
@@ -2252,7 +2252,7 @@
                 "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77652,
+                "stars": 77653,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2567,7 +2567,7 @@
                 "open_issues": 42,
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2234,
+                "stars": 2235,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2731,7 +2731,7 @@
                 "open_issues": 42,
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2234,
+                "stars": 2235,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2887,7 +2887,7 @@
                 "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3996,
+                "stars": 3997,
                 "topics": [
                   "automl",
                   "convolutional-networks",
@@ -2966,7 +2966,7 @@
                 "open_issues": 2,
                 "owner": "mit-han-lab",
                 "repo": "proxylessnas",
-                "stars": 1447,
+                "stars": 1448,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -3001,7 +3001,7 @@
                 "open_issues": 46,
                 "owner": "xiaolai-sqlai",
                 "repo": "mobilenetv3",
-                "stars": 1865,
+                "stars": 1864,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3243,7 +3243,7 @@
                 "open_issues": 167,
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8218,
+                "stars": 8217,
                 "topics": [
                   "efficientnet-pytorch",
                   "feature-extraction",
@@ -3325,7 +3325,7 @@
                 "open_issues": 42,
                 "owner": "google-research",
                 "repo": "big_transfer",
-                "stars": 1541,
+                "stars": 1540,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -3482,7 +3482,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4420,
+                "stars": 4419,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3521,7 +3521,7 @@
                 "open_issues": 141,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12717,
+                "stars": 12718,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3570,7 +3570,7 @@
                 "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4350,
+                "stars": 4349,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3721,7 +3721,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4420,
+                "stars": 4419,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T22:44:29.619Z",
+    "last_updated": "2026-09-21T23:41:18.776Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
