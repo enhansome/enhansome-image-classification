@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T11:38:48Z",
+                "last_commit": "2026-09-22T11:38:44Z",
                 "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17925,
+                "stars": 17927,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T11:38:48Z",
+                "last_commit": "2026-09-22T11:38:44Z",
                 "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17925,
+                "stars": 17927,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6438,
+                "stars": 6439,
                 "topics": [
                   "pytorch"
                 ]
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T11:38:48Z",
+                "last_commit": "2026-09-22T11:38:44Z",
                 "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17925,
+                "stars": 17927,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-21T11:38:48Z",
+                "last_commit": "2026-09-22T11:38:44Z",
                 "open_issues": 1223,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17925,
+                "stars": 17927,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -1535,7 +1535,7 @@
                 "open_issues": 0,
                 "owner": "tstandley",
                 "repo": "Xception-PyTorch",
-                "stars": 264,
+                "stars": 263,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2198,7 +2198,7 @@
                 "open_issues": 6,
                 "owner": "Randl",
                 "repo": "MobileNetV2-pytorch",
-                "stars": 281,
+                "stars": 280,
                 "topics": [
                   "cnn",
                   "image-classification",
@@ -2249,10 +2249,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T18:51:07Z",
-                "open_issues": 1271,
+                "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653,
+                "stars": 77651,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2334,7 +2334,7 @@
                 "open_issues": 320,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5279,
+                "stars": 5278,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2966,7 +2966,7 @@
                 "open_issues": 2,
                 "owner": "mit-han-lab",
                 "repo": "proxylessnas",
-                "stars": 1448,
+                "stars": 1449,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -3243,7 +3243,7 @@
                 "open_issues": 167,
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8217,
+                "stars": 8218,
                 "topics": [
                   "efficientnet-pytorch",
                   "feature-extraction",
@@ -3269,7 +3269,7 @@
                 "open_issues": 320,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5279,
+                "stars": 5278,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3521,7 +3521,7 @@
                 "open_issues": 141,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12718,
+                "stars": 12720,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3598,7 +3598,7 @@
                 "open_issues": 42,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1903,
+                "stars": 1904,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3855,7 +3855,7 @@
                 "open_issues": 42,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1903,
+                "stars": 1904,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T23:41:18.776Z",
+    "last_updated": "2026-09-22T23:17:57.034Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
