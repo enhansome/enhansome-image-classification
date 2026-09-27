@@ -17,7 +17,7 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-26T11:36:58Z",
+                "last_commit": "2026-09-27T21:00:20Z",
                 "open_issues": 1227,
                 "owner": "pytorch",
                 "repo": "vision",
@@ -174,7 +174,7 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-26T11:36:58Z",
+                "last_commit": "2026-09-27T21:00:20Z",
                 "open_issues": 1227,
                 "owner": "pytorch",
                 "repo": "vision",
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6443,
+                "stars": 6444,
                 "topics": [
                   "pytorch"
                 ]
@@ -386,7 +386,7 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-26T11:36:58Z",
+                "last_commit": "2026-09-27T21:00:20Z",
                 "open_issues": 1227,
                 "owner": "pytorch",
                 "repo": "vision",
@@ -736,7 +736,7 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-26T11:36:58Z",
+                "last_commit": "2026-09-27T21:00:20Z",
                 "open_issues": 1227,
                 "owner": "pytorch",
                 "repo": "vision",
@@ -2252,7 +2252,7 @@
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77653,
+                "stars": 77654,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3649,
+                "stars": 3650,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -3482,7 +3482,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4420,
+                "stars": 4421,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3721,7 +3721,7 @@
                 "open_issues": 94,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4420,
+                "stars": 4421,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T23:12:03.739Z",
+    "last_updated": "2026-09-27T23:26:02.351Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
