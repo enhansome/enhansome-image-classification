@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-29T13:01:10Z",
-                "open_issues": 1227,
+                "last_commit": "2026-09-30T19:41:39Z",
+                "open_issues": 1230,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17935,
+                "stars": 17937,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-29T13:01:10Z",
-                "open_issues": 1227,
+                "last_commit": "2026-09-30T19:41:39Z",
+                "open_issues": 1230,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17935,
+                "stars": 17937,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -202,7 +202,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2359,
+                "stars": 2360,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6442,
+                "stars": 6441,
                 "topics": [
                   "pytorch"
                 ]
@@ -320,7 +320,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2359,
+                "stars": 2360,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-29T13:01:10Z",
-                "open_issues": 1227,
+                "last_commit": "2026-09-30T19:41:39Z",
+                "open_issues": 1230,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17935,
+                "stars": 17937,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-29T13:01:10Z",
-                "open_issues": 1227,
+                "last_commit": "2026-09-30T19:41:39Z",
+                "open_issues": 1230,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17935,
+                "stars": 17937,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -2362,7 +2362,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3650,
+                "stars": 3648,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -2411,7 +2411,7 @@
                 "open_issues": 15,
                 "owner": "taki0112",
                 "repo": "SENet-Tensorflow",
-                "stars": 755,
+                "stars": 754,
                 "topics": [
                   "densenet",
                   "inception",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T23:58:33.814Z",
+    "last_updated": "2026-10-01T00:12:15.659Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
@@ -3889,7 +3889,7 @@
       "open_issues": 1,
       "owner": "weiaicunzai",
       "repo": "awesome-image-classification",
-      "stars": 3066,
+      "stars": 3067,
       "topics": [
         "awesome",
         "awesome-list",
