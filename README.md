@@ -1,6 +1,6 @@
 # Awesome - Image Classification with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,728 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
 
 A curated list of deep learning image classification papers and codes since 2014, Inspired by [awesome-object-detection](https://github.com/amusi/awesome-object-detection) ⭐ 7,509 | 🐛 7 | 📅 2022-12-17, [deep\_learning\_object\_detection](https://github.com/hoya012/deep_learning_object_detection) ⭐ 11,381 | 🐛 5 | 🌐 Python | 📅 2024-02-12 and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers) ⭐ 26,199 | 🐛 38 | 🌐 TeX | 📅 2024-01-18.
 
@@ -411,7 +411,7 @@ Hanxiao Liu, Karen Simonyan, Oriol Vinyals, Chrisantha Fernando, Koray Kavukcuog
 **Progressive Neural Architecture Search**
 Chenxi Liu, Barret Zoph, Maxim Neumann, Jonathon Shlens, Wei Hua, Li-Jia Li, Li Fei-Fei, Alan Yuille, Jonathan Huang, Kevin Murphy
 
-* code: [tensorflow-slim : https://github.com/tensorflow/models/blob/master/research/slim/nets/nasnet/pnasnet.py](https://github.com/tensorflow/models/blob/master/research/slim/nets/nasnet/pnasnet.py) ⭐ 77,653 | 🐛 1,272 | 🌐 Python | 📅 2026-10-01
+* code: [tensorflow-slim : https://github.com/tensorflow/models/blob/master/research/slim/nets/nasnet/pnasnet.py](https://github.com/tensorflow/models/blob/master/research/slim/nets/nasnet/pnasnet.py) ⭐ 77,653 | 🐛 1,271 | 🌐 Python | 📅 2026-10-01
 * code: [unofficial-pytorch : https://github.com/chenxi116/PNASNet.pytorch](https://github.com/chenxi116/PNASNet.pytorch) ⭐ 321 | 🐛 3 | 🌐 Python | 📅 2022-08-04
 * code: [unofficial-tensorflow : https://github.com/chenxi116/PNASNet.TF](https://github.com/chenxi116/PNASNet.TF) ⭐ 101 | 🐛 3 | 🌐 Python | 📅 2018-12-08
 * pdf: <https://arxiv.org/abs/1712.00559>
@@ -452,7 +452,7 @@ Ningning Ma, Xiangyu Zhang, Hai-Tao Zheng, Jian Sun
 CBAM: Convolutional Block Attention Module
 Sanghyun Woo, Jongchan Park, Joon-Young Lee, In So Kweon
 
-* code: [official-pytorch : https://github.com/Jongchan/attention-module](https://github.com/Jongchan/attention-module) ⭐ 2,235 | 🐛 42 | 🌐 Python | 📅 2023-03-09
+* code: [official-pytorch : https://github.com/Jongchan/attention-module](https://github.com/Jongchan/attention-module) ⭐ 2,236 | 🐛 42 | 🌐 Python | 📅 2023-03-09
 * code: [unofficial-pytorch : https://github.com/luuuyi/CBAM.PyTorch](https://github.com/luuuyi/CBAM.PyTorch) ⭐ 1,504 | 🐛 10 | 🌐 Python | 📅 2023-07-12
 * code: [unofficial-keras : https://github.com/kobiso/CBAM-keras](https://github.com/kobiso/CBAM-keras) ⭐ 366 | 🐛 10 | 🌐 Python | 📅 2021-02-08
 * code: [unofficial-pytorch : https://github.com/elbuco1/CBAM](https://github.com/elbuco1/CBAM) ⭐ 132 | 🐛 2 | 🌐 Python | 📅 2019-10-18
@@ -473,7 +473,7 @@ Ke Sun, Mingjie Li, Dong Liu, Jingdong Wang
 **BAM: Bottleneck Attention Module**
 Jongchan Park, Sanghyun Woo, Joon-Young Lee, In So Kweon
 
-* code: [official-pytorch : https://github.com/Jongchan/attention-module](https://github.com/Jongchan/attention-module) ⭐ 2,235 | 🐛 42 | 🌐 Python | 📅 2023-03-09
+* code: [official-pytorch : https://github.com/Jongchan/attention-module](https://github.com/Jongchan/attention-module) ⭐ 2,236 | 🐛 42 | 🌐 Python | 📅 2023-03-09
 * code: [unofficial-tensorflow : https://github.com/huyz1117/BAM](https://github.com/huyz1117/BAM) ⭐ 12 | 🐛 1 | 🌐 Python | 📅 2019-01-16
 * pdf: <https://arxiv.org/abs/1807.06514>
 

@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "code: torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/vgg.py",
-              "description": null,
+              "description": "pytorch/vision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -32,7 +32,7 @@
             {
               "node_type": "item",
               "title": "code: keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg16.py",
-              "description": null,
+              "description": "keras-team/keras-applications",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -53,7 +53,7 @@
             {
               "node_type": "item",
               "title": "code: keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras_applications/vgg19.py",
-              "description": null,
+              "description": "keras-team/keras-applications",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -81,7 +81,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/conan7882/GoogLeNet-Inception",
-              "description": null,
+              "description": "conan7882/GoogLeNet-Inception",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -109,7 +109,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caffe : https://github.com/lim0606/caffe-googlenet-bn",
-              "description": null,
+              "description": "lim0606/caffe-googlenet-bn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -137,7 +137,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-chainer : https://github.com/nutszebra/prelu_net",
-              "description": null,
+              "description": "nutszebra/prelu_net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -165,7 +165,7 @@
             {
               "node_type": "item",
               "title": "code: torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/resnet.py",
-              "description": null,
+              "description": "pytorch/vision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -189,7 +189,7 @@
             {
               "node_type": "item",
               "title": "code: facebook-torch : https://github.com/facebook/fb.resnet.torch",
-              "description": null,
+              "description": "facebookarchive/fb.resnet.torch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -210,7 +210,7 @@
             {
               "node_type": "item",
               "title": "code: keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnet.py",
-              "description": null,
+              "description": "keras-team/keras-applications",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -231,7 +231,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/ry/tensorflow-resnet",
-              "description": null,
+              "description": "ry/tensorflow-resnet",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -252,7 +252,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/raghakot/keras-resnet",
-              "description": null,
+              "description": "raghakot/keras-resnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -284,7 +284,7 @@
             {
               "node_type": "item",
               "title": "code: unoffical-pytorch : https://github.com/kuangliu/pytorch-cifar/blob/master/models/preact_resnet.py",
-              "description": null,
+              "description": "kuangliu/pytorch-cifar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -307,7 +307,7 @@
             {
               "node_type": "item",
               "title": "code: facebook-torch : https://github.com/facebook/fb.resnet.torch/blob/master/models/preresnet.lua",
-              "description": null,
+              "description": "facebookarchive/fb.resnet.torch",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -328,7 +328,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/KaimingHe/resnet-1k-layers",
-              "description": null,
+              "description": "KaimingHe/resnet-1k-layers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -349,7 +349,7 @@
             {
               "node_type": "item",
               "title": "code: unoffical-mxnet : https://github.com/tornadomeet/ResNet",
-              "description": null,
+              "description": "tornadomeet/ResNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -377,7 +377,7 @@
             {
               "node_type": "item",
               "title": "code: torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/inception.py",
-              "description": null,
+              "description": "pytorch/vision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -401,7 +401,7 @@
             {
               "node_type": "item",
               "title": "code: keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras_applications/inception_v3.py",
-              "description": null,
+              "description": "keras-team/keras-applications",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -429,7 +429,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/kentsommer/keras-inceptionV4",
-              "description": null,
+              "description": "kentsommer/keras-inceptionV4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -450,7 +450,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/titu1994/Inception-v4",
-              "description": null,
+              "description": "titu1994/Inception-v4",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -476,7 +476,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/yuyang-huang/keras-inception-resnet-v2",
-              "description": null,
+              "description": "yuyang-huang/keras-inception-resnet-v2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -508,7 +508,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/SunnerLi/RiR-Tensorflow",
-              "description": null,
+              "description": "SunnerLi/RiR-Tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -529,7 +529,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-chainer : https://github.com/nutszebra/resnet_in_resnet",
-              "description": null,
+              "description": "nutszebra/resnet_in_resnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -557,7 +557,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-torch : https://github.com/yueatsprograms/Stochastic_Depth",
-              "description": null,
+              "description": "yueatsprograms/Stochastic_Depth",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -578,7 +578,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/dblN/stochastic_depth_keras",
-              "description": null,
+              "description": "dblN/stochastic_depth_keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -599,7 +599,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-chainer : https://github.com/yasunorikudo/chainer-ResDrop",
-              "description": null,
+              "description": "yasunorikudo/chainer-ResDrop",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -630,7 +630,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/szagoruyko/wide-residual-networks",
-              "description": null,
+              "description": "szagoruyko/wide-residual-networks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -651,7 +651,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/meliketoy/wide-resnet.pytorch",
-              "description": null,
+              "description": "bmsookim/wide-resnet.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -672,7 +672,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/xternalz/WideResNet-pytorch",
-              "description": null,
+              "description": "xternalz/WideResNet-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -699,7 +699,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/asmith26/wide_resnets_keras",
-              "description": null,
+              "description": "asmith26/wide_resnets_keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -727,7 +727,7 @@
             {
               "node_type": "item",
               "title": "code: torchvision : https://github.com/pytorch/vision/blob/master/torchvision/models/squeezenet.py",
-              "description": null,
+              "description": "pytorch/vision",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -751,7 +751,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caffe : https://github.com/DeepScale/SqueezeNet",
-              "description": null,
+              "description": "forresti/SqueezeNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -772,7 +772,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/rcmalli/keras-squeezenet",
-              "description": null,
+              "description": "rcmalli/keras-squeezenet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -798,7 +798,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caffe : https://github.com/songhan/SqueezeNet-Residual",
-              "description": null,
+              "description": "songhan/SqueezeNet-Residual",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -826,7 +826,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/aqibsaeed/Genetic-CNN",
-              "description": null,
+              "description": "aqibsaeed/Genetic-CNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -860,7 +860,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/bowenbaker/metaqnn",
-              "description": null,
+              "description": "bowenbaker/metaqnn",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -888,7 +888,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/dyhan0920/PyramidNet-PyTorch",
-              "description": null,
+              "description": "dyhan0920/PyramidNet-PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -917,7 +917,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/jhkim89/PyramidNet",
-              "description": null,
+              "description": "jhkim89/PyramidNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -955,7 +955,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/liuzhuang13/DenseNet",
-              "description": null,
+              "description": "liuzhuang13/DenseNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -978,7 +978,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/bamos/densenet.pytorch",
-              "description": null,
+              "description": "bamos/densenet.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1003,7 +1003,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/titu1994/DenseNet",
-              "description": null,
+              "description": "titu1994/DenseNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1031,7 +1031,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/flyyufelix/DenseNet-Keras",
-              "description": null,
+              "description": "flyyufelix/DenseNet-Keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1052,7 +1052,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/YixuanLi/densenet-tensorflow",
-              "description": null,
+              "description": "YixuanLi/densenet-tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1076,7 +1076,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/YixuanLi/densenet-tensorflow",
-              "description": null,
+              "description": "YixuanLi/densenet-tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1100,7 +1100,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caffe : https://github.com/shicai/DenseNet-Caffe",
-              "description": null,
+              "description": "shicai/DenseNet-Caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1134,7 +1134,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/snf/keras-fractalnet",
-              "description": null,
+              "description": "snf/keras-fractalnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1155,7 +1155,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caffe : https://github.com/gustavla/fractalnet",
-              "description": null,
+              "description": "gustavla/fractalnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1176,7 +1176,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/tensorpro/FractalNet",
-              "description": null,
+              "description": "tensorpro/FractalNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1204,7 +1204,7 @@
             {
               "node_type": "item",
               "title": "code: keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras_applications/resnext.py",
-              "description": null,
+              "description": "keras-team/keras-applications",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1225,7 +1225,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/facebookresearch/ResNeXt",
-              "description": null,
+              "description": "facebookresearch/ResNeXt",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1246,7 +1246,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/prlz77/ResNeXt.pytorch",
-              "description": null,
+              "description": "prlz77/ResNeXt.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1272,7 +1272,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/titu1994/Keras-ResNeXt",
-              "description": null,
+              "description": "titu1994/Keras-ResNeXt",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1293,7 +1293,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/taki0112/ResNeXt-Tensorflow",
-              "description": null,
+              "description": "taki0112/ResNeXt-Tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1314,7 +1314,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/wenxinxu/ResNeXt-in-tensorflow",
-              "description": null,
+              "description": "wenxinxu/ResNeXt-in-tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1342,7 +1342,7 @@
             {
               "node_type": "item",
               "title": "code official : https://github.com/hellozting/InterleavedGroupConvolutions",
-              "description": null,
+              "description": "hellozting/InterleavedGroupConvolutions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1370,7 +1370,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/tengshaofeng/ResidualAttentionNetwork-pytorch",
-              "description": null,
+              "description": "tengshaofeng/ResidualAttentionNetwork-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1391,7 +1391,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/fwang91/residual-attention-network",
-              "description": null,
+              "description": "fwang91/residual-attention-network",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1416,7 +1416,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-gluon : https://github.com/PistonY/ResidualAttentionNetwork",
-              "description": null,
+              "description": "DevinXYang/ResidualAttentionNetwork",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1445,7 +1445,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/koichiro11/residual-attention-network",
-              "description": null,
+              "description": "koichiro11/residual-attention-network",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1473,7 +1473,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/jfzhang95/pytorch-deeplab-xception/blob/master/modeling/backbone/xception.py",
-              "description": null,
+              "description": "jfzhang95/pytorch-deeplab-xception",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1501,7 +1501,7 @@
             {
               "node_type": "item",
               "title": "code: keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras_applications/xception.py",
-              "description": null,
+              "description": "keras-team/keras-applications",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1522,7 +1522,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/tstandley/Xception-PyTorch",
-              "description": null,
+              "description": "tstandley/Xception-PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1543,7 +1543,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/kwotsin/TensorFlow-Xception",
-              "description": null,
+              "description": "kwotsin/TensorFlow-Xception",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1571,7 +1571,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caffe : https://github.com/yihui-he/Xception-caffe",
-              "description": null,
+              "description": "ethanhe42/Xception-caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1604,7 +1604,7 @@
             {
               "node_type": "item",
               "title": "code: keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras_applications/mobilenet.py",
-              "description": null,
+              "description": "keras-team/keras-applications",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1625,7 +1625,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/Zehaos/MobileNet",
-              "description": null,
+              "description": "Zehaos/MobileNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1652,7 +1652,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caffe : https://github.com/shicai/MobileNet-Caffe",
-              "description": null,
+              "description": "shicai/MobileNet-Caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1686,7 +1686,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/open-mmlab/polynet",
-              "description": null,
+              "description": "MMLab-CU/polynet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1714,7 +1714,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/cypw/DPNs",
-              "description": null,
+              "description": "cypw/DPNs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1735,7 +1735,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/rwightman/pytorch-dpn-pretrained",
-              "description": null,
+              "description": "rwightman/pytorch-dpn-pretrained",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1756,7 +1756,7 @@
             {
               "node_type": "item",
               "title": "code: unoffical-keras : https://github.com/titu1994/Keras-DualPathNetworks",
-              "description": null,
+              "description": "titu1994/Keras-DualPathNetworks",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1783,7 +1783,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/oyam/pytorch-DPNs",
-              "description": null,
+              "description": "oyam/pytorch-DPNs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1811,7 +1811,7 @@
             {
               "node_type": "item",
               "title": "code unofficial-mxnet : https://github.com/bruinxiong/Modified-CRUNet-and-Residual-Attention-Network.mxnet",
-              "description": null,
+              "description": "bruinxiong/Modified-CRUNet-and-Residual-Attention-Network.mxnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1832,7 +1832,7 @@
             {
               "node_type": "item",
               "title": "code official : https://github.com/cypw/CRU-Net",
-              "description": null,
+              "description": "cypw/CRU-Net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1864,7 +1864,7 @@
         {
           "node_type": "item",
           "title": "code: official-pytorch: https://github.com/ucbdrive/dla",
-          "description": null,
+          "description": "ucbdrive/dla",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1887,7 +1887,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caffe : https://github.com/farmingyard/ShuffleNet",
-              "description": null,
+              "description": "farmingyard/ShuffleNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1912,7 +1912,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/MG2033/ShuffleNet",
-              "description": null,
+              "description": "MG2033/ShuffleNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1941,7 +1941,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/jaxony/ShuffleNet",
-              "description": null,
+              "description": "jaxony/ShuffleNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1968,7 +1968,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/scheckmedia/keras-shufflenet",
-              "description": null,
+              "description": "scheckmedia/keras-shufflenet",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2005,7 +2005,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/ShichenLiu/CondenseNet",
-              "description": null,
+              "description": "ShichenLiu/CondenseNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2030,7 +2030,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/markdtw/condensenet-tensorflow",
-              "description": null,
+              "description": "markdtw/condensenet-tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2058,7 +2058,7 @@
             {
               "node_type": "item",
               "title": "code: keras-applications : https://github.com/keras-team/keras-applications/blob/master/keras_applications/nasnet.py",
-              "description": null,
+              "description": "keras-team/keras-applications",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -2079,7 +2079,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/titu1994/Keras-NASNet",
-              "description": null,
+              "description": "titu1994/Keras-NASNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2104,7 +2104,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/yeephycho/nasnet-tensorflow",
-              "description": null,
+              "description": "yeephycho/nasnet-tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2128,7 +2128,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/wandering007/nasnet-pytorch",
-              "description": null,
+              "description": "wandering007/nasnet-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2159,7 +2159,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/xiaochus/MobileNetV2",
-              "description": null,
+              "description": "xiaochus/MobileNetV2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2185,7 +2185,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/Randl/MobileNetV2-pytorch",
-              "description": null,
+              "description": "Randl/MobileNetV2-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2211,7 +2211,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/neuleaf/MobileNetV2",
-              "description": null,
+              "description": "neuleaf/MobileNetV2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2239,7 +2239,7 @@
             {
               "node_type": "item",
               "title": "code: tensorflow-slim : https://github.com/tensorflow/models/blob/master/research/slim/nets/nasnet/pnasnet.py",
-              "description": null,
+              "description": "tensorflow/models",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2249,7 +2249,7 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-01T16:19:37Z",
-                "open_issues": 1272,
+                "open_issues": 1271,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77653,
@@ -2260,7 +2260,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/chenxi116/PNASNet.pytorch",
-              "description": null,
+              "description": "chenxi116/PNASNet.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2287,7 +2287,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/chenxi116/PNASNet.TF",
-              "description": null,
+              "description": "chenxi116/PNASNet.TF",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2321,7 +2321,7 @@
             {
               "node_type": "item",
               "title": "code: tensorflow-tpu : https://github.com/tensorflow/tpu/tree/master/models/official/amoeba_net",
-              "description": null,
+              "description": "tensorflow/tpu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2349,7 +2349,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/hujie-frank/SENet",
-              "description": null,
+              "description": "hujie-frank/SENet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2374,7 +2374,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/moskomule/senet.pytorch",
-              "description": null,
+              "description": "moskomule/senet.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2398,7 +2398,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/taki0112/SENet-Tensorflow",
-              "description": null,
+              "description": "taki0112/SENet-Tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2426,7 +2426,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caffe : https://github.com/shicai/SENet-Caffe",
-              "description": null,
+              "description": "shicai/SENet-Caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2452,7 +2452,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-mxnet : https://github.com/bruinxiong/SENet.mxnet",
-              "description": null,
+              "description": "bruinxiong/SENet.mxnet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2480,7 +2480,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/Randl/ShuffleNetV2-pytorch",
-              "description": null,
+              "description": "Randl/ShuffleNetV2-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2505,7 +2505,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/opconty/keras-shufflenetV2",
-              "description": null,
+              "description": "opconty/keras-shufflenetV2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2526,7 +2526,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caff2: https://github.com/wolegechu/ShuffleNetV2.Caffe2",
-              "description": null,
+              "description": "wolegechu/ShuffleNetV2.Caffe2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2554,7 +2554,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch : https://github.com/Jongchan/attention-module",
-              "description": null,
+              "description": "Jongchan/attention-module",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2567,7 +2567,7 @@
                 "open_issues": 42,
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2575,7 +2575,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/luuuyi/CBAM.PyTorch",
-              "description": null,
+              "description": "luuuyi/CBAM.PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2596,7 +2596,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/kobiso/CBAM-keras",
-              "description": null,
+              "description": "kobiso/CBAM-keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2617,7 +2617,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/elbuco1/CBAM",
-              "description": null,
+              "description": "elbuco1/CBAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2645,7 +2645,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/homles11/IGCV3",
-              "description": null,
+              "description": "homles11/IGCV3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2669,7 +2669,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/xxradon/IGCV3-pytorch",
-              "description": null,
+              "description": "xxradon/IGCV3-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2690,7 +2690,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/ZHANG-SHI-CHANG/IGCV3",
-              "description": null,
+              "description": "ZHANG-SHI-CHANG/IGCV3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2718,7 +2718,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch : https://github.com/Jongchan/attention-module",
-              "description": null,
+              "description": "Jongchan/attention-module",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2731,7 +2731,7 @@
                 "open_issues": 42,
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2235,
+                "stars": 2236,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2739,7 +2739,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/huyz1117/BAM",
-              "description": null,
+              "description": "huyz1117/BAM",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2771,7 +2771,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/AnjieZheng/MnasNet-PyTorch",
-              "description": null,
+              "description": "AnjieCheng/MnasNet-PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2797,7 +2797,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/Shathe/MNasNet-Keras-Tensorflow",
-              "description": null,
+              "description": "Shathe/MNasNet-Keras-Tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2825,7 +2825,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-MxNet : https://github.com/chinakook/Mnasnet.MXNet",
-              "description": null,
+              "description": "chinakook/Mnasnet.MXNet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2846,7 +2846,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caffe : https://github.com/LiJianfei06/MnasNet-caffe",
-              "description": null,
+              "description": "LiJianfei06/MnasNet-caffe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2874,7 +2874,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/quark0/darts",
-              "description": null,
+              "description": "quark0/darts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2904,7 +2904,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/khanrc/pt.darts",
-              "description": null,
+              "description": "khanrc/pt.darts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2925,7 +2925,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-tensorflow : https://github.com/NeroLoh/darts-tensorflow",
-              "description": null,
+              "description": "NeroLoh/darts-tensorflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2953,7 +2953,7 @@
             {
               "node_type": "item",
               "title": "code: official : https://github.com/mit-han-lab/ProxylessNAS",
-              "description": null,
+              "description": "mit-han-lab/proxylessnas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2988,7 +2988,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/xiaolai-sqlai/mobilenetv3",
-              "description": null,
+              "description": "xiaolai-sqlai/mobilenetv3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3009,7 +3009,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/kuan-wang/pytorch-mobilenet-v3",
-              "description": null,
+              "description": "kuan-wang/pytorch-mobilenet-v3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3037,7 +3037,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/d-li14/mobilenetv3.pytorch",
-              "description": null,
+              "description": "d-li14/mobilenetv3.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3064,7 +3064,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/leaderj1001/MobileNetV3-Pytorch",
-              "description": null,
+              "description": "leaderj1001/MobileNetV3-Pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3092,7 +3092,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/xiaochus/MobileNetV3",
-              "description": null,
+              "description": "xiaochus/MobileNetV3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3117,7 +3117,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-caffe : https://github.com/jixing0415/caffe-mobilenet-v3",
-              "description": null,
+              "description": "jixing0415/caffe-mobilenet-v3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3149,7 +3149,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/4uiiurz1/pytorch-res2net",
-              "description": null,
+              "description": "4uiiurz1/pytorch-res2net",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3174,7 +3174,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-keras : https://github.com/fupiao1998/res2net-keras",
-              "description": null,
+              "description": "MaoYuxin25/res2net-keras",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3202,7 +3202,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch : https://github.com/sebgao/LIP",
-              "description": null,
+              "description": "sebgao/LIP",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3230,7 +3230,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch : https://github.com/lukemelas/EfficientNet-PyTorch",
-              "description": null,
+              "description": "lukemelas/EfficientNet-PyTorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3256,7 +3256,7 @@
             {
               "node_type": "item",
               "title": "code: official-tensorflow : https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet",
-              "description": null,
+              "description": "tensorflow/tpu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3284,7 +3284,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch : https://github.com/facebookresearch/FixRes",
-              "description": null,
+              "description": "facebookresearch/FixRes",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3312,7 +3312,7 @@
             {
               "node_type": "item",
               "title": "code: official-tensorflow: https://github.com/google-research/big_transfer",
-              "description": null,
+              "description": "google-research/big_transfer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3348,7 +3348,7 @@
             {
               "node_type": "item",
               "title": "code: https://github.com/d-li14/PSConv",
-              "description": null,
+              "description": "d-li14/PSConv",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3385,7 +3385,7 @@
             {
               "node_type": "item",
               "title": "code: official-tensorflow: https://github.com/google-research/noisystudent",
-              "description": null,
+              "description": "google-research/noisystudent",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3413,7 +3413,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch: https://github.com/facebookresearch/pycls",
-              "description": null,
+              "description": "facebookresearch/pycls",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3434,7 +3434,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch: https://github.com/d-li14/regnet.pytorch",
-              "description": null,
+              "description": "d-li14/regnet.pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3469,7 +3469,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch: https://github.com/huawei-noah/ghostnet",
-              "description": null,
+              "description": "huawei-noah/Efficient-AI-Backbones",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3508,7 +3508,7 @@
             {
               "node_type": "item",
               "title": "code: official-tensorflow: https://github.com/google-research/vision_transformer",
-              "description": null,
+              "description": "google-research/vision_transformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3529,7 +3529,7 @@
             {
               "node_type": "item",
               "title": "code: unofficial-pytorch: https://github.com/jeonsworld/ViT-pytorch",
-              "description": null,
+              "description": "jeonsworld/ViT-pytorch",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3557,7 +3557,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch: https://github.com/facebookresearch/deit",
-              "description": null,
+              "description": "facebookresearch/deit",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3585,7 +3585,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch: https://github.com/whai362/PVT",
-              "description": null,
+              "description": "whai362/PVT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3620,7 +3620,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch: https://github.com/yitu-opensource/T2T-ViT",
-              "description": null,
+              "description": "yitu-opensource/T2T-ViT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3652,7 +3652,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch: https://github.com/zhoudaquan/dvit_repo",
-              "description": null,
+              "description": "zhoudaquan/dvit_repo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3680,7 +3680,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch: https://github.com/microsoft/vision-longformer",
-              "description": null,
+              "description": "microsoft/vision-longformer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3708,7 +3708,7 @@
             {
               "node_type": "item",
               "title": "code: https://github.com/huawei-noah/CV-Backbones",
-              "description": null,
+              "description": "huawei-noah/Efficient-AI-Backbones",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3747,7 +3747,7 @@
             {
               "node_type": "item",
               "title": "code: https://github.com/microsoft/CvT",
-              "description": null,
+              "description": "microsoft/CvT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3781,7 +3781,7 @@
             {
               "node_type": "item",
               "title": "code: https://github.com/IBM/CrossViT",
-              "description": null,
+              "description": "IBM/CrossViT",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3814,7 +3814,7 @@
             {
               "node_type": "item",
               "title": "code: https://github.com/microsoft/Focal-Transformer",
-              "description": null,
+              "description": "microsoft/Focal-Transformer",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -3842,7 +3842,7 @@
             {
               "node_type": "item",
               "title": "code: official-pytorch: https://github.com/whai362/PVT",
-              "description": null,
+              "description": "whai362/PVT",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:01:26.902Z",
+    "last_updated": "2026-10-03T04:49:33.503Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
