@@ -17,8 +17,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-06T11:50:53Z",
-                "open_issues": 1236,
+                "last_commit": "2026-10-07T15:26:55Z",
+                "open_issues": 1235,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17943,
@@ -45,7 +45,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -66,7 +66,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -174,8 +174,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-06T11:50:53Z",
-                "open_issues": 1236,
+                "last_commit": "2026-10-07T15:26:55Z",
+                "open_issues": 1235,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17943,
@@ -223,7 +223,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6441,
+                "stars": 6440,
                 "topics": [
                   "pytorch"
                 ]
@@ -386,8 +386,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-06T11:50:53Z",
-                "open_issues": 1236,
+                "last_commit": "2026-10-07T15:26:55Z",
+                "open_issues": 1235,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17943,
@@ -414,7 +414,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -736,8 +736,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-06T11:50:53Z",
-                "open_issues": 1236,
+                "last_commit": "2026-10-07T15:26:55Z",
+                "open_issues": 1235,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17943,
@@ -968,7 +968,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4871,
+                "stars": 4870,
                 "topics": [
                   "deep-learning"
                 ]
@@ -1217,7 +1217,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1514,7 +1514,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1617,7 +1617,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2071,7 +2071,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2248,11 +2248,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T16:19:37Z",
+                "last_commit": "2026-10-07T22:41:53Z",
                 "open_issues": 1272,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77656,
+                "stars": 77655,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2630,7 +2630,7 @@
                 "open_issues": 2,
                 "owner": "elbuco1",
                 "repo": "CBAM",
-                "stars": 132,
+                "stars": 133,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3398,7 +3398,7 @@
                 "open_issues": 8,
                 "owner": "google-research",
                 "repo": "noisystudent",
-                "stars": 762,
+                "stars": 761,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3521,7 +3521,7 @@
                 "open_issues": 136,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12733,
+                "stars": 12734,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T00:11:46.794Z",
+    "last_updated": "2026-10-08T00:27:50.556Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
