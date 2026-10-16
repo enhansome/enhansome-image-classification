@@ -17,8 +17,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-15T11:40:13Z",
-                "open_issues": 1235,
+                "last_commit": "2026-10-16T11:39:37Z",
+                "open_issues": 1237,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17956,
@@ -45,7 +45,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -66,7 +66,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -174,8 +174,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-15T11:40:13Z",
-                "open_issues": 1235,
+                "last_commit": "2026-10-16T11:39:37Z",
+                "open_issues": 1237,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17956,
@@ -223,7 +223,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6445,
+                "stars": 6446,
                 "topics": [
                   "pytorch"
                 ]
@@ -386,8 +386,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-15T11:40:13Z",
-                "open_issues": 1235,
+                "last_commit": "2026-10-16T11:39:37Z",
+                "open_issues": 1237,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17956,
@@ -414,7 +414,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -736,8 +736,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-15T11:40:13Z",
-                "open_issues": 1235,
+                "last_commit": "2026-10-16T11:39:37Z",
+                "open_issues": 1237,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17956,
@@ -1217,7 +1217,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1486,7 +1486,7 @@
                 "open_issues": 134,
                 "owner": "jfzhang95",
                 "repo": "pytorch-deeplab-xception",
-                "stars": 2999,
+                "stars": 2998,
                 "topics": [
                   "deeplab-v3-plus",
                   "drn",
@@ -1514,7 +1514,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1617,7 +1617,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2071,7 +2071,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1990,
+                "stars": 1989,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2252,7 +2252,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77645,
+                "stars": 77644,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2567,7 +2567,7 @@
                 "open_issues": 42,
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2236,
+                "stars": 2237,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2731,7 +2731,7 @@
                 "open_issues": 42,
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2236,
+                "stars": 2237,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2887,7 +2887,7 @@
                 "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 4001,
+                "stars": 4000,
                 "topics": [
                   "automl",
                   "convolutional-networks",
@@ -3001,7 +3001,7 @@
                 "open_issues": 46,
                 "owner": "xiaolai-sqlai",
                 "repo": "mobilenetv3",
-                "stars": 1868,
+                "stars": 1869,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3521,7 +3521,7 @@
                 "open_issues": 136,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12745,
+                "stars": 12747,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3598,7 +3598,7 @@
                 "open_issues": 42,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1909,
+                "stars": 1908,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3855,7 +3855,7 @@
                 "open_issues": 42,
                 "owner": "whai362",
                 "repo": "PVT",
-                "stars": 1909,
+                "stars": 1908,
                 "topics": [
                   "backbone",
                   "detection",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T23:20:04.383Z",
+    "last_updated": "2026-10-16T23:03:34.537Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
@@ -3889,7 +3889,7 @@
       "open_issues": 1,
       "owner": "weiaicunzai",
       "repo": "awesome-image-classification",
-      "stars": 3066,
+      "stars": 3065,
       "topics": [
         "awesome",
         "awesome-list",
