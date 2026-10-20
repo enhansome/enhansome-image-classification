@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-19T11:40:55Z",
-                "open_issues": 1240,
+                "last_commit": "2026-10-20T11:40:12Z",
+                "open_issues": 1242,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17960,
+                "stars": 17964,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-19T11:40:55Z",
-                "open_issues": 1240,
+                "last_commit": "2026-10-20T11:40:12Z",
+                "open_issues": 1242,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17960,
+                "stars": 17964,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-19T11:40:55Z",
-                "open_issues": 1240,
+                "last_commit": "2026-10-20T11:40:12Z",
+                "open_issues": 1242,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17960,
+                "stars": 17964,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-19T11:40:55Z",
-                "open_issues": 1240,
+                "last_commit": "2026-10-20T11:40:12Z",
+                "open_issues": 1242,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17960,
+                "stars": 17964,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -1486,7 +1486,7 @@
                 "open_issues": 134,
                 "owner": "jfzhang95",
                 "repo": "pytorch-deeplab-xception",
-                "stars": 2998,
+                "stars": 2999,
                 "topics": [
                   "deeplab-v3-plus",
                   "drn",
@@ -2248,11 +2248,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-13T04:11:20Z",
+                "last_commit": "2026-10-20T17:11:38Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77645,
+                "stars": 77647,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3398,7 +3398,7 @@
                 "open_issues": 8,
                 "owner": "google-research",
                 "repo": "noisystudent",
-                "stars": 761,
+                "stars": 760,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3482,7 +3482,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4424,
+                "stars": 4425,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3542,7 +3542,7 @@
                 "open_issues": 29,
                 "owner": "jeonsworld",
                 "repo": "ViT-pytorch",
-                "stars": 2159,
+                "stars": 2160,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3721,7 +3721,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4424,
+                "stars": 4425,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T23:57:50.297Z",
+    "last_updated": "2026-10-20T23:29:29.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
