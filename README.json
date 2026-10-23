@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-22T18:46:28Z",
+                "last_commit": "2026-10-23T22:29:36Z",
                 "open_issues": 1248,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17967,
+                "stars": 17969,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-22T18:46:28Z",
+                "last_commit": "2026-10-23T22:29:36Z",
                 "open_issues": 1248,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17967,
+                "stars": 17969,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-22T18:46:28Z",
+                "last_commit": "2026-10-23T22:29:36Z",
                 "open_issues": 1248,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17967,
+                "stars": 17969,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-22T18:46:28Z",
+                "last_commit": "2026-10-23T22:29:36Z",
                 "open_issues": 1248,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17967,
+                "stars": 17969,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -1638,7 +1638,7 @@
                 "open_issues": 47,
                 "owner": "Zehaos",
                 "repo": "MobileNet",
-                "stars": 1657,
+                "stars": 1658,
                 "topics": [
                   "detection",
                   "mobilenets",
@@ -2248,11 +2248,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-22T17:38:40Z",
+                "last_commit": "2026-10-23T03:36:49Z",
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77646,
+                "stars": 77649,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2887,7 +2887,7 @@
                 "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3998,
+                "stars": 3997,
                 "topics": [
                   "automl",
                   "convolutional-networks",
@@ -2966,7 +2966,7 @@
                 "open_issues": 2,
                 "owner": "mit-han-lab",
                 "repo": "proxylessnas",
-                "stars": 1450,
+                "stars": 1449,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -3542,7 +3542,7 @@
                 "open_issues": 29,
                 "owner": "jeonsworld",
                 "repo": "ViT-pytorch",
-                "stars": 2161,
+                "stars": 2163,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T23:40:28.344Z",
+    "last_updated": "2026-10-23T23:34:28.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
