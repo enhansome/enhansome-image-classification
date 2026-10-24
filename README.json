@@ -17,8 +17,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-23T22:29:36Z",
-                "open_issues": 1248,
+                "last_commit": "2026-10-24T11:38:04Z",
+                "open_issues": 1249,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17969,
@@ -174,8 +174,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-23T22:29:36Z",
-                "open_issues": 1248,
+                "last_commit": "2026-10-24T11:38:04Z",
+                "open_issues": 1249,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17969,
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6447,
+                "stars": 6446,
                 "topics": [
                   "pytorch"
                 ]
@@ -386,8 +386,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-23T22:29:36Z",
-                "open_issues": 1248,
+                "last_commit": "2026-10-24T11:38:04Z",
+                "open_issues": 1249,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17969,
@@ -736,8 +736,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-23T22:29:36Z",
-                "open_issues": 1248,
+                "last_commit": "2026-10-24T11:38:04Z",
+                "open_issues": 1249,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17969,
@@ -1044,7 +1044,7 @@
                 "open_issues": 15,
                 "owner": "flyyufelix",
                 "repo": "DenseNet-Keras",
-                "stars": 564,
+                "stars": 565,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1147,7 +1147,7 @@
                 "open_issues": 0,
                 "owner": "snf",
                 "repo": "keras-fractalnet",
-                "stars": 156,
+                "stars": 157,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1486,7 +1486,7 @@
                 "open_issues": 134,
                 "owner": "jfzhang95",
                 "repo": "pytorch-deeplab-xception",
-                "stars": 2999,
+                "stars": 2998,
                 "topics": [
                   "deeplab-v3-plus",
                   "drn",
@@ -1638,7 +1638,7 @@
                 "open_issues": 47,
                 "owner": "Zehaos",
                 "repo": "MobileNet",
-                "stars": 1658,
+                "stars": 1657,
                 "topics": [
                   "detection",
                   "mobilenets",
@@ -2362,7 +2362,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3652,
+                "stars": 3653,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -3243,7 +3243,7 @@
                 "open_issues": 167,
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8219,
+                "stars": 8218,
                 "topics": [
                   "efficientnet-pytorch",
                   "feature-extraction",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T23:34:28.064Z",
+    "last_updated": "2026-10-24T22:45:28.358Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
