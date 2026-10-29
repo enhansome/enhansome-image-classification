@@ -17,7 +17,7 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T21:26:01Z",
+                "last_commit": "2026-10-28T16:09:36Z",
                 "open_issues": 1247,
                 "owner": "pytorch",
                 "repo": "vision",
@@ -174,7 +174,7 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T21:26:01Z",
+                "last_commit": "2026-10-28T16:09:36Z",
                 "open_issues": 1247,
                 "owner": "pytorch",
                 "repo": "vision",
@@ -202,7 +202,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2359,
+                "stars": 2358,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -320,7 +320,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2359,
+                "stars": 2358,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -386,7 +386,7 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T21:26:01Z",
+                "last_commit": "2026-10-28T16:09:36Z",
                 "open_issues": 1247,
                 "owner": "pytorch",
                 "repo": "vision",
@@ -736,7 +736,7 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-27T21:26:01Z",
+                "last_commit": "2026-10-28T16:09:36Z",
                 "open_issues": 1247,
                 "owner": "pytorch",
                 "repo": "vision",
@@ -2248,8 +2248,8 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-27T18:26:26Z",
-                "open_issues": 1274,
+                "last_commit": "2026-10-28T13:32:03Z",
+                "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
                 "stars": 77645,
@@ -2387,7 +2387,7 @@
                 "open_issues": 0,
                 "owner": "moskomule",
                 "repo": "senet.pytorch",
-                "stars": 2345,
+                "stars": 2343,
                 "topics": [
                   "pytorch",
                   "senet"
@@ -3243,7 +3243,7 @@
                 "open_issues": 167,
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8219,
+                "stars": 8218,
                 "topics": [
                   "efficientnet-pytorch",
                   "feature-extraction",
@@ -3570,7 +3570,7 @@
                 "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4348,
+                "stars": 4347,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T00:05:16.820Z",
+    "last_updated": "2026-10-29T00:27:48.568Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
@@ -3889,7 +3889,7 @@
       "open_issues": 1,
       "owner": "weiaicunzai",
       "repo": "awesome-image-classification",
-      "stars": 3066,
+      "stars": 3065,
       "topics": [
         "awesome",
         "awesome-list",
