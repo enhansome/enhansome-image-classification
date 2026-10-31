@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-29T17:20:21Z",
+                "last_commit": "2026-10-30T21:22:15Z",
                 "open_issues": 1250,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17974,
+                "stars": 17979,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-29T17:20:21Z",
+                "last_commit": "2026-10-30T21:22:15Z",
                 "open_issues": 1250,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17974,
+                "stars": 17979,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -265,7 +265,7 @@
                 "open_issues": 24,
                 "owner": "raghakot",
                 "repo": "keras-resnet",
-                "stars": 1389,
+                "stars": 1390,
                 "topics": [
                   "deep-learning",
                   "keras",
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-29T17:20:21Z",
+                "last_commit": "2026-10-30T21:22:15Z",
                 "open_issues": 1250,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17974,
+                "stars": 17979,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -643,7 +643,7 @@
                 "open_issues": 24,
                 "owner": "szagoruyko",
                 "repo": "wide-residual-networks",
-                "stars": 1314,
+                "stars": 1315,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-29T17:20:21Z",
+                "last_commit": "2026-10-30T21:22:15Z",
                 "open_issues": 1250,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17974,
+                "stars": 17979,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -764,7 +764,7 @@
                 "open_issues": 7,
                 "owner": "forresti",
                 "repo": "SqueezeNet",
-                "stars": 2221,
+                "stars": 2222,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -968,7 +968,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4872,
+                "stars": 4873,
                 "topics": [
                   "deep-learning"
                 ]
@@ -1238,7 +1238,7 @@
                 "open_issues": 10,
                 "owner": "facebookresearch",
                 "repo": "ResNeXt",
-                "stars": 1927,
+                "stars": 1928,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1638,7 +1638,7 @@
                 "open_issues": 47,
                 "owner": "Zehaos",
                 "repo": "MobileNet",
-                "stars": 1657,
+                "stars": 1659,
                 "topics": [
                   "detection",
                   "mobilenets",
@@ -1665,7 +1665,7 @@
                 "open_issues": 48,
                 "owner": "shicai",
                 "repo": "MobileNet-Caffe",
-                "stars": 1274,
+                "stars": 1275,
                 "topics": [
                   "caffe",
                   "imagenet",
@@ -2248,11 +2248,11 @@
                 "id": 51117837,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T08:21:25Z",
+                "last_commit": "2026-10-30T07:24:38Z",
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77643,
+                "stars": 77642,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3653,
+                "stars": 3654,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -2387,7 +2387,7 @@
                 "open_issues": 0,
                 "owner": "moskomule",
                 "repo": "senet.pytorch",
-                "stars": 2343,
+                "stars": 2344,
                 "topics": [
                   "pytorch",
                   "senet"
@@ -2887,7 +2887,7 @@
                 "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3998,
+                "stars": 3999,
                 "topics": [
                   "automl",
                   "convolutional-networks",
@@ -2966,7 +2966,7 @@
                 "open_issues": 2,
                 "owner": "mit-han-lab",
                 "repo": "proxylessnas",
-                "stars": 1450,
+                "stars": 1451,
                 "topics": [
                   "acceleration",
                   "automl",
@@ -3001,7 +3001,7 @@
                 "open_issues": 46,
                 "owner": "xiaolai-sqlai",
                 "repo": "mobilenetv3",
-                "stars": 1869,
+                "stars": 1868,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3050,7 +3050,7 @@
                 "open_issues": 12,
                 "owner": "d-li14",
                 "repo": "mobilenetv3.pytorch",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "iccv2019",
                   "imagenet",
@@ -3243,7 +3243,7 @@
                 "open_issues": 167,
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8218,
+                "stars": 8219,
                 "topics": [
                   "efficientnet-pytorch",
                   "feature-extraction",
@@ -3325,7 +3325,7 @@
                 "open_issues": 42,
                 "owner": "google-research",
                 "repo": "big_transfer",
-                "stars": 1541,
+                "stars": 1542,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -3542,7 +3542,7 @@
                 "open_issues": 29,
                 "owner": "jeonsworld",
                 "repo": "ViT-pytorch",
-                "stars": 2163,
+                "stars": 2165,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3633,7 +3633,7 @@
                 "open_issues": 24,
                 "owner": "yitu-opensource",
                 "repo": "T2T-ViT",
-                "stars": 1194,
+                "stars": 1195,
                 "topics": [
                   "t2t-transformer",
                   "vision-transformer",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T00:28:01.654Z",
+    "last_updated": "2026-10-31T00:10:40.042Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
@@ -3889,7 +3889,7 @@
       "open_issues": 1,
       "owner": "weiaicunzai",
       "repo": "awesome-image-classification",
-      "stars": 3065,
+      "stars": 3066,
       "topics": [
         "awesome",
         "awesome-list",
