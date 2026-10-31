@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-30T21:22:15Z",
+                "last_commit": "2026-10-31T21:43:08Z",
                 "open_issues": 1250,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17979,
+                "stars": 17982,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-30T21:22:15Z",
+                "last_commit": "2026-10-31T21:43:08Z",
                 "open_issues": 1250,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17979,
+                "stars": 17982,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6448,
+                "stars": 6449,
                 "topics": [
                   "pytorch"
                 ]
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-30T21:22:15Z",
+                "last_commit": "2026-10-31T21:43:08Z",
                 "open_issues": 1250,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17979,
+                "stars": 17982,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-30T21:22:15Z",
+                "last_commit": "2026-10-31T21:43:08Z",
                 "open_issues": 1250,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17979,
+                "stars": 17982,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -2252,7 +2252,7 @@
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77642,
+                "stars": 77639,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3654,
+                "stars": 3653,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -3297,7 +3297,7 @@
                 "open_issues": 5,
                 "owner": "facebookresearch",
                 "repo": "FixRes",
-                "stars": 1043,
+                "stars": 1042,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3325,7 +3325,7 @@
                 "open_issues": 42,
                 "owner": "google-research",
                 "repo": "big_transfer",
-                "stars": 1542,
+                "stars": 1543,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -3482,7 +3482,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4426,
+                "stars": 4425,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3521,7 +3521,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12762,
+                "stars": 12760,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3570,7 +3570,7 @@
                 "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4347,
+                "stars": 4346,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3721,7 +3721,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4426,
+                "stars": 4425,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:10:40.042Z",
+    "last_updated": "2026-10-31T23:48:20.061Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
