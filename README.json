@@ -17,8 +17,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-31T21:43:08Z",
-                "open_issues": 1250,
+                "last_commit": "2026-11-01T11:34:40Z",
+                "open_issues": 1249,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17982,
@@ -174,8 +174,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-31T21:43:08Z",
-                "open_issues": 1250,
+                "last_commit": "2026-11-01T11:34:40Z",
+                "open_issues": 1249,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17982,
@@ -386,8 +386,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-31T21:43:08Z",
-                "open_issues": 1250,
+                "last_commit": "2026-11-01T11:34:40Z",
+                "open_issues": 1249,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17982,
@@ -736,8 +736,8 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-31T21:43:08Z",
-                "open_issues": 1250,
+                "last_commit": "2026-11-01T11:34:40Z",
+                "open_issues": 1249,
                 "owner": "pytorch",
                 "repo": "vision",
                 "stars": 17982,
@@ -2252,7 +2252,7 @@
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77639,
+                "stars": 77637,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3521,7 +3521,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12760,
+                "stars": 12764,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T23:48:20.061Z",
+    "last_updated": "2026-11-01T23:57:39.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
@@ -3889,7 +3889,7 @@
       "open_issues": 1,
       "owner": "weiaicunzai",
       "repo": "awesome-image-classification",
-      "stars": 3066,
+      "stars": 3067,
       "topics": [
         "awesome",
         "awesome-list",
