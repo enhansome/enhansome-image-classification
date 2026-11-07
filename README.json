@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-05T11:35:31Z",
-                "open_issues": 1257,
+                "last_commit": "2026-11-06T11:34:55Z",
+                "open_issues": 1258,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17987,
+                "stars": 17989,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-05T11:35:31Z",
-                "open_issues": 1257,
+                "last_commit": "2026-11-06T11:34:55Z",
+                "open_issues": 1258,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17987,
+                "stars": 17989,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-05T11:35:31Z",
-                "open_issues": 1257,
+                "last_commit": "2026-11-06T11:34:55Z",
+                "open_issues": 1258,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17987,
+                "stars": 17989,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-05T11:35:31Z",
-                "open_issues": 1257,
+                "last_commit": "2026-11-06T11:34:55Z",
+                "open_issues": 1258,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17987,
+                "stars": 17989,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -968,7 +968,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4874,
+                "stars": 4875,
                 "topics": [
                   "deep-learning"
                 ]
@@ -1168,7 +1168,7 @@
                 "open_issues": 5,
                 "owner": "gustavla",
                 "repo": "fractalnet",
-                "stars": 150,
+                "stars": 149,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:10:04.909Z",
+    "last_updated": "2026-11-07T00:25:41.342Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
