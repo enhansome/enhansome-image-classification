@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-06T11:34:55Z",
+                "last_commit": "2026-11-07T11:34:46Z",
                 "open_issues": 1258,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17989,
+                "stars": 17990,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-06T11:34:55Z",
+                "last_commit": "2026-11-07T11:34:46Z",
                 "open_issues": 1258,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17989,
+                "stars": 17990,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-06T11:34:55Z",
+                "last_commit": "2026-11-07T11:34:46Z",
                 "open_issues": 1258,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17989,
+                "stars": 17990,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-06T11:34:55Z",
+                "last_commit": "2026-11-07T11:34:46Z",
                 "open_issues": 1258,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17989,
+                "stars": 17990,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -2252,7 +2252,7 @@
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77634,
+                "stars": 77633,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2887,7 +2887,7 @@
                 "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 3999,
+                "stars": 3998,
                 "topics": [
                   "automl",
                   "convolutional-networks",
@@ -3482,7 +3482,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4427,
+                "stars": 4429,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3521,7 +3521,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12769,
+                "stars": 12770,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3721,7 +3721,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4427,
+                "stars": 4429,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T00:25:41.342Z",
+    "last_updated": "2026-11-08T00:01:39.431Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
@@ -3886,7 +3886,7 @@
       "language": null,
       "license": null,
       "last_commit": "2022-04-20T15:52:51Z",
-      "open_issues": 1,
+      "open_issues": 2,
       "owner": "weiaicunzai",
       "repo": "awesome-image-classification",
       "stars": 3069,
