@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-07T11:34:46Z",
-                "open_issues": 1258,
+                "last_commit": "2026-11-08T11:34:41Z",
+                "open_issues": 1260,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17990,
+                "stars": 17991,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -45,7 +45,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1989,
+                "stars": 1988,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -66,7 +66,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1989,
+                "stars": 1988,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-07T11:34:46Z",
-                "open_issues": 1258,
+                "last_commit": "2026-11-08T11:34:41Z",
+                "open_issues": 1260,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17990,
+                "stars": 17991,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -223,7 +223,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1989,
+                "stars": 1988,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6448,
+                "stars": 6449,
                 "topics": [
                   "pytorch"
                 ]
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-07T11:34:46Z",
-                "open_issues": 1258,
+                "last_commit": "2026-11-08T11:34:41Z",
+                "open_issues": 1260,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17990,
+                "stars": 17991,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -414,7 +414,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1989,
+                "stars": 1988,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-07T11:34:46Z",
-                "open_issues": 1258,
+                "last_commit": "2026-11-08T11:34:41Z",
+                "open_issues": 1260,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17990,
+                "stars": 17991,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -764,7 +764,7 @@
                 "open_issues": 7,
                 "owner": "forresti",
                 "repo": "SqueezeNet",
-                "stars": 2223,
+                "stars": 2224,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1217,7 +1217,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1989,
+                "stars": 1988,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1514,7 +1514,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1989,
+                "stars": 1988,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1617,7 +1617,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1989,
+                "stars": 1988,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2071,7 +2071,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1989,
+                "stars": 1988,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2252,7 +2252,7 @@
                 "open_issues": 1276,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77633,
+                "stars": 77635,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3001,7 +3001,7 @@
                 "open_issues": 46,
                 "owner": "xiaolai-sqlai",
                 "repo": "mobilenetv3",
-                "stars": 1868,
+                "stars": 1869,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3570,7 +3570,7 @@
                 "open_issues": 20,
                 "owner": "facebookresearch",
                 "repo": "deit",
-                "stars": 4346,
+                "stars": 4345,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T00:01:39.431Z",
+    "last_updated": "2026-11-09T00:08:24.586Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
