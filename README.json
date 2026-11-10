@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-08T11:34:41Z",
-                "open_issues": 1260,
+                "last_commit": "2026-11-09T11:35:28Z",
+                "open_issues": 1261,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17991,
+                "stars": 17994,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-08T11:34:41Z",
-                "open_issues": 1260,
+                "last_commit": "2026-11-09T11:35:28Z",
+                "open_issues": 1261,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17991,
+                "stars": 17994,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -362,7 +362,7 @@
                 "open_issues": 19,
                 "owner": "tornadomeet",
                 "repo": "ResNet",
-                "stars": 573,
+                "stars": 574,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-08T11:34:41Z",
-                "open_issues": 1260,
+                "last_commit": "2026-11-09T11:35:28Z",
+                "open_issues": 1261,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17991,
+                "stars": 17994,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-08T11:34:41Z",
-                "open_issues": 1260,
+                "last_commit": "2026-11-09T11:35:28Z",
+                "open_issues": 1261,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17991,
+                "stars": 17994,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -764,7 +764,7 @@
                 "open_issues": 7,
                 "owner": "forresti",
                 "repo": "SqueezeNet",
-                "stars": 2224,
+                "stars": 2225,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -968,7 +968,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4875,
+                "stars": 4871,
                 "topics": [
                   "deep-learning"
                 ]
@@ -1016,7 +1016,7 @@
                 "open_issues": 7,
                 "owner": "titu1994",
                 "repo": "DenseNet",
-                "stars": 710,
+                "stars": 708,
                 "topics": [
                   "bottleneck",
                   "deep-learning",
@@ -1065,7 +1065,7 @@
                 "open_issues": 10,
                 "owner": "YixuanLi",
                 "repo": "densenet-tensorflow",
-                "stars": 563,
+                "stars": 562,
                 "topics": [
                   "densenet",
                   "tensorflow"
@@ -1089,7 +1089,7 @@
                 "open_issues": 10,
                 "owner": "YixuanLi",
                 "repo": "densenet-tensorflow",
-                "stars": 563,
+                "stars": 562,
                 "topics": [
                   "densenet",
                   "tensorflow"
@@ -2249,10 +2249,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-11-02T23:22:42Z",
-                "open_issues": 1276,
+                "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77635,
+                "stars": 77634,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2334,7 +2334,7 @@
                 "open_issues": 319,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5281,
+                "stars": 5282,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3269,7 +3269,7 @@
                 "open_issues": 319,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5281,
+                "stars": 5282,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3542,7 +3542,7 @@
                 "open_issues": 29,
                 "owner": "jeonsworld",
                 "repo": "ViT-pytorch",
-                "stars": 2166,
+                "stars": 2165,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3877,7 +3877,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T00:08:24.586Z",
+    "last_updated": "2026-11-10T02:58:57.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
