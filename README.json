@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-09T11:35:28Z",
-                "open_issues": 1261,
+                "last_commit": "2026-11-10T11:35:18Z",
+                "open_issues": 1266,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17994,
+                "stars": 18000,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-09T11:35:28Z",
-                "open_issues": 1261,
+                "last_commit": "2026-11-10T11:35:18Z",
+                "open_issues": 1266,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17994,
+                "stars": 18000,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -202,7 +202,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2358,
+                "stars": 2359,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6449,
+                "stars": 6450,
                 "topics": [
                   "pytorch"
                 ]
@@ -320,7 +320,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2358,
+                "stars": 2359,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-09T11:35:28Z",
-                "open_issues": 1261,
+                "last_commit": "2026-11-10T11:35:18Z",
+                "open_issues": 1266,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17994,
+                "stars": 18000,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-09T11:35:28Z",
-                "open_issues": 1261,
+                "last_commit": "2026-11-10T11:35:18Z",
+                "open_issues": 1266,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 17994,
+                "stars": 18000,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -2252,7 +2252,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77634,
+                "stars": 77636,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2330,11 +2330,11 @@
                 "id": 96946693,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-06-22T19:40:55Z",
-                "open_issues": 319,
+                "last_commit": "2026-11-10T16:57:34Z",
+                "open_issues": 318,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5282,
+                "stars": 5281,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3243,7 +3243,7 @@
                 "open_issues": 167,
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8217,
+                "stars": 8219,
                 "topics": [
                   "efficientnet-pytorch",
                   "feature-extraction",
@@ -3265,11 +3265,11 @@
                 "id": 96946693,
                 "language": "Jupyter Notebook",
                 "license": "Apache-2.0",
-                "last_commit": "2026-06-22T19:40:55Z",
-                "open_issues": 319,
+                "last_commit": "2026-11-10T16:57:34Z",
+                "open_issues": 318,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5282,
+                "stars": 5281,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3482,7 +3482,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4429,
+                "stars": 4430,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3521,7 +3521,7 @@
                 "open_issues": 137,
                 "owner": "google-research",
                 "repo": "vision_transformer",
-                "stars": 12770,
+                "stars": 12772,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3721,7 +3721,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4429,
+                "stars": 4430,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3775,39 +3775,6 @@
           "description": "CvT: Introducing Convolutions to Vision Transformers Haiping Wu, Bin Xiao, Noel Codella, Mengchen Liu, Xiyang Dai, Lu Yuan, Lei Zhang",
           "node_type": "group",
           "title": "CvT"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "code: https://github.com/IBM/CrossViT",
-              "description": "IBM/CrossViT",
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "Official implementation of CrossViT. https://arxiv.org/abs/2103.14899",
-                "homepage": null,
-                "id": 391188495,
-                "language": "Python",
-                "license": "Apache-2.0",
-                "last_commit": "2022-01-12T15:13:20Z",
-                "open_issues": 7,
-                "owner": "IBM",
-                "repo": "CrossViT",
-                "stars": 417,
-                "topics": [
-                  "computer-vision",
-                  "deep-learning",
-                  "multi-scale-features",
-                  "vision-transformer"
-                ]
-              },
-              "first_seen": "2026-08-28T04:55:10.815Z"
-            }
-          ],
-          "description": "CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification Chun-Fu (Richard) Chen, Quanfu Fan, Rameswar Panda",
-          "node_type": "group",
-          "title": "CViT"
         },
         {
           "children": [
@@ -3877,7 +3844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:58:57.313Z",
+    "last_updated": "2026-11-11T00:55:43.228Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
