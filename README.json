@@ -17,11 +17,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-18T11:35:46Z",
-                "open_issues": 1277,
+                "last_commit": "2026-11-19T11:35:47Z",
+                "open_issues": 1261,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 18018,
+                "stars": 18020,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -45,7 +45,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -66,7 +66,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -174,11 +174,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-18T11:35:46Z",
-                "open_issues": 1277,
+                "last_commit": "2026-11-19T11:35:47Z",
+                "open_issues": 1261,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 18018,
+                "stars": 18020,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -202,7 +202,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2358,
+                "stars": 2355,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -223,7 +223,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -265,7 +265,7 @@
                 "open_issues": 24,
                 "owner": "raghakot",
                 "repo": "keras-resnet",
-                "stars": 1390,
+                "stars": 1389,
                 "topics": [
                   "deep-learning",
                   "keras",
@@ -297,7 +297,7 @@
                 "open_issues": 106,
                 "owner": "kuangliu",
                 "repo": "pytorch-cifar",
-                "stars": 6451,
+                "stars": 6454,
                 "topics": [
                   "pytorch"
                 ]
@@ -320,7 +320,7 @@
                 "open_issues": 60,
                 "owner": "facebookarchive",
                 "repo": "fb.resnet.torch",
-                "stars": 2358,
+                "stars": 2355,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -362,7 +362,7 @@
                 "open_issues": 19,
                 "owner": "tornadomeet",
                 "repo": "ResNet",
-                "stars": 573,
+                "stars": 572,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -386,11 +386,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-18T11:35:46Z",
-                "open_issues": 1277,
+                "last_commit": "2026-11-19T11:35:47Z",
+                "open_issues": 1261,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 18018,
+                "stars": 18020,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -414,7 +414,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -643,7 +643,7 @@
                 "open_issues": 24,
                 "owner": "szagoruyko",
                 "repo": "wide-residual-networks",
-                "stars": 1314,
+                "stars": 1312,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -736,11 +736,11 @@
                 "id": 73328905,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-11-18T11:35:46Z",
-                "open_issues": 1277,
+                "last_commit": "2026-11-19T11:35:47Z",
+                "open_issues": 1261,
                 "owner": "pytorch",
                 "repo": "vision",
-                "stars": 18018,
+                "stars": 18020,
                 "topics": [
                   "computer-vision",
                   "machine-learning"
@@ -764,7 +764,7 @@
                 "open_issues": 7,
                 "owner": "forresti",
                 "repo": "SqueezeNet",
-                "stars": 2225,
+                "stars": 2223,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -968,7 +968,7 @@
                 "open_issues": 30,
                 "owner": "liuzhuang13",
                 "repo": "DenseNet",
-                "stars": 4871,
+                "stars": 4870,
                 "topics": [
                   "deep-learning"
                 ]
@@ -1217,7 +1217,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1238,7 +1238,7 @@
                 "open_issues": 10,
                 "owner": "facebookresearch",
                 "repo": "ResNeXt",
-                "stars": 1928,
+                "stars": 1927,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1383,7 +1383,7 @@
                 "open_issues": 20,
                 "owner": "tengshaofeng",
                 "repo": "ResidualAttentionNetwork-pytorch",
-                "stars": 686,
+                "stars": 685,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1514,7 +1514,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1584,7 +1584,7 @@
                 "open_issues": 3,
                 "owner": "ethanhe42",
                 "repo": "Xception-caffe",
-                "stars": 46,
+                "stars": 45,
                 "topics": [
                   "caffe",
                   "imagenet",
@@ -1617,7 +1617,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1638,7 +1638,7 @@
                 "open_issues": 47,
                 "owner": "Zehaos",
                 "repo": "MobileNet",
-                "stars": 1658,
+                "stars": 1655,
                 "topics": [
                   "detection",
                   "mobilenets",
@@ -1665,7 +1665,7 @@
                 "open_issues": 48,
                 "owner": "shicai",
                 "repo": "MobileNet-Caffe",
-                "stars": 1273,
+                "stars": 1271,
                 "topics": [
                   "caffe",
                   "imagenet",
@@ -1877,7 +1877,7 @@
             "open_issues": 17,
             "owner": "ucbdrive",
             "repo": "dla",
-            "stars": 441,
+            "stars": 440,
             "topics": []
           },
           "first_seen": "2026-08-28T04:55:10.815Z"
@@ -1925,7 +1925,7 @@
                 "open_issues": 10,
                 "owner": "MG2033",
                 "repo": "ShuffleNet",
-                "stars": 382,
+                "stars": 381,
                 "topics": [
                   "classification",
                   "computer-vision",
@@ -2071,7 +2071,7 @@
                 "open_issues": 61,
                 "owner": "keras-team",
                 "repo": "keras-applications",
-                "stars": 1988,
+                "stars": 1987,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2117,7 +2117,7 @@
                 "open_issues": 6,
                 "owner": "yeephycho",
                 "repo": "nasnet-tensorflow",
-                "stars": 135,
+                "stars": 134,
                 "topics": [
                   "nasnet",
                   "tensorflow"
@@ -2172,7 +2172,7 @@
                 "open_issues": 15,
                 "owner": "xiaochus",
                 "repo": "MobileNetV2",
-                "stars": 340,
+                "stars": 339,
                 "topics": [
                   "cnn",
                   "image-classification",
@@ -2252,7 +2252,7 @@
                 "open_issues": 1274,
                 "owner": "tensorflow",
                 "repo": "models",
-                "stars": 77628,
+                "stars": 77630,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2334,7 +2334,7 @@
                 "open_issues": 318,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5282,
+                "stars": 5281,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2362,7 +2362,7 @@
                 "open_issues": 16,
                 "owner": "hujie-frank",
                 "repo": "SENet",
-                "stars": 3656,
+                "stars": 3655,
                 "topics": [
                   "caffe",
                   "gpu",
@@ -2518,7 +2518,7 @@
                 "open_issues": 8,
                 "owner": "opconty",
                 "repo": "keras-shufflenetV2",
-                "stars": 98,
+                "stars": 97,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2567,7 +2567,7 @@
                 "open_issues": 42,
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2235,
+                "stars": 2234,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2731,7 +2731,7 @@
                 "open_issues": 42,
                 "owner": "Jongchan",
                 "repo": "attention-module",
-                "stars": 2235,
+                "stars": 2234,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -2887,7 +2887,7 @@
                 "open_issues": 95,
                 "owner": "quark0",
                 "repo": "darts",
-                "stars": 4000,
+                "stars": 3999,
                 "topics": [
                   "automl",
                   "convolutional-networks",
@@ -3001,7 +3001,7 @@
                 "open_issues": 46,
                 "owner": "xiaolai-sqlai",
                 "repo": "mobilenetv3",
-                "stars": 1870,
+                "stars": 1871,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3243,7 +3243,7 @@
                 "open_issues": 167,
                 "owner": "lukemelas",
                 "repo": "EfficientNet-PyTorch",
-                "stars": 8220,
+                "stars": 8219,
                 "topics": [
                   "efficientnet-pytorch",
                   "feature-extraction",
@@ -3269,7 +3269,7 @@
                 "open_issues": 318,
                 "owner": "tensorflow",
                 "repo": "tpu",
-                "stars": 5282,
+                "stars": 5281,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3325,7 +3325,7 @@
                 "open_issues": 42,
                 "owner": "google-research",
                 "repo": "big_transfer",
-                "stars": 1543,
+                "stars": 1541,
                 "topics": [
                   "convolutional-neural-networks",
                   "deep-learning",
@@ -3398,7 +3398,7 @@
                 "open_issues": 8,
                 "owner": "google-research",
                 "repo": "noisystudent",
-                "stars": 761,
+                "stars": 759,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3482,7 +3482,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4430,
+                "stars": 4429,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3542,7 +3542,7 @@
                 "open_issues": 29,
                 "owner": "jeonsworld",
                 "repo": "ViT-pytorch",
-                "stars": 2164,
+                "stars": 2163,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3633,7 +3633,7 @@
                 "open_issues": 24,
                 "owner": "yitu-opensource",
                 "repo": "T2T-ViT",
-                "stars": 1195,
+                "stars": 1194,
                 "topics": [
                   "t2t-transformer",
                   "vision-transformer",
@@ -3721,7 +3721,7 @@
                 "open_issues": 95,
                 "owner": "huawei-noah",
                 "repo": "Efficient-AI-Backbones",
-                "stars": 4430,
+                "stars": 4429,
                 "topics": [
                   "convolutional-neural-networks",
                   "efficient-inference",
@@ -3794,7 +3794,7 @@
                 "open_issues": 18,
                 "owner": "microsoft",
                 "repo": "Focal-Transformer",
-                "stars": 561,
+                "stars": 560,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:55:10.815Z"
@@ -3844,7 +3844,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:03:45.806Z",
+    "last_updated": "2026-11-20T01:54:51.919Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of deep learning image classification papers and codes",
@@ -3856,7 +3856,7 @@
       "open_issues": 2,
       "owner": "weiaicunzai",
       "repo": "awesome-image-classification",
-      "stars": 3073,
+      "stars": 3072,
       "topics": [
         "awesome",
         "awesome-list",
